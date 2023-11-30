@@ -3,11 +3,11 @@ close all
 %-----------------------------------------------------
 %       Tarefa 3 : Gerar a topologia ou conectividade
 %-----------------------------------------------------
-x=[0 2.5 5 7.5 10 0 2.5 5 7.5 10 0 2.5 5 7.5 10]'
-y=[0 0 0 0 0 1 1 1 1 1 2 2 2 2 2]'
+x=[0 2.5 5 7.5 10 0 2.5 5 7.5 10 0 2.5 5 7.5 10]';
+y=[0 0 0 0 0 1 1 1 1 1 2 2 2 2 2]';
 %
 %   definicao "manual" da malha: teste com 4 TRI-6
-tri6=[1 3 13 2 8 7;1 13 11 7 12 6;3 5 15 4 10 9;3 15 13 9 14 8]
+tri6=[1 3 13 2 8 7;1 13 11 7 12 6;3 5 15 4 10 9;3 15 13 9 14 8];
   
 %   fim da geracao de malha aqui
 %--------------------------------------------------------------------------
@@ -26,19 +26,19 @@ plot(x,y,'ro');
 
 %   fim da visualizacao da malha
 
-he=1.0
-niu=0.25
-E=30.e+6
+he=1.0;
+niu=0.25;
+E=30.e+6;
 %       tensao plana
-cons=E/(1-niu*niu)
-C=cons*[1 niu 0;niu 1 0;0 0 (1-niu)/2]
+cons=E/(1-niu*niu);
+C=cons*[1 niu 0;niu 1 0;0 0 (1-niu)/2];
 
 Nnds =size(x,1);        % numero de nos
 Neqs=2*Nnds;            % numero total de equacoes ou graus de liberdade
 
 %   inicializacao a zeros
-Kg=zeros(Neqs,Neqs)
-fg=zeros(Neqs,1)	% declarado como vector coluna
+Kg=zeros(Neqs,Neqs);
+fg=zeros(Neqs,1)	;% declarado como vector coluna
 
 %	Tarefa 54 : Assemblagem de elementos triangulares de 6-nós
 
@@ -56,39 +56,39 @@ for i=1:Nelt        %   ciclo para os elementos
   XN(1:6,2)=y(edofs);
 
 % --- atencao a isto: dofs em blocos de 2 por cada no -------------------------
-    idof1 = (no1-1)*2+1	 %   endereco do primeiro grau de liberdade deste no1
-    idof2 = (no2-1)*2+1	 %   endereco do primeiro grau de liberdade deste no2
-    idof3 = (no3-1)*2+1  %   endereco do primeiro grau de liberdade deste no3
-    idof4 = (no4-1)*2+1  %   endereco do primeiro grau de liberdade deste no4
-    idof5 = (no5-1)*2+1  %   endereco do primeiro grau de liberdade deste no5
-    idof6 = (no6-1)*2+1  %   endereco do primeiro grau de liberdade deste no6
+    idof1 = (no1-1)*2+1	; %   endereco do primeiro grau de liberdade deste no1
+    idof2 = (no2-1)*2+1	; %   endereco do primeiro grau de liberdade deste no2
+    idof3 = (no3-1)*2+1;  %   endereco do primeiro grau de liberdade deste no3
+    idof4 = (no4-1)*2+1;  %   endereco do primeiro grau de liberdade deste no4
+    idof5 = (no5-1)*2+1;  %   endereco do primeiro grau de liberdade deste no5
+    idof6 = (no6-1)*2+1;  %   endereco do primeiro grau de liberdade deste no6
 % --- atencao a isto: dofs em blocos de 2 por cada no -------------------------
   edofs=[idof1 idof1+1 idof2 idof2+1 idof3 idof3+1 idof4 idof4+1 idof5 ...
-         idof5+1 idof6 idof6+1]  %   guardar estes 12 dofs
+         idof5+1 idof6 idof6+1];  %   guardar estes 12 dofs
 %------------------------------------------------------------------------------
   %     calculos neste elemento i
-  [Ke fe]= Elem_ElasTRI6 (XN,C,he,0)   %#ok<*NCOMMA> % <- carregamento nulo aqui
+  [Ke fe]= Elem_ElasTRI6 (XN,C,he,0);   %#ok<*NCOMMA> % <- carregamento nulo aqui
   %     assemblagem do elemento i
   Kg(edofs,edofs)= Kg(edofs,edofs) + Ke ;  % 
   fg(edofs,1)= fg(edofs,1) + fe    ;       % 
 end %	ciclo for i
 %------------------------------------------------------------------------------
-Kg	%   ver a matriz global e verificar, por favor
+Kg	;%   ver a matriz global e verificar, por favor
 
-fg	%   ver o vector global e verificar, por favor
+fg	;%   ver o vector global e verificar, por favor
 %--------------------------------------------------------------------------
 %   Tarefa 45 : Inserir aqui condicoes de fronteira naturais
 %--------------------------------------------------------------------------
 %	Tracoes aplicadas nos nos
 %       So ha componentes vericais negativas em 3 nos
-no=1
-    idof = (no-1)*2+2	 %   endereco do segundo grau de liberdade deste no
+no=1;
+    idof = (no-1)*2+2	; %   endereco do segundo grau de liberdade deste no
     fg(idof,1)= fg(idof,1) - 50;
-no=6
-    idof = (no-1)*2+2	 %   endereco do segundo grau de liberdade deste no
+no=6;
+    idof = (no-1)*2+2	; %   endereco do segundo grau de liberdade deste no
     fg(idof,1)= fg(idof,1) - 200;
-no=11
-    idof = (no-1)*2+2	 %   endereco do segundo grau de liberdade deste no
+no=11;
+    idof = (no-1)*2+2	; %   endereco do segundo grau de liberdade deste no
     fg(idof,1)= fg(idof,1) - 50;
 %--------------------------------------------------------------------------
 %	Atencao: Guardar uma copia do sistema original antes de o modificar
@@ -104,21 +104,21 @@ fr= fg;
 %--------------------------------------------------------------------------
 boom=1.0e+14;
 %   restringir graus de liberdade u (horizontais)
-no=5
-    idof = (no-1)*2+1	 %   endereco do primeiro grau de liberdade deste no
+no=5;
+    idof = (no-1)*2+1	; %   endereco do primeiro grau de liberdade deste no
     Kr(idof,idof) = boom;
     fr(idof,1)= boom*0;
-no=10
-    idof = (no-1)*2+1	 %   endereco do primeiro grau de liberdade deste no
+no=10;
+    idof = (no-1)*2+1	; %   endereco do primeiro grau de liberdade deste no
     Kr(idof,idof) = boom;
     fr(idof,1)= boom*0;
-no=15
-    idof = (no-1)*2+1	 %   endereco do primeiro grau de liberdade deste no
+no=15;
+    idof = (no-1)*2+1	; %   endereco do primeiro grau de liberdade deste no
     Kr(idof,idof) = boom;
     fr(idof,1)= boom*0;
 %   restringir graus de liberdade v (verticais)
-no=10
-    idof = (no-1)*2+2	 %   endereco do segundo grau de liberdade deste no
+no=10;
+    idof = (no-1)*2+2	; %   endereco do segundo grau de liberdade deste no
     Kr(idof,idof) = boom;
     fr(idof,1)= boom*0;
 %--------------------------------------------------------------------------
@@ -129,21 +129,21 @@ Kr=sparse(Kr);	    %	pode usar-se modo sparso para a matriz global
 %--------------------------------------------------------------------------
 %	solucao do sistema modificado por backslash
 u=Kr\fr ;
-umx=max(u)
+umx=max(u);
 %
 %	Tarefa 47 : calcular a resultante e as reacoes nos apoios
 %
 %   	Verificacao do equilibrio estatico	
 %   	Reacoes nos apoios com o sistema original obtido apos assemblagem
-R = Kg*u-fg
+R = Kg*u-fg;
 %--------------------------------------------------------------------------
 %--------------------------------------------------------------------------
 %   Tarefa 48 : seccao para desenhar a malha de TRI-6 deformada
 %--------------------------------------------------------------------------
 %
 figure
-x1 = x + u(1:2:Neqs,1)*500   %   factor de escala apropriado aqui
-y1 = y + u(2:2:Neqs,1)*500   %   factor de escala apropriado aqui
+x1 = x + u(1:2:Neqs,1)*500;   %   factor de escala apropriado aqui
+y1 = y + u(2:2:Neqs,1)*500;   %   factor de escala apropriado aqui
 plot (x1,y1,'ro'); hold on
 
 for i=1:Nelt
@@ -168,7 +168,7 @@ hold off
 %--------------------------------------------------------------------------
 %   ciclo para os elementos
 for i=1:Nelt
-Delta=zeros(12,1) %#ok<*PREALL>
+Delta=zeros(12,1); %#ok<*PREALL>
     no1=tri6(i,1) ; 
     no2=tri6(i,2) ; 
     no3=tri6(i,3) ; 
@@ -181,23 +181,23 @@ Delta=zeros(12,1) %#ok<*PREALL>
   XN(1:6,2)=y(edofs);
 
 % --- atencao a isto: dofs em blocos de 2 por cada no -------------------------
-    idof1 = (no1-1)*2+1	 %   endereco do primeiro grau de liberdade deste no1
-    idof2 = (no2-1)*2+1	 %   endereco do primeiro grau de liberdade deste no2
-    idof3 = (no3-1)*2+1  %   endereco do primeiro grau de liberdade deste no3
-    idof4 = (no4-1)*2+1  %   endereco do primeiro grau de liberdade deste no4
-    idof5 = (no5-1)*2+1  %   endereco do primeiro grau de liberdade deste no5
-    idof6 = (no6-1)*2+1  %   endereco do primeiro grau de liberdade deste no6
+    idof1 = (no1-1)*2+1	; %   endereco do primeiro grau de liberdade deste no1
+    idof2 = (no2-1)*2+1	; %   endereco do primeiro grau de liberdade deste no2
+    idof3 = (no3-1)*2+1;  %   endereco do primeiro grau de liberdade deste no3
+    idof4 = (no4-1)*2+1;  %   endereco do primeiro grau de liberdade deste no4
+    idof5 = (no5-1)*2+1;  %   endereco do primeiro grau de liberdade deste no5
+    idof6 = (no6-1)*2+1;  %   endereco do primeiro grau de liberdade deste no6
 % --- atencao a isto: dofs em blocos de 2 por cada no -------------------------
   edofs=[idof1 idof1+1 idof2 idof2+1 idof3 idof3+1 idof4 idof4+1 idof5 ...
-         idof5+1 idof6 idof6+1]  %   guardar estes 12 dofs
+         idof5+1 idof6 idof6+1];  %   guardar estes 12 dofs
 %------------------------------------------------------------------------------
-    Delta=u(edofs)	% definir vector local de dofs ja determinados
+    Delta=u(edofs)	;% definir vector local de dofs ja determinados
 %   indicar o centroide
-    csi=1/3
-    eta=1/3
+    csi=1/3;
+    eta=1/3;
   %     Stresses neste elemento i
-[Stress Strain]=Stress_Strain_TRI6 (XN,C,Delta,csi,eta)
-i,Stress(1)
+[Stress Strain]=Stress_Strain_TRI6 (XN,C,Delta,csi,eta);
+i;Stress(1)
 %--------------------------------------------------------------------------
 %	Tarefa 50 : Calcular von Mises Stresses em pontos interiores
 %--------------------------------------------------------------------------
@@ -208,7 +208,7 @@ i,Stress(1)
 %       von Mises Stress para tensao plana
 I1= Stress(1)+Stress(2) ;               %   primeiro invariante
 I2= Stress(1)*Stress(2)-Stress(3)^2  ;  %   segundo invariante
-VMS = sqrt(I1*I1-3*I2)                  %------ von Mises Stress 
+VMS = sqrt(I1*I1-3*I2);                  %------ von Mises Stress 
 %--------------------------------------------------------------------------
 end %	ciclo for i
 %--------------------------------------------------------------------------
