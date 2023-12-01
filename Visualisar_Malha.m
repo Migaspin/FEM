@@ -3,7 +3,7 @@ function Visualisar_Malha(x, y, conectividades)
     figure
 
     % Calcular o numero de elementos
-    Numero_de_elementos = size(conectividades,1) ; 
+    Numero_de_elementos = size(conectividades,1);
     
     % Desenhar todas as conexões entre os nós de cada elemento: 1 -> 4 -> 2 -> 5 -> 3 -> 6 -> 1
     for i = 1:Numero_de_elementos

@@ -40,7 +40,7 @@ Neqs=2*Nnds;            % numero total de equacoes ou graus de liberdade
 Kg=zeros(Neqs,Neqs);
 fg=zeros(Neqs,1)	;% declarado como vector coluna
 
-%	Tarefa 54 : Assemblagem de elementos triangulares de 6-nós
+%	Tarefa 54 : Assemblagem de elementos triangulares de 6-nÃ³s
 
 for i=1:Nelt        %   ciclo para os elementos
     no1=tri6(i,1) ; 
@@ -238,7 +238,7 @@ end
 %----------------------------------------------------------------
 function [Ke, fe]=Elem_ElasTRI6 (XN,C,he,fL) %#ok<*INUSD>
 %   Matriz XN(6,2) contem as coordenadas locais deste TRI de 6 nos
-%   fL - intensidade da força uniforme  
+%   fL - intensidade da forÃ§a uniforme  
 %   inicializar Ke
  Ke = zeros(12,12);
  A = zeros(6,2);	% matriz auxiliar A(6x2) das derivadas parciais das
