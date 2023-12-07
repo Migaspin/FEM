@@ -1,4 +1,4 @@
-function Visualisar_Malha(x, y, conectividades)
+function visualisar_malha_simples(x, y, conectividades)
     % Inicializar o visualisador
     figure
 

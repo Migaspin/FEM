@@ -16,7 +16,7 @@ function [Ke, fe]=Elemento_Triangular_Quadratico (Coordenadas)
         eta = coordenada_de_integracao(i,2);
         
         % Calcular Funções de Forma e as Suas Derivadas e o Jacobiano nos pontos csi e eta
-        [Derivadas_das_Funcoes_de_Forma, Funcoes_de_Forma, Determinante_do_Jacobiano] = Shape_N_Der6 (Coordenadas,csi,eta);
+        [Derivadas_das_Funcoes_de_Forma, ~, Determinante_do_Jacobiano] = Shape_N_Der6 (Coordenadas,csi,eta);
         
         % Calcular a matriz B das derivadas das Funções de Forma
         B=[Derivadas_das_Funcoes_de_Forma(1,1) 0 Derivadas_das_Funcoes_de_Forma(2,1) 0 Derivadas_das_Funcoes_de_Forma(3,1) 0 Derivadas_das_Funcoes_de_Forma(4,1) 0 Derivadas_das_Funcoes_de_Forma(5,1) 0 Derivadas_das_Funcoes_de_Forma(6,1) 0;0 Derivadas_das_Funcoes_de_Forma(1,2) 0 Derivadas_das_Funcoes_de_Forma(2,2)...
