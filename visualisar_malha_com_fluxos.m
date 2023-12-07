@@ -1,4 +1,4 @@
-function visualisar_malha_com_fluxos(x, y, tri6, u)
+function visualisar_malha_com_fluxos(x, y, u, tri6)
     % Inicializar o visualisador
     figure
 
@@ -13,7 +13,7 @@ function visualisar_malha_com_fluxos(x, y, tri6, u)
 
     % Desenhar todas as conexões entre os nós de cada elemento: 1 -> 4 -> 2 -> 5 -> 3 -> 6 -> 1
     for i = 1:Numero_de_elementos
-        nos = [tri6(i, 1) tri6(i, 4) tri6(i, 2) tri6(i, 5) tri6(i, 3) tri6(i, 6) tri6(i, 1)]; 
+        nos = [tri6(i, 1) tri6(i, 4) tri6(i, 2) tri6(i, 5) tri6(i, 3) tri6(i, 6) tri6(i, 1)]; ; 
         plot(x(nos), y(nos), 'b');hold on
         
         no1 = tri6(i,1);
@@ -43,8 +43,8 @@ function visualisar_malha_com_fluxos(x, y, tri6, u)
         d3dy = (x2-x1)/Ae2;
 
         %  Calcular interpolação e derivadas
-        um(i) = -(d1dx*u(no1)+d2dx*u(no2)+d3dx*u(no3));
-        vm(i) = -(d1dy*u(no1)+d2dy*u(no2)+d3dy*u(no3));
+        um(i) = (d1dx*u(no1)+d2dx*u(no2)+d3dx*u(no3));
+        vm(i) = (d1dy*u(no1)+d2dy*u(no2)+d3dy*u(no3));
     end
 
     % Desenhar os nós

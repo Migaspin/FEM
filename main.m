@@ -6,7 +6,7 @@ nos_nome_ficheiro = "NOS.txt";
 
 visualisar_malha_simples(x, y, tri6)
 
-[Kg, fg] = Assemblagem_Triangular_Quadratica(x, y, tri6);
+[Kg, fg] = Assem_TRI6(x, y, tri6);
 
 fg = neumann(selecionar(x, -1900),fg,-2500);
 
@@ -17,4 +17,5 @@ fr = fg;
 
 u = Kr\fr;
 
-visualisar_malha_com_fluxos(x, y, tri6, u)
+visualisar_malha_com_fluxos(x, y, u, tri6)
+visualisar_malha_solucao(x, y, u, tri6)
