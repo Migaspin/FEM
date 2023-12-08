@@ -7,7 +7,6 @@ function [Ke, fe]=Elem_TRI6 (XN,fL)
 %   inicializar Ke e fe
  Ke = zeros(6,6) ;
  fe = zeros(6,1) ;
- C = [1 0 0; 0 1 0; 0 0 0];
 %   gerar pontos de integracao
 nip = 7 ;
 [xp, wp]=GenipT (nip) ;
@@ -26,9 +25,8 @@ wip = wp(ip)*Detj ;
 wipf = fL*wip ;
 %   7) calcular e acumular fe, vector (6x1)
 fe = fe + wipf*psi ;
-B
 %   10) calcular produto B*B' (6x6), pesar e somar a Ke
-Ke = Ke + wip*B*B' ;
+Ke = Ke + wip*(B*B') ;
 %
 end     %   fim de ciclo de integracao
 end     %   fim de funcao

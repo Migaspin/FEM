@@ -1,4 +1,7 @@
 function visualisar_malha_com_fluxos(x, y, u, tri6)
+    x = x/1000;
+    y = y/1000;
+    u = u/1000;
     % Inicializar o visualisador
     figure
 
