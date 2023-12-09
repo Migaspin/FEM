@@ -1,8 +1,4 @@
-function visualisar_malha_solucao(x, y, u, tri)
-    x = x/1000;
-    y = y/1000;
-    u = u/1000;    
-    
+function visualisar_malha_solucao(x, y, u, tri)  
     figure
     Nelt=size(tri,1) ;
     for i=1:Nelt

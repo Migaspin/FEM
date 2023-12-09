@@ -1,10 +1,12 @@
-function fg = neumann(tri, elementos, nos, fg, derivada)
-    vertices = tri(elementos,1:3);
-    for i = 1:length(nos)
-        if numero_de_instancias(vertices,nos(i)) == 1
-            fg(nos(i)) = fg(nos(i)) + derivada / 2;
-        else
-            fg(nos(i)) = fg(nos(i)) + derivada;
-        end
+function fg = neumann(coordenada, nos, fg, derivada)
+    elementos = [coordenada(nos) nos ];
+    elementos = sort(elementos);
+    elementos = [elementos(:,2) elementos(:,1)];
+
+    for i = 1:(length(elementos) - 1)
+        distancia = elementos(i+1, 2) - elementos(i,2);
+        forca = derivada / 2 * distancia;
+        fg(elementos(i,1)) = fg(elementos(i,1)) + forca;
+        fg(elementos(i+1,1)) = fg(elementos(i+1,1)) + forca;
     end
 end
