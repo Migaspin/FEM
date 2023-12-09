@@ -1,7 +1,5 @@
-%elementos_nome_ficheiro = "ELEMENTOS.txt";
-%nos_nome_ficheiro = "NOS.txt";
-elementos_nome_ficheiro = "projetoMComp_elementos_T6.txt";
-nos_nome_ficheiro = "projetoMComp_nos_T6.txt";
+elementos_nome_ficheiro = "ELEMENTOS.txt";
+nos_nome_ficheiro = "NOS.txt";
 
 [x, y, tri] = Gerar_Malha(elementos_nome_ficheiro, nos_nome_ficheiro);
 
@@ -9,7 +7,7 @@ visualisar_malha_simples(x, y, tri)
 
 [Kg, fg] = Assem_TRI6(x, y, tri);
 
-fg = neumann(y, selecionar_nos(x, -1900), fg, 2500);
+fg = neumann(y, selecionar_nos(x, -1900), fg, -2500);
 
 Kr = Kg;
 fr = fg;
