@@ -53,7 +53,7 @@ function visualisar_malha_com_fluxos(x, y, u, tri)
 
     % Desenhar os nós
     plot(x, y, 'ro');
-    
+
     % Desenhar os fluxos
-    quiver(xm,ym,um,vm,'k')
+    set(quiver(xm,ym,um,vm,'k'),'AutoScale','on', 'AutoScaleFactor', 5)
 end
