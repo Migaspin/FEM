@@ -1,4 +1,4 @@
-function visualisar_malha_com_fluxos(x, y, u, tri6)
+function visualisar_malha_com_fluxos(x, y, u, tri)
     x = x/1000;
     y = y/1000;
     u = u/1000;
@@ -6,7 +6,7 @@ function visualisar_malha_com_fluxos(x, y, u, tri6)
     figure
 
     % Calcular o numero de elementos
-    Numero_de_elementos = size(tri6,1);
+    Numero_de_elementos = size(tri,1);
 
     % Inicializar vectores dos centroides e fluxos
     xm = zeros(Numero_de_elementos);
@@ -16,19 +16,23 @@ function visualisar_malha_com_fluxos(x, y, u, tri6)
 
     % Desenhar todas as conexões entre os nós de cada elemento: 1 -> 4 -> 2 -> 5 -> 3 -> 6 -> 1
     for i = 1:Numero_de_elementos
-        nos = [tri6(i, 1) tri6(i, 4) tri6(i, 2) tri6(i, 5) tri6(i, 3) tri6(i, 6) tri6(i, 1)]; ; 
+        if length(tri(1)) == 6
+            nos = [tri(i, 1) tri(i, 4) tri(i, 2) tri(i, 5) tri(i, 3) tri(i, 6) tri(i, 1)];
+        else
+            nos = [tri(i, 1) tri(i, 2) tri(i, 3) tri(i, 1)];
+        end
         plot(x(nos), y(nos), 'b');hold on
         
-        no1 = tri6(i,1);
-        no2 = tri6(i,2);
-        no3 = tri6(i,3);
+        no1 = tri(i,1);
+        no2 = tri(i,2);
+        no3 = tri(i,3);
 
-        x1 = x(tri6(i, 1));
-        x2 = x(tri6(i, 2));
-        x3 = x(tri6(i, 3));
-        y1 = y(tri6(i, 1));
-        y2 = y(tri6(i, 2));
-        y3 = y(tri6(i, 3));
+        x1 = x(tri(i, 1));
+        x2 = x(tri(i, 2));
+        x3 = x(tri(i, 3));
+        y1 = y(tri(i, 1));
+        y2 = y(tri(i, 2));
+        y3 = y(tri(i, 3));
 
         % Calcular centroide
         xm(i) = (x1+x2+x3)/3.;

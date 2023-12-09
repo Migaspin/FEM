@@ -1,16 +1,20 @@
-function visualisar_malha_simples(x, y, conectividades)
+function visualisar_malha_simples(x, y, tri)
     % Inicializar o visualisador
     figure
 
     % Calcular o numero de elementos
-    Numero_de_elementos = size(conectividades,1);
+    Numero_de_elementos = size(tri,1);
     
     % Desenhar todas as conexões entre os nós de cada elemento: 1 -> 4 -> 2 -> 5 -> 3 -> 6 -> 1
     for i = 1:Numero_de_elementos
-        nos = [conectividades(i, 1) conectividades(i, 4) conectividades(i, 2) conectividades(i, 5) conectividades(i, 3) conectividades(i, 6) conectividades(i, 1)]; 
+        if length(tri(1)) == 6
+            nos = [tri(i, 1) tri(i, 4) tri(i, 2) tri(i, 5) tri(i, 3) tri(i, 6) tri(i, 1)];
+        else
+            nos = [tri(i, 1) tri(i, 2) tri(i, 3) tri(i, 1)];
+        end
         plot(x(nos), y(nos), 'b');hold on
     end
 
     % Desenhar os nós
-    plot(x, y, 'ro');
+    plot(x(tri), y(tri), 'ro');
 end
