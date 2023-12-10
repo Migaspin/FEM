@@ -1,7 +1,7 @@
 function fg = neumann(coordenada, nos, fg, derivada)
     elementos = [coordenada(nos) nos ];
     elementos = sort(elementos);
-    elementos = [elementos(:,2) elementos(:,1)];
+    elementos = [elementos(:,2) elementos(:,1)]
 
     for i = 1:(length(elementos) - 1)
         distancia = elementos(i+1, 2) - elementos(i,2);

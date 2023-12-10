@@ -7,6 +7,10 @@ visualisar_malha_simples(x, y, tri)
 
 [Kg, fg] = Assem_TRI6(x, y, tri);
 
+selecionar_nos(x, -1900)
+
+tri(selecionar_elementos(tri, selecionar_nos(x, -1900)),:)
+
 fg = neumann(y, selecionar_nos(x, -1900), fg, -2500);
 
 Kr = Kg;
