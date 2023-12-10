@@ -2,7 +2,7 @@
 %	Tarefa 52 : Funcoes de Forma, Derivadas e Jacobiano para elementos
 %   quadraticos triangulares de 6-nós
 %--------------------------------------------------------------------------
-function [B psi Detj]=Shape_N_Der6 (XN,csi,eta)
+function [B, psi, Dpsi, Detj]=Shape_N_Der6 (XN,csi,eta)
 %----------------------------------------------------------------
 %   Matriz XN(6,2) contem as coordenadas locais deste triangulo de 6 nos
 %----------------------------------------------------------------

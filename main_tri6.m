@@ -12,7 +12,7 @@ visualisar_malha_simples(x, y, tri)
 [Kg, fg] = Assem_TRI6(x, y, tri);
 
 % Aplicação da condição de fronteira de Neumann
-fg = neumann(y, selecionar_nos(x, -1900), fg, 2500);
+fg = neumann_TRI6(y, selecionar_nos(x, -1900), fg, 2500);
 
 % Malha original guardada
 Kr = Kg;
