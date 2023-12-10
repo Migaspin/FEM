@@ -1,32 +1,34 @@
-
-%----------------------------------------------------------------------
-%	Tarefa 53 : Elemento quadrático triangular de 6-nós
-%----------------------------------------------------------------------
 function [Ke, fe]=Elem_TRI6 (XN,fL)
-%   Matriz XN(6,2) contem as coordenadas locais deste triangulo de 6 nos 
-%   inicializar Ke e fe
- Ke = zeros(6,6) ;
- fe = zeros(6,1) ;
-%   gerar pontos de integracao
-nip = 7 ;
-[xp, wp]=GenipT (nip) ;
+    % Calcula a Matriz de Rigidez e o Vector das Forças de um Elemento Triangular Quadrático (6 nós)
 
-%   percorrer os pontos de integracao
-for ip=1:nip
+    % Inicializamos Ke e fe
+     Ke = zeros(6,6);
+     fe = zeros(6,1);
+
+    % Geramos os pontos de integração
+    nip = 7;
+    [xp, wp]=GenipT (nip);
     
-csi = xp(ip,1) ;
-eta = xp(ip,2) ;
-%----------------------------------------------------------------
-[B, psi, Detj]=Shape_N_Der6 (XN,csi,eta) ;
-%----------------------------------------------------------------
-%   5) peso transformado
-wip = wp(ip)*Detj ;
-%   6) ponderacao da carga no elemento
-wipf = fL*wip ;
-%   7) calcular e acumular fe, vector (6x1)
-fe = fe + wipf*psi ;
-%   10) calcular produto B*B' (6x6), pesar e somar a Ke
-Ke = Ke + wip*(B*B') ;
-%
-end     %   fim de ciclo de integracao
-end     %   fim de funcao
+    % Ciclo que percorre os pontos de integração
+    for ip=1:nip
+
+        % Extraimos csi e eta
+        csi = xp(ip,1);
+        eta = xp(ip,2);
+
+        % Calculamos a matriz B, o vector psi, e o determinante da jacobiana
+        [B, psi, Detj] = Shape_N_Der6(XN,csi,eta);
+        
+        % Calculamos o peso
+        wip = wp(ip)*Detj;
+
+        % Ponderamos a Força Local
+        wipf = fL*wip;
+
+        % Atualizamos o Vector da Força
+        fe = fe + wipf*psi;
+
+        % Atualizamos a Matriz de Rigidez
+        Ke = Ke + wip*(B*B');
+    end
+end

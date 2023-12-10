@@ -1,4 +1,4 @@
-function [x, y, conectividades] = Gerar_Malha(elementos_nome_ficheiro, nos_nome_ficheiro)
+function [x, y, conectividades] = gerar_malha(elementos_nome_ficheiro, nos_nome_ficheiro)
     % Definição da Formatação dos dados extraidos
     formatacao = "%c"; "%d";
 
@@ -11,7 +11,7 @@ function [x, y, conectividades] = Gerar_Malha(elementos_nome_ficheiro, nos_nome_
     % Preparar o array
     nos = strings(round((length(nos_bruto) - 12) / 6 + 1),1);
 
-    % Preencher o array
+    % Preenchemos o array
     for i = 11:6:length(nos_bruto)
         nos((i - 11)/6 + 1) = nos_bruto(i);
     end
