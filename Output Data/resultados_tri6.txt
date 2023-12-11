@@ -1,5 +1,5 @@
 ===============
-Simulação de 11-Dec-2023 21:20:36
+Simulação de 11-Dec-2023 22:50:27
 ===============
 Velocidade Máxima:    6394.58 Nó: 223
 Velocidade Mínima:     503.19 Nó: 238
