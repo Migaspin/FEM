@@ -37,4 +37,6 @@ visualisar_malha_com_velocidade(x, y, vx, vy, tri);
 visualisar_pressao(x, y, p, tri);
 visualisar_malha_solucao(x, y, erro, tri)
 
+
+% Extraimos os resultados para análise
 extrair_resultados_TRI6("resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)

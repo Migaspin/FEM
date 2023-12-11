@@ -5,7 +5,8 @@ function extrair_resultados_TRI6(nome_ficheiro, x, y, u, tri, vx, vy, v, vmax, l
     formatacao_cabecalho = "===============\nSimulação de %s\n===============";
     formatacao_extremos = "\nVelocidade Máxima: %10.2f Nó: %i\nVelocidade Mínima: %10.2f Nó: %i\nPressão Máxima: %10.2f Nó: %i\nPressão Mínima: %10.2f Nó: %i\n";
     formatacao_nos = "\n===============\n   ->Nó %i:\nCoordenadas: X =  %10.2f Y = %10.2f\nPotencial:   U = %10.2f";
-    formatacao_elementos = "\n===============\n   ->Elemento %i:\nNós: %i %i %i\nVelocidade: Vx = %10.2f Vy = %10.2f V = %10.2f\nPressão:    P =  %10.2f";
+    formatacao_elementos = "\n===============\n   ->Elemento %i:\nNós: %i %i %i %i %i %i\nVelocidade: Vx = %10.2f Vy = %10.2f V = %10.2f\nPressão:    P =  %10.2f";
+
     
     fprintf(ficheiro, formatacao_cabecalho, data);
 
@@ -16,7 +17,7 @@ function extrair_resultados_TRI6(nome_ficheiro, x, y, u, tri, vx, vy, v, vmax, l
     end
 
     for i  = 1:length(tri)
-        fprintf(ficheiro, formatacao_elementos, i, tri(i,1), tri(i,2), tri(i,3), vx(i), vy(i), v(i), p(i));
+        fprintf(ficheiro, formatacao_elementos, i, tri(i,1), tri(i,2), tri(i,3), tri(i,4), tri(i,5), tri(i,6), vx(i), vy(i), v(i), p(i));
     end
 
     fclose(ficheiro);
