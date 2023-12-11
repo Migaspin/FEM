@@ -1,6 +1,9 @@
+% Adicionar diretorio com código auxiliar
+addpath(genpath("libraries"))
+
 % Nomes dos ficheiros com os dados para a malha
-elementos_nome_ficheiro = "ELEMENTOS.txt";
-nos_nome_ficheiro = "NOS.txt";
+elementos_nome_ficheiro = "Input Data\ELEMENTOS.txt";
+nos_nome_ficheiro = "Input Data\NOS.txt";
 
 % Geração da malha a partir dos ficheiros
 [x, y, tri] = gerar_malha(elementos_nome_ficheiro, nos_nome_ficheiro);
@@ -39,4 +42,4 @@ visualisar_malha_solucao(x, y, erro, tri)
 
 
 % Extraimos os resultados para análise
-extrair_resultados_TRI6("resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
+extrair_resultados_TRI6("Output Data\resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)

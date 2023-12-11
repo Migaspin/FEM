@@ -1,6 +1,9 @@
+% Adicionar diretorio com código auxiliar
+addpath(genpath("libraries"))
+
 % Nomes dos ficheiros com os dados para a malha
-elementos_nome_ficheiro = "projetoMComp_elementos_T3.txt";
-nos_nome_ficheiro = "projetoMComp_nos_T3.txt";
+elementos_nome_ficheiro = "Input Data\projetoMComp_elementos_T3.txt";
+nos_nome_ficheiro = "Input Data\projetoMComp_nos_T3.txt";
 
 % Geração da malha a partir dos ficheiros
 [x, y, tri] = gerar_malha(elementos_nome_ficheiro, nos_nome_ficheiro);
@@ -34,4 +37,4 @@ visualisar_pressao(x, y, p, tri);
 
 
 % Extraimos os resultados para análise
-extrair_resultados_TRI("resultados_tri3.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
+extrair_resultados_TRI("Output Data\resultados_tri3.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
