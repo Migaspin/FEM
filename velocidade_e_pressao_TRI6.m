@@ -14,10 +14,12 @@ function [vx, vy, v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pm
     for i = 1:Numero_de_elementos
 
         % Calculamos as derivadas parciais das funções de forma
-        [~, ~, dPsi, ~] = Shape_N_Der6([x(tri(i,:)), y(tri(i,:))],1/3, 1/3);
+        [B, ~, ~] = Shape_N_Der6 ([x(tri(i,:)), y(tri(i,:))],1/3,1/3) ;
 
-        vx(i) = dPsi(1,1)*u(tri(i,1))+dPsi(2,1)*u(tri(i,2))+dPsi(3,1)*u(tri(i,3))+dPsi(4,1)*u(tri(i,4))+dPsi(5,1)*u(tri(i,5))+dPsi(6,1)*u(tri(i,6));
-        vy(i) = dPsi(1,2)*u(tri(i,1))+dPsi(2,2)*u(tri(i,2))+dPsi(3,2)*u(tri(i,3))+dPsi(4,2)*u(tri(i,4))+dPsi(5,2)*u(tri(i,5))+dPsi(6,2)*u(tri(i,6));
+        gradiente = B'*u(tri(i,:));
+
+        vx(i) = gradiente(1,:);
+        vy(i) = gradiente(2,:);
     end
 
     % Calculamos a velocidade absoluta, maxima, e minima
@@ -28,7 +30,7 @@ function [vx, vy, v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pm
     local_vmin = find(v==vmin);
     
     % Calculamos a pressão, maxima e minima
-    p = p0 + 0.5 * ro * (v_inicial^2) - 0.5 * ro * v.^2;
+    p = p0 + 0.5 * ro * (v_inicial^2) - 0.5 * ro * (v./1000).^2;
     pmax = max(p);
     local_pmax = find(p == pmax);
     pmin = min(p);

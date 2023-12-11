@@ -46,7 +46,7 @@ function [vx, vy, v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pm
     local_vmin = find(v==vmin);
     
     % Calculamos a pressão, maxima e minima
-    p = p0 + 0.5 * ro * (v_inicial^2) - 0.5 * ro * v.^2;
+    p = p0 + 0.5 * ro * (v_inicial^2) - 0.5 * ro * (v./1000).^2;
     pmax = max(p);
     local_pmax = find(p == pmax);
     pmin = min(p);

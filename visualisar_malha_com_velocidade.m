@@ -1,4 +1,4 @@
-function visualisar_malha_com_velocidades(x, y, vx, vy, tri)
+function visualisar_malha_com_velocidade(x, y, vx, vy, tri)
     % Inicializamos o visualisador
     figure
 
@@ -23,5 +23,5 @@ function visualisar_malha_com_velocidades(x, y, vx, vy, tri)
     plot(x(tri), y(tri), 'ro');
 
     % Desenhamos os fluxos
-    set(quiver(xm, ym, vx, vy,'k'),'AutoScale','on', 'AutoScaleFactor', 5)
+    quiver(xm, ym, vx, vy,'k')
 end

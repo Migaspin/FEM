@@ -17,7 +17,7 @@ function [Ke, fe]=Elem_TRI6 (XN,fL)
         eta = xp(ip,2);
 
         % Calculamos a matriz B, o vector psi, e o determinante da jacobiana
-        [B, psi, ~, Detj] = Shape_N_Der6(XN,csi,eta);
+        [B, psi, Detj] = Shape_N_Der6(XN,csi,eta);
         
         % Calculamos o peso
         wip = wp(ip)*Detj;
