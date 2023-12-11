@@ -1,6 +1,5 @@
 function extrair_resultados_TRI(nome_ficheiro, x, y, u, tri, vx, vy, v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
     ficheiro = fopen(nome_ficheiro, "a");
-
     data = string(datetime("now"));
     
     formatacao_cabecalho = "===============\nSimulação de %s\n===============";

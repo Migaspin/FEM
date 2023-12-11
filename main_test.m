@@ -43,3 +43,4 @@ visualisar_malha_solucao(x, y, erro, tri)
 
 % Extraimos os resultados para análise
 extrair_resultados_TRI6("Output Data\resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
+extrair_erro("Output Data\resultados_test.txt", erro)
