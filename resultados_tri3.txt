@@ -1,3313 +1,572 @@
 ===============
-Simulação de 11-Dec-2023 00:44:09
+Simulação de 11-Dec-2023 13:54:55
 ===============
-Velocidade Máxima: 5255.55 Nó: 56
-Velocidade Mínima: 734.39 Nó: 138
-Pressão Máxima: 104180.34 Nó: 138
-Pressão Mínima: 90639.59 Nó: 56
+Velocidade Máxima:    5250.85 Nó: 56
+Velocidade Mínima:     729.93 Nó: 138
+Pressão Máxima:  104183.60 Nó: 138
+Pressão Mínima:   90664.30 Nó: 56
 
 ===============
    ->Nó 1:
-Coordenadas: X =  2.00 Y =  3.00
-Potencial: U =  4.00
-Velocidade: Vx =  5.00 Vy =  6.00 V =  7.00
-Pressão: P =  8.00
+Coordenadas: X =    -1800.00 Y =       0.00
+Potencial:   U = -10125187.89
+===============
+   ->Nó 2:
+Coordenadas: X =      100.00 Y =    -350.00
+Potencial:   U = -4778236.69
+===============
+   ->Nó 3:
+Coordenadas: X =     -600.00 Y =     -50.00
+Potencial:   U = -7260553.10
+===============
+   ->Nó 4:
+Coordenadas: X =     -100.00 Y =     350.00
+Potencial:   U = -5594249.49
+===============
+   ->Nó 5:
+Coordenadas: X =      613.09 Y =      50.00
+Potencial:   U = -3089799.64
+===============
+   ->Nó 6:
+Coordenadas: X =     1800.00 Y =       0.00
+Potencial:   U = -249540.92
+===============
+   ->Nó 7:
+Coordenadas: X =      123.06 Y =     585.43
+Potencial:   U = -4785128.16
+===============
+   ->Nó 8:
+Coordenadas: X =     -155.30 Y =    -590.67
+Potencial:   U = -5708908.18
 ===============
    ->Nó 9:
-Coordenadas: X = 10.00 Y = 11.00
-Potencial: U = 12.00
-Velocidade: Vx = 13.00 Vy = 14.00 V = 15.00
-Pressão: P = 16.00
+Coordenadas: X =     -225.37 Y =     137.82
+Potencial:   U = -5860737.23
+===============
+   ->Nó 10:
+Coordenadas: X =      637.81 Y =     591.12
+Potencial:   U = -3124076.84
+===============
+   ->Nó 11:
+Coordenadas: X =      665.29 Y =     388.70
+Potencial:   U = -2990660.85
+===============
+   ->Nó 12:
+Coordenadas: X =      655.11 Y =     198.94
+Potencial:   U = -2954118.02
+===============
+   ->Nó 13:
+Coordenadas: X =      434.73 Y =     586.11
+Potencial:   U = -3701027.61
+===============
+   ->Nó 14:
+Coordenadas: X =      278.71 Y =     543.57
+Potencial:   U = -4198447.07
+===============
+   ->Nó 15:
+Coordenadas: X =      506.20 Y =     432.06
+Potencial:   U = -3382060.50
+===============
+   ->Nó 16:
+Coordenadas: X =     1521.51 Y =    -540.63
+Potencial:   U = -961429.78
 ===============
    ->Nó 17:
-Coordenadas: X = 18.00 Y = 19.00
-Potencial: U = 20.00
-Velocidade: Vx = 21.00 Vy = 22.00 V = 23.00
-Pressão: P = 24.00
+Coordenadas: X =     1664.52 Y =    -273.65
+Potencial:   U = -593286.90
+===============
+   ->Nó 18:
+Coordenadas: X =      228.38 Y =    -138.37
+Potencial:   U = -4500876.08
+===============
+   ->Nó 19:
+Coordenadas: X =       88.50 Y =       9.18
+Potencial:   U = -5007350.97
+===============
+   ->Nó 20:
+Coordenadas: X =      -88.27 Y =      -8.73
+Potencial:   U = -5363059.98
+===============
+   ->Nó 21:
+Coordenadas: X =      -16.26 Y =     151.93
+Potencial:   U = -5372533.87
+===============
+   ->Nó 22:
+Coordenadas: X =       16.63 Y =    -151.86
+Potencial:   U = -4997561.99
+===============
+   ->Nó 23:
+Coordenadas: X =     1658.67 Y =     249.47
+Potencial:   U = -597757.09
+===============
+   ->Nó 24:
+Coordenadas: X =     1505.70 Y =     514.33
+Potencial:   U = -972438.19
 ===============
    ->Nó 25:
-Coordenadas: X = 26.00 Y = 27.00
-Potencial: U = 28.00
-Velocidade: Vx = 29.00 Vy = 30.00 V = 31.00
-Pressão: P = 32.00
+Coordenadas: X =      192.86 Y =    -563.19
+Potencial:   U = -4572253.99
+===============
+   ->Nó 26:
+Coordenadas: X =        8.62 Y =    -536.46
+Potencial:   U = -5118584.41
+===============
+   ->Nó 27:
+Coordenadas: X =      326.28 Y =    -344.83
+Potencial:   U = -4165545.76
+===============
+   ->Nó 28:
+Coordenadas: X =      433.10 Y =    -152.34
+Potencial:   U = -3833698.79
+===============
+   ->Nó 29:
+Coordenadas: X =      958.54 Y =    -555.21
+Potencial:   U = -2420023.34
+===============
+   ->Nó 30:
+Coordenadas: X =      834.30 Y =    -321.13
+Potencial:   U = -2717008.81
+===============
+   ->Nó 31:
+Coordenadas: X =      728.31 Y =    -112.58
+Potencial:   U = -2929055.93
+===============
+   ->Nó 32:
+Coordenadas: X =     1512.45 Y =     -25.25
+Potencial:   U = -967256.44
 ===============
    ->Nó 33:
-Coordenadas: X = 34.00 Y = 35.00
-Potencial: U = 36.00
-Velocidade: Vx = 37.00 Vy = 38.00 V = 39.00
-Pressão: P = 40.00
+Coordenadas: X =     1352.99 Y =     217.98
+Potencial:   U = -1352786.90
+===============
+   ->Nó 34:
+Coordenadas: X =     1155.20 Y =     479.12
+Potencial:   U = -1831696.64
+===============
+   ->Nó 35:
+Coordenadas: X =     1096.44 Y =    -310.48
+Potencial:   U = -2034363.58
+===============
+   ->Nó 36:
+Coordenadas: X =     1374.84 Y =    -292.58
+Potencial:   U = -1324981.35
+===============
+   ->Nó 37:
+Coordenadas: X =     1231.96 Y =    -550.04
+Potencial:   U = -1704337.53
+===============
+   ->Nó 38:
+Coordenadas: X =     1224.75 Y =     -58.82
+Potencial:   U = -1684706.05
+===============
+   ->Nó 39:
+Coordenadas: X =     1059.01 Y =     153.05
+Potencial:   U = -2070421.48
+===============
+   ->Nó 40:
+Coordenadas: X =      863.26 Y =     307.82
+Potencial:   U = -2525352.15
 ===============
    ->Nó 41:
-Coordenadas: X = 42.00 Y = 43.00
-Potencial: U = 44.00
-Velocidade: Vx = 45.00 Vy = 46.00 V = 47.00
-Pressão: P = 48.00
+Coordenadas: X =      866.48 Y =     559.42
+Potencial:   U = -2539839.69
+===============
+   ->Nó 42:
+Coordenadas: X =      957.83 Y =     -94.41
+Potencial:   U = -2350233.94
+===============
+   ->Nó 43:
+Coordenadas: X =      810.27 Y =      83.48
+Potencial:   U = -2658966.94
+===============
+   ->Nó 44:
+Coordenadas: X =      432.74 Y =    -561.89
+Potencial:   U = -3877090.32
+===============
+   ->Nó 45:
+Coordenadas: X =      574.18 Y =    -307.48
+Potencial:   U = -3430762.78
+===============
+   ->Nó 46:
+Coordenadas: X =      571.08 Y =    -101.96
+Potencial:   U = -3342296.67
+===============
+   ->Nó 47:
+Coordenadas: X =      692.94 Y =    -557.47
+Potencial:   U = -3140279.38
+===============
+   ->Nó 48:
+Coordenadas: X =     -739.30 Y =    -590.12
+Potencial:   U = -7517607.95
 ===============
    ->Nó 49:
-Coordenadas: X = 50.00 Y = 51.00
-Potencial: U = 52.00
-Velocidade: Vx = 53.00 Vy = 54.00 V = 55.00
-Pressão: P = 56.00
+Coordenadas: X =     -684.74 Y =    -386.41
+Potencial:   U = -7434874.84
+===============
+   ->Nó 50:
+Coordenadas: X =     -616.07 Y =    -207.36
+Potencial:   U = -7352423.26
+===============
+   ->Nó 51:
+Coordenadas: X =     -535.37 Y =    -526.55
+Potencial:   U = -7002239.30
+===============
+   ->Nó 52:
+Coordenadas: X =     -349.55 Y =    -597.41
+Potencial:   U = -6404375.09
+===============
+   ->Nó 53:
+Coordenadas: X =     -503.72 Y =    -364.04
+Potencial:   U = -7044991.38
+===============
+   ->Nó 54:
+Coordenadas: X =     -393.46 Y =    -453.66
+Potencial:   U = -6652980.70
+===============
+   ->Nó 55:
+Coordenadas: X =    -1660.26 Y =    -255.89
+Potencial:   U = -9786864.12
+===============
+   ->Nó 56:
+Coordenadas: X =    -1509.74 Y =    -525.02
+Potencial:   U = -9419986.42
 ===============
    ->Nó 57:
-Coordenadas: X = 58.00 Y = 59.00
-Potencial: U = 60.00
-Velocidade: Vx = 61.00 Vy = 62.00 V = 63.00
-Pressão: P = 64.00
+Coordenadas: X =    -1520.18 Y =     538.94
+Potencial:   U = -9400056.86
+===============
+   ->Nó 58:
+Coordenadas: X =    -1663.64 Y =     271.09
+Potencial:   U = -9771904.70
+===============
+   ->Nó 59:
+Coordenadas: X =     -125.90 Y =     550.56
+Potencial:   U = -5601547.87
+===============
+   ->Nó 60:
+Coordenadas: X =     -308.37 Y =     339.60
+Potencial:   U = -6154066.78
+===============
+   ->Nó 61:
+Coordenadas: X =     -425.11 Y =     149.59
+Potencial:   U = -6510039.44
+===============
+   ->Nó 62:
+Coordenadas: X =     -951.38 Y =     549.99
+Potencial:   U = -7931204.67
+===============
+   ->Nó 63:
+Coordenadas: X =     -814.80 Y =     306.30
+Potencial:   U = -7606169.24
+===============
+   ->Nó 64:
+Coordenadas: X =     -696.06 Y =     100.79
+Potencial:   U = -7365978.91
 ===============
    ->Nó 65:
-Coordenadas: X = 66.00 Y = 67.00
-Potencial: U = 68.00
-Velocidade: Vx = 69.00 Vy = 70.00 V = 71.00
-Pressão: P = 72.00
+Coordenadas: X =    -1083.91 Y =     292.12
+Potencial:   U = -8306255.63
+===============
+   ->Nó 66:
+Coordenadas: X =    -1370.97 Y =     282.12
+Potencial:   U = -9035367.55
+===============
+   ->Nó 67:
+Coordenadas: X =    -1227.90 Y =     544.06
+Potencial:   U = -8653547.45
+===============
+   ->Nó 68:
+Coordenadas: X =    -1218.16 Y =      27.05
+Potencial:   U = -8675070.91
+===============
+   ->Nó 69:
+Coordenadas: X =    -1356.88 Y =    -244.84
+Potencial:   U = -9035325.98
+===============
+   ->Nó 70:
+Coordenadas: X =    -1511.72 Y =      13.27
+Potencial:   U = -9405254.17
+===============
+   ->Nó 71:
+Coordenadas: X =    -1173.59 Y =    -519.43
+Potencial:   U = -8592125.38
+===============
+   ->Nó 72:
+Coordenadas: X =    -1063.21 Y =    -222.78
+Potencial:   U = -8319464.34
 ===============
    ->Nó 73:
-Coordenadas: X = 74.00 Y = 75.00
-Potencial: U = 76.00
-Velocidade: Vx = 77.00 Vy = 78.00 V = 79.00
-Pressão: P = 80.00
+Coordenadas: X =     -899.08 Y =    -425.82
+Potencial:   U = -7928920.14
+===============
+   ->Nó 74:
+Coordenadas: X =     -938.11 Y =    -627.67
+Potencial:   U = -8011306.55
+===============
+   ->Nó 75:
+Coordenadas: X =     -917.75 Y =      31.40
+Potencial:   U = -7937962.17
+===============
+   ->Nó 76:
+Coordenadas: X =     -725.63 Y =     -69.36
+Potencial:   U = -7522776.89
+===============
+   ->Nó 77:
+Coordenadas: X =     -815.74 Y =    -216.83
+Potencial:   U = -7744459.68
+===============
+   ->Nó 78:
+Coordenadas: X =     -415.39 Y =     557.91
+Potencial:   U = -6443568.73
+===============
+   ->Nó 79:
+Coordenadas: X =     -557.56 Y =     300.34
+Potencial:   U = -6894089.97
+===============
+   ->Nó 80:
+Coordenadas: X =     -557.78 Y =      97.17
+Potencial:   U = -6995181.77
 ===============
    ->Nó 81:
-Coordenadas: X = 82.00 Y = 83.00
-Potencial: U = 84.00
-Velocidade: Vx = 85.00 Vy = 86.00 V = 87.00
-Pressão: P = 88.00
+Coordenadas: X =     -682.72 Y =     552.07
+Potencial:   U = -7202541.06
+===============
+   ->Nó 82:
+Coordenadas: X =    -1900.00 Y =    -533.33
+Potencial:   U = -10390982.94
+===============
+   ->Nó 83:
+Coordenadas: X =    -1900.00 Y =    -266.67
+Potencial:   U = -10384894.10
+===============
+   ->Nó 84:
+Coordenadas: X =    -1900.00 Y =       0.00
+Potencial:   U = -10375104.11
+===============
+   ->Nó 85:
+Coordenadas: X =    -1900.00 Y =     266.67
+Potencial:   U = -10364122.53
+===============
+   ->Nó 86:
+Coordenadas: X =    -1900.00 Y =     533.33
+Potencial:   U = -10355771.75
+===============
+   ->Nó 87:
+Coordenadas: X =     -526.90 Y =    -119.46
+Potencial:   U = -7261105.06
+===============
+   ->Nó 88:
+Coordenadas: X =     -457.38 Y =    -247.55
+Potencial:   U = -7104484.25
 ===============
    ->Nó 89:
-Coordenadas: X = 90.00 Y = 91.00
-Potencial: U = 92.00
-Velocidade: Vx = 93.00 Vy = 94.00 V = 95.00
-Pressão: P = 96.00
+Coordenadas: X =     -348.37 Y =    -356.76
+Potencial:   U = -6661463.32
+===============
+   ->Nó 90:
+Coordenadas: X =     -219.71 Y =    -426.65
+Potencial:   U = -6000211.71
+===============
+   ->Nó 91:
+Coordenadas: X =      -88.10 Y =    -412.34
+Potencial:   U = -5306115.93
+===============
+   ->Nó 92:
+Coordenadas: X =      -73.14 Y =    -280.89
+Potencial:   U = -5065978.39
+===============
+   ->Nó 93:
+Coordenadas: X =     -143.27 Y =    -151.60
+Potencial:   U = -5260521.71
+===============
+   ->Nó 94:
+Coordenadas: X =     -252.74 Y =     -42.42
+Potencial:   U = -5717651.91
+===============
+   ->Nó 95:
+Coordenadas: X =     -380.55 Y =      26.90
+Potencial:   U = -6306019.46
+===============
+   ->Nó 96:
+Coordenadas: X =     1628.57 Y =    -800.00
+Potencial:   U = -690878.25
 ===============
    ->Nó 97:
-Coordenadas: X = 98.00 Y = 99.00
-Potencial: U = 100.00
-Velocidade: Vx = 101.00 Vy = 102.00 V = 103.00
-Pressão: P = 104.00
+Coordenadas: X =     1357.14 Y =    -800.00
+Potencial:   U = -1386455.15
+===============
+   ->Nó 98:
+Coordenadas: X =     1085.71 Y =    -800.00
+Potencial:   U = -2092840.43
+===============
+   ->Nó 99:
+Coordenadas: X =      814.29 Y =    -800.00
+Potencial:   U = -2819090.97
+===============
+   ->Nó 100:
+Coordenadas: X =      542.86 Y =    -800.00
+Potencial:   U = -3573657.88
+===============
+   ->Nó 101:
+Coordenadas: X =      271.43 Y =    -800.00
+Potencial:   U = -4359348.38
+===============
+   ->Nó 102:
+Coordenadas: X =        0.00 Y =    -800.00
+Potencial:   U = -5198207.73
+===============
+   ->Nó 103:
+Coordenadas: X =     -271.43 Y =    -800.00
+Potencial:   U = -6112275.24
+===============
+   ->Nó 104:
+Coordenadas: X =     -542.86 Y =    -800.00
+Potencial:   U = -6959027.92
 ===============
    ->Nó 105:
-Coordenadas: X = 106.00 Y = 107.00
-Potencial: U = 108.00
-Velocidade: Vx = 109.00 Vy = 110.00 V = 111.00
-Pressão: P = 112.00
+Coordenadas: X =     -814.29 Y =    -800.00
+Potencial:   U = -7693483.49
+===============
+   ->Nó 106:
+Coordenadas: X =    -1085.71 Y =    -800.00
+Potencial:   U = -8374547.55
+===============
+   ->Nó 107:
+Coordenadas: X =    -1357.14 Y =    -800.00
+Potencial:   U = -9044897.65
+===============
+   ->Nó 108:
+Coordenadas: X =    -1628.57 Y =    -800.00
+Potencial:   U = -9717210.40
+===============
+   ->Nó 109:
+Coordenadas: X =    -1628.57 Y =     800.00
+Potencial:   U = -9669877.65
+===============
+   ->Nó 110:
+Coordenadas: X =    -1357.14 Y =     800.00
+Potencial:   U = -8979351.78
+===============
+   ->Nó 111:
+Coordenadas: X =    -1085.71 Y =     800.00
+Potencial:   U = -8275632.78
+===============
+   ->Nó 112:
+Coordenadas: X =     -814.29 Y =     800.00
+Potencial:   U = -7550690.88
 ===============
    ->Nó 113:
-Coordenadas: X = 114.00 Y = 115.00
-Potencial: U = 116.00
-Velocidade: Vx = 117.00 Vy = 118.00 V = 119.00
-Pressão: P = 120.00
+Coordenadas: X =     -542.86 Y =     800.00
+Potencial:   U = -6796344.19
+===============
+   ->Nó 114:
+Coordenadas: X =     -271.43 Y =     800.00
+Potencial:   U = -6009724.23
+===============
+   ->Nó 115:
+Coordenadas: X =        0.00 Y =     800.00
+Potencial:   U = -5171418.01
+===============
+   ->Nó 116:
+Coordenadas: X =      271.43 Y =     800.00
+Potencial:   U = -4265951.88
+===============
+   ->Nó 117:
+Coordenadas: X =      542.86 Y =     800.00
+Potencial:   U = -3416047.69
+===============
+   ->Nó 118:
+Coordenadas: X =      814.29 Y =     800.00
+Potencial:   U = -2684997.08
+===============
+   ->Nó 119:
+Coordenadas: X =     1085.71 Y =     800.00
+Potencial:   U = -2005720.58
+===============
+   ->Nó 120:
+Coordenadas: X =     1357.14 Y =     800.00
+Potencial:   U = -1337172.58
 ===============
    ->Nó 121:
-Coordenadas: X = 122.00 Y = 123.00
-Potencial: U = 124.00
-Velocidade: Vx = 125.00 Vy = 126.00 V = 127.00
-Pressão: P = 128.00
+Coordenadas: X =     1628.57 Y =     800.00
+Potencial:   U = -669050.80
+===============
+   ->Nó 122:
+Coordenadas: X =       73.10 Y =     280.54
+Potencial:   U = -5303385.54
+===============
+   ->Nó 123:
+Coordenadas: X =      142.62 Y =     152.45
+Potencial:   U = -5112089.71
+===============
+   ->Nó 124:
+Coordenadas: X =      251.63 Y =      43.24
+Potencial:   U = -4657435.80
+===============
+   ->Nó 125:
+Coordenadas: X =      380.29 Y =     -26.65
+Potencial:   U = -4066172.14
+===============
+   ->Nó 126:
+Coordenadas: X =      511.90 Y =     -12.34
+Potencial:   U = -3409794.62
+===============
+   ->Nó 127:
+Coordenadas: X =      526.86 Y =     119.11
+Potencial:   U = -3116948.34
+===============
+   ->Nó 128:
+Coordenadas: X =      456.73 Y =     248.40
+Potencial:   U = -3286761.36
 ===============
    ->Nó 129:
-Coordenadas: X = 130.00 Y = 131.00
-Potencial: U = 132.00
-Velocidade: Vx = 133.00 Vy = 134.00 V = 135.00
-Pressão: P = 136.00
+Coordenadas: X =      347.26 Y =     357.58
+Potencial:   U = -3732201.04
+===============
+   ->Nó 130:
+Coordenadas: X =      219.45 Y =     426.90
+Potencial:   U = -4369831.77
+===============
+   ->Nó 131:
+Coordenadas: X =     1900.00 Y =     533.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 132:
+Coordenadas: X =     1900.00 Y =     266.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 133:
+Coordenadas: X =     1900.00 Y =       0.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 134:
+Coordenadas: X =     1900.00 Y =    -266.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 135:
+Coordenadas: X =     1900.00 Y =    -533.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 136:
+Coordenadas: X =    -1900.00 Y =    -800.00
+Potencial:   U = -10393339.95
 ===============
    ->Nó 137:
-Coordenadas: X = 138.00 Y = 139.00
-Potencial: U = 140.00
-Velocidade: Vx = 141.00 Vy = -1800.00 V = 100.00
-Pressão: P = -600.00
-===============
-   ->Nó -100:
-Coordenadas: X = 613.09 Y = 1800.00
-Potencial: U = 123.06
-Velocidade: Vx = -155.30 Vy = -225.37 V = 637.81
-Pressão: P = 665.29
-===============
-   ->Nó 6.551099e+02:
-Coordenadas: X = 434.73 Y = 278.71
-Potencial: U = 506.20
-Velocidade: Vx = 1521.51 Vy = 1664.52 V = 228.38
-Pressão: P = 88.50
-===============
-   ->Nó -8.827300e+01:
-Coordenadas: X = -16.26 Y = 16.63
-Potencial: U = 1658.67
-Velocidade: Vx = 1505.70 Vy = 192.86 V =  8.62
-Pressão: P = 326.28
-===============
-   ->Nó 4.330954e+02:
-Coordenadas: X = 958.54 Y = 834.30
-Potencial: U = 728.31
-Velocidade: Vx = 1512.45 Vy = 1352.99 V = 1155.20
-Pressão: P = 1096.44
-===============
-   ->Nó 1.374841e+03:
-Coordenadas: X = 1231.96 Y = 1224.75
-Potencial: U = 1059.01
-Velocidade: Vx = 863.26 Vy = 866.48 V = 957.83
-Pressão: P = 810.27
-===============
-   ->Nó 4.327448e+02:
-Coordenadas: X = 574.18 Y = 571.08
-Potencial: U = 692.94
-Velocidade: Vx = -739.30 Vy = -684.74 V = -616.07
-Pressão: P = -535.37
-===============
-   ->Nó -3.495524e+02:
-Coordenadas: X = -503.72 Y = -393.46
-Potencial: U = -1660.26
-Velocidade: Vx = -1509.74 Vy = -1520.18 V = -1663.64
-Pressão: P = -125.90
-===============
-   ->Nó -3.083740e+02:
-Coordenadas: X = -425.11 Y = -951.38
-Potencial: U = -814.80
-Velocidade: Vx = -696.06 Vy = -1083.91 V = -1370.97
-Pressão: P = -1227.90
-===============
-   ->Nó -1.218157e+03:
-Coordenadas: X = -1356.88 Y = -1511.72
-Potencial: U = -1173.59
-Velocidade: Vx = -1063.21 Vy = -899.08 V = -938.11
-Pressão: P = -917.75
-===============
-   ->Nó -7.256310e+02:
-Coordenadas: X = -815.74 Y = -415.39
-Potencial: U = -557.56
-Velocidade: Vx = -557.78 Vy = -682.72 V = -1900.00
-Pressão: P = -1900.00
-===============
-   ->Nó -1900:
-Coordenadas: X = -1900.00 Y = -1900.00
-Potencial: U = -526.90
-Velocidade: Vx = -457.38 Vy = -348.37 V = -219.71
-Pressão: P = -88.10
-===============
-   ->Nó -7.313820e+01:
-Coordenadas: X = -143.27 Y = -252.74
-Potencial: U = -380.55
-Velocidade: Vx = 1628.57 Vy = 1357.14 V = 1085.71
-Pressão: P = 814.29
-===============
-   ->Nó 5.428571e+02:
-Coordenadas: X = 271.43 Y =  0.00
-Potencial: U = -271.43
-Velocidade: Vx = -542.86 Vy = -814.29 V = -1085.71
-Pressão: P = -1357.14
-===============
-   ->Nó -1.628571e+03:
-Coordenadas: X = -1628.57 Y = -1357.14
-Potencial: U = -1085.71
-Velocidade: Vx = -814.29 Vy = -542.86 V = -271.43
-Pressão: P =  0.00
-===============
-   ->Nó 2.714286e+02:
-Coordenadas: X = 542.86 Y = 814.29
-Potencial: U = 1085.71
-Velocidade: Vx = 1357.14 Vy = 1628.57 V = 73.10
-Pressão: P = 142.62
-===============
-   ->Nó 2.516271e+02:
-Coordenadas: X = 380.29 Y = 511.90
-Potencial: U = 526.86
-Velocidade: Vx = 456.73 Vy = 347.26 V = 219.45
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 1900.00 Y = 1900.00
-Potencial: U = 1900.00
-Velocidade: Vx = -1900.00 Vy = -1900.00 V = -512.13
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 87.87 Y =  0.00
-Potencial: U = -350.00
-Velocidade: Vx = -50.00 Vy = 350.00 V = 50.00
-Pressão: P =  0.00
-===============
-   ->Nó 5.854322e+02:
-Coordenadas: X = -590.67 Y = 137.82
-Potencial: U = 591.12
-Velocidade: Vx = 388.70 Vy = 198.94 V = 586.11
-Pressão: P = 543.57
-===============
-   ->Nó 4.320637e+02:
-Coordenadas: X = -540.63 Y = -273.65
-Potencial: U = -138.37
-Velocidade: Vx =  9.18 Vy = -8.73 V = 151.93
-Pressão: P = -151.86
-===============
-   ->Nó 2.494704e+02:
-Coordenadas: X = 514.33 Y = -563.19
-Potencial: U = -536.46
-Velocidade: Vx = -344.83 Vy = -152.34 V = -555.21
-Pressão: P = -321.13
-===============
-   ->Nó -1.125800e+02:
-Coordenadas: X = -25.25 Y = 217.98
-Potencial: U = 479.12
-Velocidade: Vx = -310.48 Vy = -292.58 V = -550.04
-Pressão: P = -58.82
-===============
-   ->Nó 1.530495e+02:
-Coordenadas: X = 307.82 Y = 559.42
-Potencial: U = -94.41
-Velocidade: Vx = 83.48 Vy = -561.89 V = -307.48
-Pressão: P = -101.96
-===============
-   ->Nó -5.574747e+02:
-Coordenadas: X = -590.12 Y = -386.41
-Potencial: U = -207.36
-Velocidade: Vx = -526.55 Vy = -597.41 V = -364.04
-Pressão: P = -453.66
-===============
-   ->Nó -2.558917e+02:
-Coordenadas: X = -525.02 Y = 538.94
-Potencial: U = 271.09
-Velocidade: Vx = 550.56 Vy = 339.60 V = 149.59
-Pressão: P = 549.99
-===============
-   ->Nó 3.062999e+02:
-Coordenadas: X = 100.79 Y = 292.12
-Potencial: U = 282.12
-Velocidade: Vx = 544.06 Vy = 27.05 V = -244.84
-Pressão: P = 13.27
-===============
-   ->Nó -5.194341e+02:
-Coordenadas: X = -222.78 Y = -425.82
-Potencial: U = -627.67
-Velocidade: Vx = 31.40 Vy = -69.36 V = -216.83
-Pressão: P = 557.91
-===============
-   ->Nó 3.003367e+02:
-Coordenadas: X = 97.17 Y = 552.07
-Potencial: U = -533.33
-Velocidade: Vx = -266.67 Vy =  0.00 V = 266.67
-Pressão: P = 533.33
-===============
-   ->Nó -1.194632e+02:
-Coordenadas: X = -247.55 Y = -356.76
-Potencial: U = -426.65
-Velocidade: Vx = -412.34 Vy = -280.89 V = -151.60
-Pressão: P = -42.42
-===============
-   ->Nó 2.690090e+01:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = -800.00
-Pressão: P = -800.00
-===============
-   ->Nó -800:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 800.00
-Velocidade: Vx = 800.00 Vy = 800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 280.54
-Velocidade: Vx = 152.45 Vy = 43.24 V = -26.65
-Pressão: P = -12.34
-===============
-   ->Nó 1.191133e+02:
-Coordenadas: X = 248.40 Y = 357.58
-Potencial: U = 426.90
-Velocidade: Vx = 533.33 Vy = 266.67 V =  0.00
-Pressão: P = -266.67
-===============
-   ->Nó -5.333333e+02:
-Coordenadas: X = -800.00 Y = 800.00
-Potencial: U = 12.13
-Velocidade: Vx = -800.00 Vy = 800.00 V = 412.13
-Pressão: P = -10109658.14
-===============
-   ->Nó -4.778716e+06:
-Coordenadas: X = -7260545.11 Y = -5593424.10
-Potencial: U = -3089781.72
-Velocidade: Vx = -249540.93 Vy = -4784398.44 V = -5710351.51
-Pressão: P = -5860051.64
-===============
-   ->Nó -3.123794e+06:
-Coordenadas: X = -2990454.53 Y = -2954006.72
-Potencial: U = -3700605.18
-Velocidade: Vx = -4197893.40 Vy = -3381748.09 V = -961466.00
-Pressão: P = -593299.86
-===============
-   ->Nó -4.501005e+06:
-Coordenadas: X = -5007201.21 Y = -5362761.20
-Potencial: U = -5372057.94
-Velocidade: Vx = -4997640.47 Vy = -597744.81 V = -972400.98
-Pressão: P = -4572905.24
-===============
-   ->Nó -5.119528e+06:
-Coordenadas: X = -4165876.42 Y = -3833845.99
-Potencial: U = -2420164.09
-Velocidade: Vx = -2717130.59 Vy = -2929118.76 V = -967258.69
-Pressão: P = -1352759.27
-===============
-   ->Nó -1.831611e+06:
-Coordenadas: X = -2034432.07 Y = -1325015.59
-Potencial: U = -1704415.33
-Velocidade: Vx = -1684716.59 Vy = -2070382.85 V = -2525240.83
-Pressão: P = -2539667.03
-===============
-   ->Nó -2.350265e+06:
-Coordenadas: X = -2658934.80 Y = -3877492.41
-Potencial: U = -3430959.24
-Velocidade: Vx = -3342384.18 Vy = -3140520.54 V = -7521596.90
-Pressão: P = -7437293.68
-===============
-   ->Nó -7.353542e+06:
-Coordenadas: X = -7004871.81 Y = -6406446.63
-Potencial: U = -7046973.32
-Velocidade: Vx = -6655031.03 Vy = -9769537.91 V = -9430199.24
-Pressão: P = -9392761.06
-===============
-   ->Nó -9.762361e+06:
-Coordenadas: X = -5600524.57 Y = -6152978.70
-Potencial: U = -6509131.83
-Velocidade: Vx = -7927635.88 Vy = -7603847.38 V = -7364950.73
-Pressão: P = -8302409.73
-===============
-   ->Nó -9.028907e+06:
-Coordenadas: X = -8648264.49 Y = -8671295.05
-Potencial: U = -9033152.15
-Velocidade: Vx = -9396190.41 Vy = -8599755.80 V = -8320078.80
-Pressão: P = -7932527.72
-===============
-   ->Nó -8.017606e+06:
-Coordenadas: X = -7936573.25 Y = -7522774.85
-Potencial: U = -7745590.44
-Velocidade: Vx = -6442000.85 Vy = -6892617.16 V = -6994356.83
-Pressão: P = -7200187.30
-===============
-   ->Nó -1.030200e+07:
-Coordenadas: X = -10350194.12 Y = -10358679.83
-Potencial: U = -10353252.44
-Velocidade: Vx = -10347021.59 Vy = -7261699.10 V = -7106056.06
-Pressão: P = -6663375.09
-===============
-   ->Nó -6.001779e+06:
-Coordenadas: X = -5307055.38 Y = -5066354.48
-Potencial: U = -5260425.96
-Velocidade: Vx = -5717176.73 Vy = -6305309.03 V = -690906.77
-Pressão: P = -1386520.75
-===============
-   ->Nó -2.092962e+06:
-Coordenadas: X = -2819303.23 Y = -3574022.09
-Potencial: U = -4359977.64
-Velocidade: Vx = -5199317.19 Vy = -6114168.35 V = -6962124.16
-Pressão: P = -7698748.64
-===============
-   ->Nó -8.385607e+06:
-Coordenadas: X = -9070987.45 Y = -9802522.32
-Potencial: U = -9662448.05
-Velocidade: Vx = -8973272.44 Vy = -8271168.12 V = -7547629.33
-Pressão: P = -6794304.14
-===============
-   ->Nó -6.008363e+06:
-Coordenadas: X = -5170506.99 Y = -4265358.18
-Potencial: U = -3415684.46
-Velocidade: Vx = -2684783.24 Vy = -2005596.68 V = -1337104.77
-Pressão: P = -669021.55
-===============
-   ->Nó -5.302786e+06:
-Coordenadas: X = -5111779.28 Y = -4657394.01
-Potencial: U = -4066259.54
-Velocidade: Vx = -3409847.37 Vy = -3116863.09 V = -3286530.53
-Pressão: P = -3731800.92
-===============
-   ->Nó -4.369250e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U =  0.00
-Velocidade: Vx =  0.00 Vy =  0.00 V = -10723245.25
-Pressão: P = -10344073.68
-===============
-   ->Nó -6.963228e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U = -5058227.06
-Velocidade: Vx = 1924.81 Vy = 3334.76 V = 3130.38
-Pressão: P = 3725.85
-===============
-   ->Nó 3.234101e+03:
-Coordenadas: X = 3662.80 Y = 3517.23
-Potencial: U = 4534.69
-Velocidade: Vx = 2842.89 Vy = 2692.79 V = 2159.62
-Pressão: P = 2858.64
-===============
-   ->Nó 2.367581e+03:
-Coordenadas: X = 2605.86 Y = 2798.67
-Potencial: U = 852.05
-Velocidade: Vx = 1606.78 Vy = 1559.97 V = 2562.79
-Pressão: P = 2519.23
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.15
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.90 Vy = 2493.47 V = 1640.14
-Pressão: P = 2342.29
-===============
-   ->Nó 2.320290e+03:
-Coordenadas: X = 1481.94 Y = 1642.61
-Potencial: U = 2113.24
-Velocidade: Vx = 2391.67 Vy = 2410.47 V = 2498.66
-Pressão: P = 1642.45
-===============
-   ->Nó 2.352648e+03:
-Coordenadas: X = 2288.28 Y = 1466.61
-Potencial: U = 1641.28
-Velocidade: Vx = 2112.97 Vy = 2388.01 V = 2417.83
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.35 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.70 V = 3092.30
-Pressão: P = 2996.59
-===============
-   ->Nó 3.542674e+03:
-Coordenadas: X = 2630.24 Y = 3017.51
-Potencial: U = 5247.86
-Velocidade: Vx = 3263.20 Vy = 2462.86 V = 2451.52
-Pressão: P = 2449.20
-===============
-   ->Nó 2.468816e+03:
-Coordenadas: X = 2494.09 Y = 2466.66
-Potencial: U = 2494.44
-Velocidade: Vx = 2617.36 Vy = 2565.43 V = 2602.68
-Pressão: P = 2524.23
-===============
-   ->Nó 2.564210e+03:
-Coordenadas: X = 2544.18 Y = 2599.87
-Potencial: U = 2615.86
-Velocidade: Vx = 2488.34 Vy = 2523.42 V = 2542.13
-Pressão: P = 2486.97
-===============
-   ->Nó 2.438191e+03:
-Coordenadas: X = 2424.27 Y = 2510.32
-Potencial: U = 2502.27
-Velocidade: Vx = 2547.38 Vy = 2449.14 V = 2353.70
-Pressão: P = 2427.86
-===============
-   ->Nó 2.596112e+03:
-Coordenadas: X = 2477.73 Y = 2476.52
-Potencial: U = 2132.41
-Velocidade: Vx = 2100.14 Vy = 2501.80 V = 2495.49
-Pressão: P = 2355.03
-===============
-   ->Nó 2.314482e+03:
-Coordenadas: X = 2314.40 Y = 1994.57
-Potencial: U = 2222.72
-Velocidade: Vx = 2898.42 Vy = 2895.63 V = 2898.58
-Pressão: P = 2947.00
-===============
-   ->Nó 2.951466e+03:
-Coordenadas: X = 2660.31 Y = 3385.70
-Potencial: U = 3091.24
-Velocidade: Vx = 2690.52 Vy = 2577.88 V = 2780.54
-Pressão: P = 2829.26
-===============
-   ->Nó 2.831763e+03:
-Coordenadas: X = 2675.99 Y = 2711.94
-Potencial: U = 2764.63
-Velocidade: Vx = 2710.77 Vy = 2751.86 V = 2703.42
-Pressão: P = 2715.93
-===============
-   ->Nó 3.253532e+03:
-Coordenadas: X = 4962.04 Y = 3858.40
-Potencial: U = 3225.30
-Velocidade: Vx = 1933.31 Vy = 3370.50 V = 2713.88
-Pressão: P = 3585.48
-===============
-   ->Nó 2.604785e+03:
-Coordenadas: X = 3124.05 Y = 3128.21
-Potencial: U = 2202.83
-Velocidade: Vx = 2898.70 Vy = 2623.88 V = 2887.17
-Pressão: P = 2242.20
-===============
-   ->Nó 3.596050e+03:
-Coordenadas: X = 4067.16 Y = 3845.80
-Potencial: U = 2540.39
-Velocidade: Vx = 2528.43 Vy = 497.52 V = 1300.13
-Pressão: P = 1451.32
-===============
-   ->Nó 2.695129e+03:
-Coordenadas: X = 2490.22 Y = 2422.32
-Potencial: U = 2225.55
-Velocidade: Vx = 3392.14 Vy = 2430.16 V = 2234.15
-Pressão: P = 2539.07
-===============
-   ->Nó 2.499556e+03:
-Coordenadas: X = 2490.22 Y = 2511.25
-Potencial: U = 2512.25
-Velocidade: Vx = 2499.57 Vy = 2511.89 V = 3086.84
-Pressão: P = 3267.64
-===============
-   ->Nó 5.176847e+03:
-Coordenadas: X = 2743.33 Y = 3146.28
-Potencial: U = 2605.54
-Velocidade: Vx = 2546.90 Vy = 2586.70 V = 2603.62
-Pressão: P = 2589.38
-===============
-   ->Nó 2.528319e+03:
-Coordenadas: X = 2504.58 Y = 2546.09
-Potencial: U = 2423.83
-Velocidade: Vx = 2473.87 Vy = 2465.92 V = 2425.51
-Pressão: P = 2526.94
-===============
-   ->Nó 2.465806e+03:
-Coordenadas: X = 2473.17 Y = 2503.94
-Potencial: U = 2469.28
-Velocidade: Vx = 2525.09 Vy = 2469.38 V = 2425.07
-Pressão: P = 2420.93
-===============
-   ->Nó 2.506824e+03:
-Coordenadas: X = 2530.53 Y = 2504.45
-Potencial: U = 2478.15
-Velocidade: Vx = 2415.63 Vy = 2448.34 V = 2583.03
-Pressão: P = 2444.19
-===============
-   ->Nó 2.443557e+03:
-Coordenadas: X = 2491.63 Y = 2322.19
-Potencial: U = 2317.03
-Velocidade: Vx = 2419.72 Vy = 2231.24 V = 2350.20
-Pressão: P = 2315.91
-===============
-   ->Nó 1.997854e+03:
-Coordenadas: X = 2028.13 Y = 1977.27
-Potencial: U = 1948.30
-Velocidade: Vx = 2909.42 Vy = 2895.57 V = 2908.40
-Pressão: P = 2949.01
-===============
-   ->Nó 2.959303e+03:
-Coordenadas: X = 2693.07 Y = 3461.00
-Potencial: U = 3136.76
-Velocidade: Vx = 2707.06 Vy = 2640.36 V = 2775.41
-Pressão: P = 2831.99
-===============
-   ->Nó 2.835233e+03:
-Coordenadas: X = 2665.67 Y = 2707.46
-Potencial: U = 2775.11
-Velocidade: Vx = 2706.27 Vy = 2768.47 V = 2669.89
-Pressão: P = 2702.32
-===============
-   ->Nó 3.242706e+03:
-Coordenadas: X = 4983.48 Y = 3854.19
-Potencial: U = 3220.68
-Velocidade: Vx = 2009.71 Vy = 113.11 V = -250.46
-Pressão: P = -157.32
-===============
-   ->Nó -1.712761e+02:
-Coordenadas: X = -391.75 Y = -1209.65
-Potencial: U = -834.63
-Velocidade: Vx = -105.13 Vy = -173.36 V = -1100.14
-Pressão: P = -743.56
-===============
-   ->Nó -3.372303e+02:
-Coordenadas: X = -860.84 Y = -1272.28
-Potencial: U = 671.24
-Velocidade: Vx = -278.30 Vy = -466.09 V = 14.73
-Pressão: P =  8.93
-===============
-   ->Nó -2.168050e-11:
-Coordenadas: X =  0.00 Y =  5.39
-Potencial: U = -0.00
-Velocidade: Vx = 18.50 Vy = -1671.84 V = -601.02
-Pressão: P = -127.38
-===============
-   ->Nó 1.598030e+03:
-Coordenadas: X = -491.10 Y = -1350.42
-Potencial: U = -1005.02
-Velocidade: Vx = -1155.83 Vy = -1138.25 V = -1678.21
-Pressão: P = -610.11
-===============
-   ->Nó -1.149691e+02:
-Coordenadas: X = 1570.60 Y = -487.78
-Potencial: U = -1348.14
-Velocidade: Vx = -1002.41 Vy = -1166.75 V = -1138.48
-Pressão: P =  3.34
-===============
-   ->Nó -1.689225e-11:
-Coordenadas: X =  7.15 Y =  1.31
-Potencial: U = -0.00
-Velocidade: Vx = -0.00 Vy =  9.49 V = 126.84
-Pressão: P = 204.78
-===============
-   ->Nó 1.869270e+02:
-Coordenadas: X = 538.74 Y = 348.94
-Potencial: U = 284.15
-Velocidade: Vx = 1031.97 Vy = -8.91 V = -1.77
-Pressão: P = 21.39
-===============
-   ->Nó 1.128276e+01:
-Coordenadas: X = 21.38 Y = 32.18
-Potencial: U = 17.39
-Velocidade: Vx = 23.12 Vy = 13.06 V = 31.71
-Pressão: P = 26.90
-===============
-   ->Nó 5.053642e+01:
-Coordenadas: X = 61.65 Y = 111.22
-Potencial: U = 102.21
-Velocidade: Vx = 46.39 Vy = 39.33 V = 93.51
-Pressão: P = 58.09
-===============
-   ->Nó 1.305879e+01:
-Coordenadas: X = 76.07 Y = -317.85
-Potencial: U = -60.29
-Velocidade: Vx = -50.51 Vy = -11.88 V = 37.98
-Pressão: P = -88.40
-===============
-   ->Nó 2.036790e+02:
-Coordenadas: X = 117.89 Y = 126.96
-Potencial: U = 310.05
-Velocidade: Vx = 500.05 Vy = 255.07 V = 334.77
-Pressão: P = 39.67
-===============
-   ->Nó 1.846376e+02:
-Coordenadas: X = -86.95 Y = 124.81
-Potencial: U = -311.36
-Velocidade: Vx = 92.98 Vy = 64.57 V = 62.56
-Pressão: P = 116.81
-===============
-   ->Nó 8.718409e+01:
-Coordenadas: X = 471.15 Y = 482.10
-Potencial: U = 1288.57
-Velocidade: Vx = 918.42 Vy = 949.57 V = 66.73
-Pressão: P = 182.26
-===============
-   ->Nó 3.503310e+01:
-Coordenadas: X = 53.59 Y = 32.41
-Potencial: U = 388.65
-Velocidade: Vx = 170.07 Vy = 145.49 V = 212.13
-Pressão: P = -335.35
-===============
-   ->Nó -8.043054e+01:
-Coordenadas: X = 235.58 Y = -1354.94
-Potencial: U = -494.08
-Velocidade: Vx = 2051.14 Vy = 59.20 V = -125.53
-Pressão: P = -60.06
-===============
-   ->Nó -2.276405e+02:
-Coordenadas: X = -238.00 Y = -241.97
-Potencial: U = -377.16
-Velocidade: Vx = -843.79 Vy = -288.88 V = -821.33
-Pressão: P = -695.73
-===============
-   ->Nó -3.645702e+02:
-Coordenadas: X = -1978.75 Y = -554.48
-Potencial: U = -1517.83
-Velocidade: Vx = -1262.71 Vy = 540.18 V = -1024.40
-Pressão: P = -427.41
-===============
-   ->Nó 1.893151e+02:
-Coordenadas: X = -31.82 Y = -6.36
-Potencial: U = 392.24
-Velocidade: Vx = 1579.65 Vy = -180.71 V = -11.34
-Pressão: P = 21.18
-===============
-   ->Nó 2.385490e+01:
-Coordenadas: X = 20.35 Y = 11.05
-Potencial: U = 10.04
-Velocidade: Vx = 23.37 Vy = 34.47 V = 165.88
-Pressão: P = 74.62
-===============
-   ->Nó 5.287866e+02:
-Coordenadas: X = 318.90 Y = 941.15
-Potencial: U = 25.92
-Velocidade: Vx = 16.29 Vy = 36.39 V = 115.24
-Pressão: P = 122.56
-===============
-   ->Nó 7.220610e+01:
-Coordenadas: X = 38.38 Y = 62.50
-Potencial: U = 94.74
-Velocidade: Vx = 21.79 Vy = 72.72 V = 48.48
-Pressão: P = 111.85
-===============
-   ->Nó 7.522893e+01:
-Coordenadas: X = 37.13 Y = 55.26
-Potencial: U = 69.95
-Velocidade: Vx = 27.59 Vy = 64.04 V = 40.44
-Pressão: P = 95.68
-===============
-   ->Nó -6.326519e+01:
-Coordenadas: X = -31.97 Y = -50.71
-Potencial: U = 12.89
-Velocidade: Vx = 43.95 Vy = -51.96 V = 242.97
-Pressão: P = 110.11
-===============
-   ->Nó 1.540827e+02:
-Coordenadas: X = 277.20 Y = -31.58
-Potencial: U = 182.88
-Velocidade: Vx = 506.97 Vy = 147.62 V = -215.59
-Pressão: P = -29.08
-===============
-   ->Nó 5.802918e+02:
-Coordenadas: X = 383.89 Y = -290.65
-Potencial: U = 320.51
-Velocidade: Vx = 102.23 Vy = 69.40 V = 61.77
-Pressão: P = 121.64
-===============
-   ->Nó 5.629585e+01:
-Coordenadas: X = 497.93 Y = 497.13
-Potencial: U = 1317.66
-Velocidade: Vx = 1032.07 Vy = 1051.21 V = 71.38
-Pressão: P = 186.23
-===============
-   ->Nó 3.762717e+01:
-Coordenadas: X = 58.23 Y = 35.32
-Potencial: U = 441.00
-Velocidade: Vx = 188.08 Vy = 154.65 V = 309.41
-Pressão: P = -340.12
-===============
-   ->Nó -1.178260e+02:
-Coordenadas: X = 148.57 Y = -1377.90
-Potencial: U = -491.61
-Velocidade: Vx = 2782.78 Vy = 3336.68 V = 3140.38
-Pressão: P = 3729.17
-===============
-   ->Nó 3.238633e+03:
-Coordenadas: X = 3683.69 Y = 3719.43
-Potencial: U = 4610.86
-Velocidade: Vx = 2844.84 Vy = 2698.37 V = 2423.69
-Pressão: P = 2953.76
-===============
-   ->Nó 2.391477e+03:
-Coordenadas: X = 2744.37 Y = 3074.29
-Potencial: U = 1084.69
-Velocidade: Vx = 1630.71 Vy = 1628.11 V = 2562.83
-Pressão: P = 2519.25
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.16
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.97 Vy = 3002.07 V = 1746.79
-Pressão: P = 2345.75
-===============
-   ->Nó 2.817347e+03:
-Coordenadas: X = 1561.20 Y = 2126.46
-Potencial: U = 2340.05
-Velocidade: Vx = 2656.32 Vy = 2665.70 V = 3009.93
-Pressão: P = 1752.10
-===============
-   ->Nó 2.355456e+03:
-Coordenadas: X = 2775.43 Y = 1545.60
-Potencial: U = 2123.98
-Velocidade: Vx = 2338.69 Vy = 2657.80 V = 2672.46
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.36 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.72 V = 3094.90
-Pressão: P = 3003.58
-===============
-   ->Nó 3.547602e+03:
-Coordenadas: X = 2684.85 Y = 3037.62
-Potencial: U = 5255.55
-Velocidade: Vx = 3422.49 Vy = 2462.88 V = 2451.52
-Pressão: P = 2449.29
-===============
-   ->Nó 2.468842e+03:
-Coordenadas: X = 2494.19 Y = 2466.87
-Potencial: U = 2494.50
-Velocidade: Vx = 2617.46 Vy = 2565.46 V = 2602.87
-Pressão: P = 2524.37
-===============
-   ->Nó 2.564708e+03:
-Coordenadas: X = 2544.92 Y = 2602.25
-Potencial: U = 2617.86
-Velocidade: Vx = 2488.77 Vy = 2523.73 V = 2543.85
-Pressão: P = 2487.65
-===============
-   ->Nó 2.438226e+03:
-Coordenadas: X = 2425.47 Y = 2530.37
-Potencial: U = 2502.99
-Velocidade: Vx = 2547.88 Vy = 2449.17 V = 2354.00
-Pressão: P = 2429.47
-===============
-   ->Nó 2.604089e+03:
-Coordenadas: X = 2480.53 Y = 2479.77
-Potencial: U = 2154.83
-Velocidade: Vx = 2158.85 Vy = 2514.76 V = 2517.84
-Pressão: P = 2355.36
-===============
-   ->Nó 2.321835e+03:
-Coordenadas: X = 2316.03 Y = 1998.47
-Potencial: U = 2244.42
-Velocidade: Vx = 2899.91 Vy = 2896.35 V = 2899.26
-Pressão: P = 2949.32
-===============
-   ->Nó 2.952754e+03:
-Coordenadas: X = 2701.71 Y = 3419.86
-Potencial: U = 3349.06
-Velocidade: Vx = 2842.96 Vy = 2747.20 V = 2781.34
-Pressão: P = 2835.13
-===============
-   ->Nó 2.831980e+03:
-Coordenadas: X = 2676.53 Y = 2712.13
-Potencial: U = 2791.81
-Velocidade: Vx = 2716.10 Vy = 2755.71 V = 2711.73
-Pressão: P = 2736.56
-===============
-   ->Nó 3.254526e+03:
-Coordenadas: X = 4967.63 Y = 4089.39
-Potencial: U = 3262.93
-Velocidade: Vx = 2818.66 Vy = 3371.02 V = 2716.78
-Pressão: P = 3585.98
-===============
-   ->Nó 2.614714e+03:
-Coordenadas: X = 3133.10 Y = 3137.56
-Potencial: U = 2234.89
-Velocidade: Vx = 3019.02 Vy = 2639.73 V = 3001.72
-Pressão: P = 2347.65
-===============
-   ->Nó 3.614483e+03:
-Coordenadas: X = 4522.97 Y = 3885.56
-Potencial: U = 2959.29
-Velocidade: Vx = 2826.20 Vy = 734.39 V = 1655.22
-Pressão: P = 1512.94
-===============
-   ->Nó 2.701770e+03:
-Coordenadas: X = 2490.42 Y = 2422.33
-Potencial: U = 2259.85
-Velocidade: Vx = 3741.91 Vy = 2436.87 V = 2234.18
-Pressão: P = 2539.16
-===============
-   ->Nó 2.499670e+03:
-Coordenadas: X = 2490.30 Y = 2511.28
-Potencial: U = 2512.27
-Velocidade: Vx = 2499.67 Vy = 2512.12 V = 3091.29
-Pressão: P = 3268.49
-===============
-   ->Nó 5.203783e+03:
-Coordenadas: X = 2761.80 Y = 3284.03
-Potencial: U = 2605.67
-Velocidade: Vx = 2546.95 Vy = 2586.96 V = 2606.17
-Pressão: P = 2592.28
-===============
-   ->Nó 2.529350e+03:
-Coordenadas: X = 2504.87 Y = 2546.86
-Potencial: U = 2425.68
-Velocidade: Vx = 2473.97 Vy = 2467.00 V = 2426.00
-Pressão: P = 2529.41
-===============
-   ->Nó 2.466953e+03:
-Coordenadas: X = 2473.45 Y = 2504.55
-Potencial: U = 2470.27
-Velocidade: Vx = 2525.24 Vy = 2470.21 V = 2425.41
-Pressão: P = 2422.82
-===============
-   ->Nó 2.507622e+03:
-Coordenadas: X = 2530.73 Y = 2504.97
-Potencial: U = 2478.18
-Velocidade: Vx = 2416.03 Vy = 2448.89 V = 2594.44
-Pressão: P = 2446.67
-===============
-   ->Nó 2.448410e+03:
-Coordenadas: X = 2507.00 Y = 2322.40
-Potencial: U = 2324.24
-Velocidade: Vx = 2472.26 Vy = 2236.12 V = 2360.06
-Pressão: P = 2316.09
-===============
-   ->Nó 2.080423e+03:
-Coordenadas: X = 2064.14 Y = 1998.52
-Potencial: U = 1974.49
-Velocidade: Vx = 2911.22 Vy = 2896.41 V = 2909.05
-Pressão: P = 2951.52
-===============
-   ->Nó 2.959838e+03:
-Coordenadas: X = 2738.72 Y = 3496.52
-Potencial: U = 3402.28
-Velocidade: Vx = 2897.13 Vy = 2841.93 V = 2776.33
-Pressão: P = 2838.11
-===============
-   ->Nó 2.835483e+03:
-Coordenadas: X = 2666.30 Y = 2707.69
-Potencial: U = 2809.93
-Velocidade: Vx = 2712.80 Vy = 2772.79 V = 2687.76
-Pressão: P = 2723.64
-===============
-   ->Nó 3.244846e+03:
-Coordenadas: X = 4985.70 Y = 4093.09
-Potencial: U = 3257.98
-Velocidade: Vx = 100578.07 Vy = 98883.30 V = 99519.00
-Pressão: P = 97496.63
-===============
-   ->Nó 9.920563e+04:
-Coordenadas: X = 97665.23 Y = 97532.91
-Potencial: U = 93819.99
-Velocidade: Vx = 100403.45 Vy = 100809.40 V = 101512.86
-Pressão: P = 100087.64
-===============
-   ->Nó 1.015904e+05:
-Coordenadas: X = 100684.22 Y = 99724.38
-Potencial: U = 103861.72
-Velocidade: Vx = 103120.40 Vy = 103124.63 V = 101165.95
-Pressão: P = 101276.70
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101210.35 Y = 101223.79
-Potencial: U = 101276.07
-Velocidade: Vx = 101224.28 Vy = 99943.79 V = 102924.37
-Pressão: P = 101698.74
-===============
-   ->Nó 1.004813e+05:
-Coordenadas: X = 103231.33 Y = 102189.09
-Potencial: U = 101712.08
-Velocidade: Vx = 100921.98 Vy = 100897.01 V = 99920.16
-Pressão: P = 102915.07
-===============
-   ->Nó 1.016759e+05:
-Coordenadas: X = 100598.50 Y = 103255.57
-Potencial: U = 102194.36
-Velocidade: Vx = 101715.26 Vy = 100918.05 V = 100878.98
-Pressão: P = 101420.85
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101383.81 Y = 101409.18
-Potencial: U = 101412.34
-Velocidade: Vx = 101382.58 Vy = 101410.11 V = 99660.79
-Pressão: P = 99939.24
-===============
-   ->Nó 9.815726e+04:
-Coordenadas: X = 100845.80 Y = 99836.44
-Potencial: U = 90639.59
-Velocidade: Vx = 98593.28 Vy = 101417.11 V = 101445.02
-Pressão: P = 101450.49
-===============
-   ->Nó 1.014024e+05:
-Coordenadas: X = 101339.52 Y = 101407.27
-Potencial: U = 101338.73
-Velocidade: Vx = 101024.45 Vy = 101159.21 V = 101062.53
-Pressão: P = 101263.77
-===============
-   ->Nó 1.011611e+05:
-Coordenadas: X = 101211.68 Y = 101064.15
-Potencial: U = 101023.41
-Velocidade: Vx = 101353.01 Vy = 101265.40 V = 101214.42
-Pressão: P = 101355.80
-===============
-   ->Nó 1.014775e+05:
-Coordenadas: X = 101508.56 Y = 101248.62
-Potencial: U = 101317.51
-Velocidade: Vx = 101204.14 Vy = 101450.79 V = 101679.34
-Pressão: P = 101498.85
-===============
-   ->Nó 1.010594e+05:
-Coordenadas: X = 101373.48 Y = 101375.37
-Potencial: U = 102128.36
-Velocidade: Vx = 102119.68 Vy = 101287.98 V = 101280.24
-Pressão: P = 101676.14
-===============
-   ->Nó 1.017545e+05:
-Coordenadas: X = 101768.00 Y = 102453.05
-Potencial: U = 101931.29
-Velocidade: Vx = 100245.26 Vy = 100255.59 V = 100247.15
-Pressão: P = 100100.77
-===============
-   ->Nó 1.000906e+05:
-Coordenadas: X = 100800.39 Y = 98602.29
-Potencial: U = 98841.90
-Velocidade: Vx = 100408.79 Vy = 100676.43 V = 100582.06
-Pressão: P = 100431.03
-===============
-   ->Nó 1.004399e+05:
-Coordenadas: X = 100868.09 Y = 100772.17
-Potencial: U = 100552.89
-Velocidade: Vx = 100761.41 Vy = 100653.04 V = 100773.25
-Pressão: P = 100705.62
-===============
-   ->Nó 9.915403e+04:
-Coordenadas: X = 92111.33 Y = 96088.44
-Potencial: U = 99126.66
-Velocidade: Vx = 100477.58 Vy = 98768.10 V = 100759.55
-Pressão: P = 98020.38
-===============
-   ->Nó 1.010316e+05:
-Coordenadas: X = 99541.84 Y = 99527.87
-Potencial: U = 101952.64
-Velocidade: Vx = 99892.77 Vy = 100965.91 V = 99944.84
-Pressão: P = 101694.26
-===============
-   ->Nó 9.791776e+04:
-Coordenadas: X = 94221.37 Y = 96901.20
-Potencial: U = 100071.30
-Velocidade: Vx = 100456.30 Vy = 104180.34 V = 103080.13
-Pressão: P = 103305.50
-===============
-   ->Nó 1.008002e+05:
-Coordenadas: X = 101348.90 Y = 101516.15
-Potencial: U = 101896.53
-Velocidade: Vx = 97449.05 Vy = 101480.83 V = 101954.22
-Pressão: P = 101226.34
-===============
-   ->Nó 1.013258e+05:
-Coordenadas: X = 101349.20 Y = 101296.75
-Potencial: U = 101294.26
-Velocidade: Vx = 101325.81 Vy = 101294.62 V = 99671.96
-Pressão: P = 99108.48
-===============
-   ->Nó 9.091032e+04:
-Coordenadas: X = 100636.23 Y = 99057.58
-Potencial: U = 101055.25
-Velocidade: Vx = 101206.52 Vy = 101103.83 V = 101053.93
-Pressão: P = 101090.05
-===============
-   ->Nó 1.012512e+05:
-Coordenadas: X = 101312.80 Y = 101206.76
-Potencial: U = 101508.04
-Velocidade: Vx = 101389.74 Vy = 101406.97 V = 101507.27
-Pressão: P = 101251.03
-===============
-   ->Nó 1.014071e+05:
-Coordenadas: X = 101391.03 Y = 101313.61
-Potencial: U = 101398.88
-Velocidade: Vx = 101261.59 Vy = 101399.03 V = 101508.69
-Pressão: P = 101514.98
-===============
-   ->Nó 1.013059e+05:
-Coordenadas: X = 101247.70 Y = 101312.57
-Potencial: U = 101379.31
-Velocidade: Vx = 101531.39 Vy = 101451.47 V = 101084.45
-Pressão: P = 101456.89
-===============
-   ->Nó 1.014526e+05:
-Coordenadas: X = 101307.46 Y = 101753.22
-Potencial: U = 101748.96
-Velocidade: Vx = 101393.97 Vy = 101949.89 V = 101665.05
-Pressão: P = 101767.86
-===============
-   ->Nó 1.022859e+05:
-Coordenadas: X = 102319.66 Y = 102452.96
-Potencial: U = 102500.70
-Velocidade: Vx = 100212.40 Vy = 100255.42 V = 100218.71
-Pressão: P = 100094.28
-===============
-   ->Nó 1.000697e+05:
-Coordenadas: X = 100699.71 Y = 98337.17
-Potencial: U = 98662.26
-Velocidade: Vx = 100253.32 Vy = 100411.72 V = 100596.01
-Pressão: P = 100422.57
-===============
-   ->Nó 1.004300e+05:
-Coordenadas: X = 100895.41 Y = 100784.21
-Potencial: U = 100502.14
-Velocidade: Vx = 100770.37 Vy = 100605.82 V = 100837.98
-Pressão: P = 100740.89
-===============
-   ->Nó 9.918549e+04:
-Coordenadas: X = 92021.41 Y = 96073.31
-Potencial: U = 99142.78
-Velocidade: Vx = ===============
-Simulação de 11-Dec-2023 00:45:43
-===============
-Velocidade Máxima: 5255.55 Nó: 56
-Velocidade Mínima: 734.39 Nó: 138
-Pressão Máxima: 104180.34 Nó: 138
-Pressão Mínima: 90639.59 Nó: 56
-
-===============
-   ->Nó 1:
-Coordenadas: X =  2.00 Y =  3.00
-Potencial: U =  4.00
-Velocidade: Vx =  5.00 Vy =  6.00 V =  7.00
-Pressão: P =  8.00
-===============
-   ->Nó 9:
-Coordenadas: X = 10.00 Y = 11.00
-Potencial: U = 12.00
-Velocidade: Vx = 13.00 Vy = 14.00 V = 15.00
-Pressão: P = 16.00
-===============
-   ->Nó 17:
-Coordenadas: X = 18.00 Y = 19.00
-Potencial: U = 20.00
-Velocidade: Vx = 21.00 Vy = 22.00 V = 23.00
-Pressão: P = 24.00
-===============
-   ->Nó 25:
-Coordenadas: X = 26.00 Y = 27.00
-Potencial: U = 28.00
-Velocidade: Vx = 29.00 Vy = 30.00 V = 31.00
-Pressão: P = 32.00
-===============
-   ->Nó 33:
-Coordenadas: X = 34.00 Y = 35.00
-Potencial: U = 36.00
-Velocidade: Vx = 37.00 Vy = 38.00 V = 39.00
-Pressão: P = 40.00
-===============
-   ->Nó 41:
-Coordenadas: X = 42.00 Y = 43.00
-Potencial: U = 44.00
-Velocidade: Vx = 45.00 Vy = 46.00 V = 47.00
-Pressão: P = 48.00
-===============
-   ->Nó 49:
-Coordenadas: X = 50.00 Y = 51.00
-Potencial: U = 52.00
-Velocidade: Vx = 53.00 Vy = 54.00 V = 55.00
-Pressão: P = 56.00
-===============
-   ->Nó 57:
-Coordenadas: X = 58.00 Y = 59.00
-Potencial: U = 60.00
-Velocidade: Vx = 61.00 Vy = 62.00 V = 63.00
-Pressão: P = 64.00
-===============
-   ->Nó 65:
-Coordenadas: X = 66.00 Y = 67.00
-Potencial: U = 68.00
-Velocidade: Vx = 69.00 Vy = 70.00 V = 71.00
-Pressão: P = 72.00
-===============
-   ->Nó 73:
-Coordenadas: X = 74.00 Y = 75.00
-Potencial: U = 76.00
-Velocidade: Vx = 77.00 Vy = 78.00 V = 79.00
-Pressão: P = 80.00
-===============
-   ->Nó 81:
-Coordenadas: X = 82.00 Y = 83.00
-Potencial: U = 84.00
-Velocidade: Vx = 85.00 Vy = 86.00 V = 87.00
-Pressão: P = 88.00
-===============
-   ->Nó 89:
-Coordenadas: X = 90.00 Y = 91.00
-Potencial: U = 92.00
-Velocidade: Vx = 93.00 Vy = 94.00 V = 95.00
-Pressão: P = 96.00
-===============
-   ->Nó 97:
-Coordenadas: X = 98.00 Y = 99.00
-Potencial: U = 100.00
-Velocidade: Vx = 101.00 Vy = 102.00 V = 103.00
-Pressão: P = 104.00
-===============
-   ->Nó 105:
-Coordenadas: X = 106.00 Y = 107.00
-Potencial: U = 108.00
-Velocidade: Vx = 109.00 Vy = 110.00 V = 111.00
-Pressão: P = 112.00
-===============
-   ->Nó 113:
-Coordenadas: X = 114.00 Y = 115.00
-Potencial: U = 116.00
-Velocidade: Vx = 117.00 Vy = 118.00 V = 119.00
-Pressão: P = 120.00
-===============
-   ->Nó 121:
-Coordenadas: X = 122.00 Y = 123.00
-Potencial: U = 124.00
-Velocidade: Vx = 125.00 Vy = 126.00 V = 127.00
-Pressão: P = 128.00
-===============
-   ->Nó 129:
-Coordenadas: X = 130.00 Y = 131.00
-Potencial: U = 132.00
-Velocidade: Vx = 133.00 Vy = 134.00 V = 135.00
-Pressão: P = 136.00
-===============
-   ->Nó 137:
-Coordenadas: X = 138.00 Y = 139.00
-Potencial: U = 140.00
-Velocidade: Vx = 141.00 Vy = -1800.00 V = 100.00
-Pressão: P = -600.00
-===============
-   ->Nó -100:
-Coordenadas: X = 613.09 Y = 1800.00
-Potencial: U = 123.06
-Velocidade: Vx = -155.30 Vy = -225.37 V = 637.81
-Pressão: P = 665.29
-===============
-   ->Nó 6.551099e+02:
-Coordenadas: X = 434.73 Y = 278.71
-Potencial: U = 506.20
-Velocidade: Vx = 1521.51 Vy = 1664.52 V = 228.38
-Pressão: P = 88.50
-===============
-   ->Nó -8.827300e+01:
-Coordenadas: X = -16.26 Y = 16.63
-Potencial: U = 1658.67
-Velocidade: Vx = 1505.70 Vy = 192.86 V =  8.62
-Pressão: P = 326.28
-===============
-   ->Nó 4.330954e+02:
-Coordenadas: X = 958.54 Y = 834.30
-Potencial: U = 728.31
-Velocidade: Vx = 1512.45 Vy = 1352.99 V = 1155.20
-Pressão: P = 1096.44
-===============
-   ->Nó 1.374841e+03:
-Coordenadas: X = 1231.96 Y = 1224.75
-Potencial: U = 1059.01
-Velocidade: Vx = 863.26 Vy = 866.48 V = 957.83
-Pressão: P = 810.27
-===============
-   ->Nó 4.327448e+02:
-Coordenadas: X = 574.18 Y = 571.08
-Potencial: U = 692.94
-Velocidade: Vx = -739.30 Vy = -684.74 V = -616.07
-Pressão: P = -535.37
-===============
-   ->Nó -3.495524e+02:
-Coordenadas: X = -503.72 Y = -393.46
-Potencial: U = -1660.26
-Velocidade: Vx = -1509.74 Vy = -1520.18 V = -1663.64
-Pressão: P = -125.90
-===============
-   ->Nó -3.083740e+02:
-Coordenadas: X = -425.11 Y = -951.38
-Potencial: U = -814.80
-Velocidade: Vx = -696.06 Vy = -1083.91 V = -1370.97
-Pressão: P = -1227.90
-===============
-   ->Nó -1.218157e+03:
-Coordenadas: X = -1356.88 Y = -1511.72
-Potencial: U = -1173.59
-Velocidade: Vx = -1063.21 Vy = -899.08 V = -938.11
-Pressão: P = -917.75
-===============
-   ->Nó -7.256310e+02:
-Coordenadas: X = -815.74 Y = -415.39
-Potencial: U = -557.56
-Velocidade: Vx = -557.78 Vy = -682.72 V = -1900.00
-Pressão: P = -1900.00
-===============
-   ->Nó -1900:
-Coordenadas: X = -1900.00 Y = -1900.00
-Potencial: U = -526.90
-Velocidade: Vx = -457.38 Vy = -348.37 V = -219.71
-Pressão: P = -88.10
-===============
-   ->Nó -7.313820e+01:
-Coordenadas: X = -143.27 Y = -252.74
-Potencial: U = -380.55
-Velocidade: Vx = 1628.57 Vy = 1357.14 V = 1085.71
-Pressão: P = 814.29
-===============
-   ->Nó 5.428571e+02:
-Coordenadas: X = 271.43 Y =  0.00
-Potencial: U = -271.43
-Velocidade: Vx = -542.86 Vy = -814.29 V = -1085.71
-Pressão: P = -1357.14
-===============
-   ->Nó -1.628571e+03:
-Coordenadas: X = -1628.57 Y = -1357.14
-Potencial: U = -1085.71
-Velocidade: Vx = -814.29 Vy = -542.86 V = -271.43
-Pressão: P =  0.00
-===============
-   ->Nó 2.714286e+02:
-Coordenadas: X = 542.86 Y = 814.29
-Potencial: U = 1085.71
-Velocidade: Vx = 1357.14 Vy = 1628.57 V = 73.10
-Pressão: P = 142.62
-===============
-   ->Nó 2.516271e+02:
-Coordenadas: X = 380.29 Y = 511.90
-Potencial: U = 526.86
-Velocidade: Vx = 456.73 Vy = 347.26 V = 219.45
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 1900.00 Y = 1900.00
-Potencial: U = 1900.00
-Velocidade: Vx = -1900.00 Vy = -1900.00 V = -512.13
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 87.87 Y =  0.00
-Potencial: U = -350.00
-Velocidade: Vx = -50.00 Vy = 350.00 V = 50.00
-Pressão: P =  0.00
-===============
-   ->Nó 5.854322e+02:
-Coordenadas: X = -590.67 Y = 137.82
-Potencial: U = 591.12
-Velocidade: Vx = 388.70 Vy = 198.94 V = 586.11
-Pressão: P = 543.57
-===============
-   ->Nó 4.320637e+02:
-Coordenadas: X = -540.63 Y = -273.65
-Potencial: U = -138.37
-Velocidade: Vx =  9.18 Vy = -8.73 V = 151.93
-Pressão: P = -151.86
-===============
-   ->Nó 2.494704e+02:
-Coordenadas: X = 514.33 Y = -563.19
-Potencial: U = -536.46
-Velocidade: Vx = -344.83 Vy = -152.34 V = -555.21
-Pressão: P = -321.13
-===============
-   ->Nó -1.125800e+02:
-Coordenadas: X = -25.25 Y = 217.98
-Potencial: U = 479.12
-Velocidade: Vx = -310.48 Vy = -292.58 V = -550.04
-Pressão: P = -58.82
-===============
-   ->Nó 1.530495e+02:
-Coordenadas: X = 307.82 Y = 559.42
-Potencial: U = -94.41
-Velocidade: Vx = 83.48 Vy = -561.89 V = -307.48
-Pressão: P = -101.96
-===============
-   ->Nó -5.574747e+02:
-Coordenadas: X = -590.12 Y = -386.41
-Potencial: U = -207.36
-Velocidade: Vx = -526.55 Vy = -597.41 V = -364.04
-Pressão: P = -453.66
-===============
-   ->Nó -2.558917e+02:
-Coordenadas: X = -525.02 Y = 538.94
-Potencial: U = 271.09
-Velocidade: Vx = 550.56 Vy = 339.60 V = 149.59
-Pressão: P = 549.99
-===============
-   ->Nó 3.062999e+02:
-Coordenadas: X = 100.79 Y = 292.12
-Potencial: U = 282.12
-Velocidade: Vx = 544.06 Vy = 27.05 V = -244.84
-Pressão: P = 13.27
-===============
-   ->Nó -5.194341e+02:
-Coordenadas: X = -222.78 Y = -425.82
-Potencial: U = -627.67
-Velocidade: Vx = 31.40 Vy = -69.36 V = -216.83
-Pressão: P = 557.91
-===============
-   ->Nó 3.003367e+02:
-Coordenadas: X = 97.17 Y = 552.07
-Potencial: U = -533.33
-Velocidade: Vx = -266.67 Vy =  0.00 V = 266.67
-Pressão: P = 533.33
-===============
-   ->Nó -1.194632e+02:
-Coordenadas: X = -247.55 Y = -356.76
-Potencial: U = -426.65
-Velocidade: Vx = -412.34 Vy = -280.89 V = -151.60
-Pressão: P = -42.42
-===============
-   ->Nó 2.690090e+01:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = -800.00
-Pressão: P = -800.00
-===============
-   ->Nó -800:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 800.00
-Velocidade: Vx = 800.00 Vy = 800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 280.54
-Velocidade: Vx = 152.45 Vy = 43.24 V = -26.65
-Pressão: P = -12.34
-===============
-   ->Nó 1.191133e+02:
-Coordenadas: X = 248.40 Y = 357.58
-Potencial: U = 426.90
-Velocidade: Vx = 533.33 Vy = 266.67 V =  0.00
-Pressão: P = -266.67
-===============
-   ->Nó -5.333333e+02:
-Coordenadas: X = -800.00 Y = 800.00
-Potencial: U = 12.13
-Velocidade: Vx = -800.00 Vy = 800.00 V = 412.13
-Pressão: P = -10109658.14
-===============
-   ->Nó -4.778716e+06:
-Coordenadas: X = -7260545.11 Y = -5593424.10
-Potencial: U = -3089781.72
-Velocidade: Vx = -249540.93 Vy = -4784398.44 V = -5710351.51
-Pressão: P = -5860051.64
-===============
-   ->Nó -3.123794e+06:
-Coordenadas: X = -2990454.53 Y = -2954006.72
-Potencial: U = -3700605.18
-Velocidade: Vx = -4197893.40 Vy = -3381748.09 V = -961466.00
-Pressão: P = -593299.86
-===============
-   ->Nó -4.501005e+06:
-Coordenadas: X = -5007201.21 Y = -5362761.20
-Potencial: U = -5372057.94
-Velocidade: Vx = -4997640.47 Vy = -597744.81 V = -972400.98
-Pressão: P = -4572905.24
-===============
-   ->Nó -5.119528e+06:
-Coordenadas: X = -4165876.42 Y = -3833845.99
-Potencial: U = -2420164.09
-Velocidade: Vx = -2717130.59 Vy = -2929118.76 V = -967258.69
-Pressão: P = -1352759.27
-===============
-   ->Nó -1.831611e+06:
-Coordenadas: X = -2034432.07 Y = -1325015.59
-Potencial: U = -1704415.33
-Velocidade: Vx = -1684716.59 Vy = -2070382.85 V = -2525240.83
-Pressão: P = -2539667.03
-===============
-   ->Nó -2.350265e+06:
-Coordenadas: X = -2658934.80 Y = -3877492.41
-Potencial: U = -3430959.24
-Velocidade: Vx = -3342384.18 Vy = -3140520.54 V = -7521596.90
-Pressão: P = -7437293.68
-===============
-   ->Nó -7.353542e+06:
-Coordenadas: X = -7004871.81 Y = -6406446.63
-Potencial: U = -7046973.32
-Velocidade: Vx = -6655031.03 Vy = -9769537.91 V = -9430199.24
-Pressão: P = -9392761.06
-===============
-   ->Nó -9.762361e+06:
-Coordenadas: X = -5600524.57 Y = -6152978.70
-Potencial: U = -6509131.83
-Velocidade: Vx = -7927635.88 Vy = -7603847.38 V = -7364950.73
-Pressão: P = -8302409.73
-===============
-   ->Nó -9.028907e+06:
-Coordenadas: X = -8648264.49 Y = -8671295.05
-Potencial: U = -9033152.15
-Velocidade: Vx = -9396190.41 Vy = -8599755.80 V = -8320078.80
-Pressão: P = -7932527.72
-===============
-   ->Nó -8.017606e+06:
-Coordenadas: X = -7936573.25 Y = -7522774.85
-Potencial: U = -7745590.44
-Velocidade: Vx = -6442000.85 Vy = -6892617.16 V = -6994356.83
-Pressão: P = -7200187.30
-===============
-   ->Nó -1.030200e+07:
-Coordenadas: X = -10350194.12 Y = -10358679.83
-Potencial: U = -10353252.44
-Velocidade: Vx = -10347021.59 Vy = -7261699.10 V = -7106056.06
-Pressão: P = -6663375.09
-===============
-   ->Nó -6.001779e+06:
-Coordenadas: X = -5307055.38 Y = -5066354.48
-Potencial: U = -5260425.96
-Velocidade: Vx = -5717176.73 Vy = -6305309.03 V = -690906.77
-Pressão: P = -1386520.75
-===============
-   ->Nó -2.092962e+06:
-Coordenadas: X = -2819303.23 Y = -3574022.09
-Potencial: U = -4359977.64
-Velocidade: Vx = -5199317.19 Vy = -6114168.35 V = -6962124.16
-Pressão: P = -7698748.64
-===============
-   ->Nó -8.385607e+06:
-Coordenadas: X = -9070987.45 Y = -9802522.32
-Potencial: U = -9662448.05
-Velocidade: Vx = -8973272.44 Vy = -8271168.12 V = -7547629.33
-Pressão: P = -6794304.14
-===============
-   ->Nó -6.008363e+06:
-Coordenadas: X = -5170506.99 Y = -4265358.18
-Potencial: U = -3415684.46
-Velocidade: Vx = -2684783.24 Vy = -2005596.68 V = -1337104.77
-Pressão: P = -669021.55
-===============
-   ->Nó -5.302786e+06:
-Coordenadas: X = -5111779.28 Y = -4657394.01
-Potencial: U = -4066259.54
-Velocidade: Vx = -3409847.37 Vy = -3116863.09 V = -3286530.53
-Pressão: P = -3731800.92
-===============
-   ->Nó -4.369250e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U =  0.00
-Velocidade: Vx =  0.00 Vy =  0.00 V = -10723245.25
-Pressão: P = -10344073.68
-===============
-   ->Nó -6.963228e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U = -5058227.06
-Velocidade: Vx = 1924.81 Vy = 3334.76 V = 3130.38
-Pressão: P = 3725.85
-===============
-   ->Nó 3.234101e+03:
-Coordenadas: X = 3662.80 Y = 3517.23
-Potencial: U = 4534.69
-Velocidade: Vx = 2842.89 Vy = 2692.79 V = 2159.62
-Pressão: P = 2858.64
-===============
-   ->Nó 2.367581e+03:
-Coordenadas: X = 2605.86 Y = 2798.67
-Potencial: U = 852.05
-Velocidade: Vx = 1606.78 Vy = 1559.97 V = 2562.79
-Pressão: P = 2519.23
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.15
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.90 Vy = 2493.47 V = 1640.14
-Pressão: P = 2342.29
-===============
-   ->Nó 2.320290e+03:
-Coordenadas: X = 1481.94 Y = 1642.61
-Potencial: U = 2113.24
-Velocidade: Vx = 2391.67 Vy = 2410.47 V = 2498.66
-Pressão: P = 1642.45
-===============
-   ->Nó 2.352648e+03:
-Coordenadas: X = 2288.28 Y = 1466.61
-Potencial: U = 1641.28
-Velocidade: Vx = 2112.97 Vy = 2388.01 V = 2417.83
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.35 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.70 V = 3092.30
-Pressão: P = 2996.59
-===============
-   ->Nó 3.542674e+03:
-Coordenadas: X = 2630.24 Y = 3017.51
-Potencial: U = 5247.86
-Velocidade: Vx = 3263.20 Vy = 2462.86 V = 2451.52
-Pressão: P = 2449.20
-===============
-   ->Nó 2.468816e+03:
-Coordenadas: X = 2494.09 Y = 2466.66
-Potencial: U = 2494.44
-Velocidade: Vx = 2617.36 Vy = 2565.43 V = 2602.68
-Pressão: P = 2524.23
-===============
-   ->Nó 2.564210e+03:
-Coordenadas: X = 2544.18 Y = 2599.87
-Potencial: U = 2615.86
-Velocidade: Vx = 2488.34 Vy = 2523.42 V = 2542.13
-Pressão: P = 2486.97
-===============
-   ->Nó 2.438191e+03:
-Coordenadas: X = 2424.27 Y = 2510.32
-Potencial: U = 2502.27
-Velocidade: Vx = 2547.38 Vy = 2449.14 V = 2353.70
-Pressão: P = 2427.86
-===============
-   ->Nó 2.596112e+03:
-Coordenadas: X = 2477.73 Y = 2476.52
-Potencial: U = 2132.41
-Velocidade: Vx = 2100.14 Vy = 2501.80 V = 2495.49
-Pressão: P = 2355.03
-===============
-   ->Nó 2.314482e+03:
-Coordenadas: X = 2314.40 Y = 1994.57
-Potencial: U = 2222.72
-Velocidade: Vx = 2898.42 Vy = 2895.63 V = 2898.58
-Pressão: P = 2947.00
-===============
-   ->Nó 2.951466e+03:
-Coordenadas: X = 2660.31 Y = 3385.70
-Potencial: U = 3091.24
-Velocidade: Vx = 2690.52 Vy = 2577.88 V = 2780.54
-Pressão: P = 2829.26
-===============
-   ->Nó 2.831763e+03:
-Coordenadas: X = 2675.99 Y = 2711.94
-Potencial: U = 2764.63
-Velocidade: Vx = 2710.77 Vy = 2751.86 V = 2703.42
-Pressão: P = 2715.93
-===============
-   ->Nó 3.253532e+03:
-Coordenadas: X = 4962.04 Y = 3858.40
-Potencial: U = 3225.30
-Velocidade: Vx = 1933.31 Vy = 3370.50 V = 2713.88
-Pressão: P = 3585.48
-===============
-   ->Nó 2.604785e+03:
-Coordenadas: X = 3124.05 Y = 3128.21
-Potencial: U = 2202.83
-Velocidade: Vx = 2898.70 Vy = 2623.88 V = 2887.17
-Pressão: P = 2242.20
-===============
-   ->Nó 3.596050e+03:
-Coordenadas: X = 4067.16 Y = 3845.80
-Potencial: U = 2540.39
-Velocidade: Vx = 2528.43 Vy = 497.52 V = 1300.13
-Pressão: P = 1451.32
-===============
-   ->Nó 2.695129e+03:
-Coordenadas: X = 2490.22 Y = 2422.32
-Potencial: U = 2225.55
-Velocidade: Vx = 3392.14 Vy = 2430.16 V = 2234.15
-Pressão: P = 2539.07
-===============
-   ->Nó 2.499556e+03:
-Coordenadas: X = 2490.22 Y = 2511.25
-Potencial: U = 2512.25
-Velocidade: Vx = 2499.57 Vy = 2511.89 V = 3086.84
-Pressão: P = 3267.64
-===============
-   ->Nó 5.176847e+03:
-Coordenadas: X = 2743.33 Y = 3146.28
-Potencial: U = 2605.54
-Velocidade: Vx = 2546.90 Vy = 2586.70 V = 2603.62
-Pressão: P = 2589.38
-===============
-   ->Nó 2.528319e+03:
-Coordenadas: X = 2504.58 Y = 2546.09
-Potencial: U = 2423.83
-Velocidade: Vx = 2473.87 Vy = 2465.92 V = 2425.51
-Pressão: P = 2526.94
-===============
-   ->Nó 2.465806e+03:
-Coordenadas: X = 2473.17 Y = 2503.94
-Potencial: U = 2469.28
-Velocidade: Vx = 2525.09 Vy = 2469.38 V = 2425.07
-Pressão: P = 2420.93
-===============
-   ->Nó 2.506824e+03:
-Coordenadas: X = 2530.53 Y = 2504.45
-Potencial: U = 2478.15
-Velocidade: Vx = 2415.63 Vy = 2448.34 V = 2583.03
-Pressão: P = 2444.19
-===============
-   ->Nó 2.443557e+03:
-Coordenadas: X = 2491.63 Y = 2322.19
-Potencial: U = 2317.03
-Velocidade: Vx = 2419.72 Vy = 2231.24 V = 2350.20
-Pressão: P = 2315.91
-===============
-   ->Nó 1.997854e+03:
-Coordenadas: X = 2028.13 Y = 1977.27
-Potencial: U = 1948.30
-Velocidade: Vx = 2909.42 Vy = 2895.57 V = 2908.40
-Pressão: P = 2949.01
-===============
-   ->Nó 2.959303e+03:
-Coordenadas: X = 2693.07 Y = 3461.00
-Potencial: U = 3136.76
-Velocidade: Vx = 2707.06 Vy = 2640.36 V = 2775.41
-Pressão: P = 2831.99
-===============
-   ->Nó 2.835233e+03:
-Coordenadas: X = 2665.67 Y = 2707.46
-Potencial: U = 2775.11
-Velocidade: Vx = 2706.27 Vy = 2768.47 V = 2669.89
-Pressão: P = 2702.32
-===============
-   ->Nó 3.242706e+03:
-Coordenadas: X = 4983.48 Y = 3854.19
-Potencial: U = 3220.68
-Velocidade: Vx = 2009.71 Vy = 113.11 V = -250.46
-Pressão: P = -157.32
-===============
-   ->Nó -1.712761e+02:
-Coordenadas: X = -391.75 Y = -1209.65
-Potencial: U = -834.63
-Velocidade: Vx = -105.13 Vy = -173.36 V = -1100.14
-Pressão: P = -743.56
-===============
-   ->Nó -3.372303e+02:
-Coordenadas: X = -860.84 Y = -1272.28
-Potencial: U = 671.24
-Velocidade: Vx = -278.30 Vy = -466.09 V = 14.73
-Pressão: P =  8.93
-===============
-   ->Nó -2.168050e-11:
-Coordenadas: X =  0.00 Y =  5.39
-Potencial: U = -0.00
-Velocidade: Vx = 18.50 Vy = -1671.84 V = -601.02
-Pressão: P = -127.38
-===============
-   ->Nó 1.598030e+03:
-Coordenadas: X = -491.10 Y = -1350.42
-Potencial: U = -1005.02
-Velocidade: Vx = -1155.83 Vy = -1138.25 V = -1678.21
-Pressão: P = -610.11
-===============
-   ->Nó -1.149691e+02:
-Coordenadas: X = 1570.60 Y = -487.78
-Potencial: U = -1348.14
-Velocidade: Vx = -1002.41 Vy = -1166.75 V = -1138.48
-Pressão: P =  3.34
-===============
-   ->Nó -1.689225e-11:
-Coordenadas: X =  7.15 Y =  1.31
-Potencial: U = -0.00
-Velocidade: Vx = -0.00 Vy =  9.49 V = 126.84
-Pressão: P = 204.78
-===============
-   ->Nó 1.869270e+02:
-Coordenadas: X = 538.74 Y = 348.94
-Potencial: U = 284.15
-Velocidade: Vx = 1031.97 Vy = -8.91 V = -1.77
-Pressão: P = 21.39
-===============
-   ->Nó 1.128276e+01:
-Coordenadas: X = 21.38 Y = 32.18
-Potencial: U = 17.39
-Velocidade: Vx = 23.12 Vy = 13.06 V = 31.71
-Pressão: P = 26.90
-===============
-   ->Nó 5.053642e+01:
-Coordenadas: X = 61.65 Y = 111.22
-Potencial: U = 102.21
-Velocidade: Vx = 46.39 Vy = 39.33 V = 93.51
-Pressão: P = 58.09
-===============
-   ->Nó 1.305879e+01:
-Coordenadas: X = 76.07 Y = -317.85
-Potencial: U = -60.29
-Velocidade: Vx = -50.51 Vy = -11.88 V = 37.98
-Pressão: P = -88.40
-===============
-   ->Nó 2.036790e+02:
-Coordenadas: X = 117.89 Y = 126.96
-Potencial: U = 310.05
-Velocidade: Vx = 500.05 Vy = 255.07 V = 334.77
-Pressão: P = 39.67
-===============
-   ->Nó 1.846376e+02:
-Coordenadas: X = -86.95 Y = 124.81
-Potencial: U = -311.36
-Velocidade: Vx = 92.98 Vy = 64.57 V = 62.56
-Pressão: P = 116.81
-===============
-   ->Nó 8.718409e+01:
-Coordenadas: X = 471.15 Y = 482.10
-Potencial: U = 1288.57
-Velocidade: Vx = 918.42 Vy = 949.57 V = 66.73
-Pressão: P = 182.26
-===============
-   ->Nó 3.503310e+01:
-Coordenadas: X = 53.59 Y = 32.41
-Potencial: U = 388.65
-Velocidade: Vx = 170.07 Vy = 145.49 V = 212.13
-Pressão: P = -335.35
-===============
-   ->Nó -8.043054e+01:
-Coordenadas: X = 235.58 Y = -1354.94
-Potencial: U = -494.08
-Velocidade: Vx = 2051.14 Vy = 59.20 V = -125.53
-Pressão: P = -60.06
-===============
-   ->Nó -2.276405e+02:
-Coordenadas: X = -238.00 Y = -241.97
-Potencial: U = -377.16
-Velocidade: Vx = -843.79 Vy = -288.88 V = -821.33
-Pressão: P = -695.73
-===============
-   ->Nó -3.645702e+02:
-Coordenadas: X = -1978.75 Y = -554.48
-Potencial: U = -1517.83
-Velocidade: Vx = -1262.71 Vy = 540.18 V = -1024.40
-Pressão: P = -427.41
-===============
-   ->Nó 1.893151e+02:
-Coordenadas: X = -31.82 Y = -6.36
-Potencial: U = 392.24
-Velocidade: Vx = 1579.65 Vy = -180.71 V = -11.34
-Pressão: P = 21.18
-===============
-   ->Nó 2.385490e+01:
-Coordenadas: X = 20.35 Y = 11.05
-Potencial: U = 10.04
-Velocidade: Vx = 23.37 Vy = 34.47 V = 165.88
-Pressão: P = 74.62
-===============
-   ->Nó 5.287866e+02:
-Coordenadas: X = 318.90 Y = 941.15
-Potencial: U = 25.92
-Velocidade: Vx = 16.29 Vy = 36.39 V = 115.24
-Pressão: P = 122.56
-===============
-   ->Nó 7.220610e+01:
-Coordenadas: X = 38.38 Y = 62.50
-Potencial: U = 94.74
-Velocidade: Vx = 21.79 Vy = 72.72 V = 48.48
-Pressão: P = 111.85
-===============
-   ->Nó 7.522893e+01:
-Coordenadas: X = 37.13 Y = 55.26
-Potencial: U = 69.95
-Velocidade: Vx = 27.59 Vy = 64.04 V = 40.44
-Pressão: P = 95.68
-===============
-   ->Nó -6.326519e+01:
-Coordenadas: X = -31.97 Y = -50.71
-Potencial: U = 12.89
-Velocidade: Vx = 43.95 Vy = -51.96 V = 242.97
-Pressão: P = 110.11
-===============
-   ->Nó 1.540827e+02:
-Coordenadas: X = 277.20 Y = -31.58
-Potencial: U = 182.88
-Velocidade: Vx = 506.97 Vy = 147.62 V = -215.59
-Pressão: P = -29.08
-===============
-   ->Nó 5.802918e+02:
-Coordenadas: X = 383.89 Y = -290.65
-Potencial: U = 320.51
-Velocidade: Vx = 102.23 Vy = 69.40 V = 61.77
-Pressão: P = 121.64
-===============
-   ->Nó 5.629585e+01:
-Coordenadas: X = 497.93 Y = 497.13
-Potencial: U = 1317.66
-Velocidade: Vx = 1032.07 Vy = 1051.21 V = 71.38
-Pressão: P = 186.23
-===============
-   ->Nó 3.762717e+01:
-Coordenadas: X = 58.23 Y = 35.32
-Potencial: U = 441.00
-Velocidade: Vx = 188.08 Vy = 154.65 V = 309.41
-Pressão: P = -340.12
-===============
-   ->Nó -1.178260e+02:
-Coordenadas: X = 148.57 Y = -1377.90
-Potencial: U = -491.61
-Velocidade: Vx = 2782.78 Vy = 3336.68 V = 3140.38
-Pressão: P = 3729.17
-===============
-   ->Nó 3.238633e+03:
-Coordenadas: X = 3683.69 Y = 3719.43
-Potencial: U = 4610.86
-Velocidade: Vx = 2844.84 Vy = 2698.37 V = 2423.69
-Pressão: P = 2953.76
-===============
-   ->Nó 2.391477e+03:
-Coordenadas: X = 2744.37 Y = 3074.29
-Potencial: U = 1084.69
-Velocidade: Vx = 1630.71 Vy = 1628.11 V = 2562.83
-Pressão: P = 2519.25
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.16
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.97 Vy = 3002.07 V = 1746.79
-Pressão: P = 2345.75
-===============
-   ->Nó 2.817347e+03:
-Coordenadas: X = 1561.20 Y = 2126.46
-Potencial: U = 2340.05
-Velocidade: Vx = 2656.32 Vy = 2665.70 V = 3009.93
-Pressão: P = 1752.10
-===============
-   ->Nó 2.355456e+03:
-Coordenadas: X = 2775.43 Y = 1545.60
-Potencial: U = 2123.98
-Velocidade: Vx = 2338.69 Vy = 2657.80 V = 2672.46
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.36 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.72 V = 3094.90
-Pressão: P = 3003.58
-===============
-   ->Nó 3.547602e+03:
-Coordenadas: X = 2684.85 Y = 3037.62
-Potencial: U = 5255.55
-Velocidade: Vx = 3422.49 Vy = 2462.88 V = 2451.52
-Pressão: P = 2449.29
-===============
-   ->Nó 2.468842e+03:
-Coordenadas: X = 2494.19 Y = 2466.87
-Potencial: U = 2494.50
-Velocidade: Vx = 2617.46 Vy = 2565.46 V = 2602.87
-Pressão: P = 2524.37
-===============
-   ->Nó 2.564708e+03:
-Coordenadas: X = 2544.92 Y = 2602.25
-Potencial: U = 2617.86
-Velocidade: Vx = 2488.77 Vy = 2523.73 V = 2543.85
-Pressão: P = 2487.65
-===============
-   ->Nó 2.438226e+03:
-Coordenadas: X = 2425.47 Y = 2530.37
-Potencial: U = 2502.99
-Velocidade: Vx = 2547.88 Vy = 2449.17 V = 2354.00
-Pressão: P = 2429.47
-===============
-   ->Nó 2.604089e+03:
-Coordenadas: X = 2480.53 Y = 2479.77
-Potencial: U = 2154.83
-Velocidade: Vx = 2158.85 Vy = 2514.76 V = 2517.84
-Pressão: P = 2355.36
-===============
-   ->Nó 2.321835e+03:
-Coordenadas: X = 2316.03 Y = 1998.47
-Potencial: U = 2244.42
-Velocidade: Vx = 2899.91 Vy = 2896.35 V = 2899.26
-Pressão: P = 2949.32
-===============
-   ->Nó 2.952754e+03:
-Coordenadas: X = 2701.71 Y = 3419.86
-Potencial: U = 3349.06
-Velocidade: Vx = 2842.96 Vy = 2747.20 V = 2781.34
-Pressão: P = 2835.13
-===============
-   ->Nó 2.831980e+03:
-Coordenadas: X = 2676.53 Y = 2712.13
-Potencial: U = 2791.81
-Velocidade: Vx = 2716.10 Vy = 2755.71 V = 2711.73
-Pressão: P = 2736.56
-===============
-   ->Nó 3.254526e+03:
-Coordenadas: X = 4967.63 Y = 4089.39
-Potencial: U = 3262.93
-Velocidade: Vx = 2818.66 Vy = 3371.02 V = 2716.78
-Pressão: P = 3585.98
-===============
-   ->Nó 2.614714e+03:
-Coordenadas: X = 3133.10 Y = 3137.56
-Potencial: U = 2234.89
-Velocidade: Vx = 3019.02 Vy = 2639.73 V = 3001.72
-Pressão: P = 2347.65
-===============
-   ->Nó 3.614483e+03:
-Coordenadas: X = 4522.97 Y = 3885.56
-Potencial: U = 2959.29
-Velocidade: Vx = 2826.20 Vy = 734.39 V = 1655.22
-Pressão: P = 1512.94
-===============
-   ->Nó 2.701770e+03:
-Coordenadas: X = 2490.42 Y = 2422.33
-Potencial: U = 2259.85
-Velocidade: Vx = 3741.91 Vy = 2436.87 V = 2234.18
-Pressão: P = 2539.16
-===============
-   ->Nó 2.499670e+03:
-Coordenadas: X = 2490.30 Y = 2511.28
-Potencial: U = 2512.27
-Velocidade: Vx = 2499.67 Vy = 2512.12 V = 3091.29
-Pressão: P = 3268.49
-===============
-   ->Nó 5.203783e+03:
-Coordenadas: X = 2761.80 Y = 3284.03
-Potencial: U = 2605.67
-Velocidade: Vx = 2546.95 Vy = 2586.96 V = 2606.17
-Pressão: P = 2592.28
-===============
-   ->Nó 2.529350e+03:
-Coordenadas: X = 2504.87 Y = 2546.86
-Potencial: U = 2425.68
-Velocidade: Vx = 2473.97 Vy = 2467.00 V = 2426.00
-Pressão: P = 2529.41
-===============
-   ->Nó 2.466953e+03:
-Coordenadas: X = 2473.45 Y = 2504.55
-Potencial: U = 2470.27
-Velocidade: Vx = 2525.24 Vy = 2470.21 V = 2425.41
-Pressão: P = 2422.82
-===============
-   ->Nó 2.507622e+03:
-Coordenadas: X = 2530.73 Y = 2504.97
-Potencial: U = 2478.18
-Velocidade: Vx = 2416.03 Vy = 2448.89 V = 2594.44
-Pressão: P = 2446.67
-===============
-   ->Nó 2.448410e+03:
-Coordenadas: X = 2507.00 Y = 2322.40
-Potencial: U = 2324.24
-Velocidade: Vx = 2472.26 Vy = 2236.12 V = 2360.06
-Pressão: P = 2316.09
-===============
-   ->Nó 2.080423e+03:
-Coordenadas: X = 2064.14 Y = 1998.52
-Potencial: U = 1974.49
-Velocidade: Vx = 2911.22 Vy = 2896.41 V = 2909.05
-Pressão: P = 2951.52
-===============
-   ->Nó 2.959838e+03:
-Coordenadas: X = 2738.72 Y = 3496.52
-Potencial: U = 3402.28
-Velocidade: Vx = 2897.13 Vy = 2841.93 V = 2776.33
-Pressão: P = 2838.11
-===============
-   ->Nó 2.835483e+03:
-Coordenadas: X = 2666.30 Y = 2707.69
-Potencial: U = 2809.93
-Velocidade: Vx = 2712.80 Vy = 2772.79 V = 2687.76
-Pressão: P = 2723.64
-===============
-   ->Nó 3.244846e+03:
-Coordenadas: X = 4985.70 Y = 4093.09
-Potencial: U = 3257.98
-Velocidade: Vx = 100578.07 Vy = 98883.30 V = 99519.00
-Pressão: P = 97496.63
-===============
-   ->Nó 9.920563e+04:
-Coordenadas: X = 97665.23 Y = 97532.91
-Potencial: U = 93819.99
-Velocidade: Vx = 100403.45 Vy = 100809.40 V = 101512.86
-Pressão: P = 100087.64
-===============
-   ->Nó 1.015904e+05:
-Coordenadas: X = 100684.22 Y = 99724.38
-Potencial: U = 103861.72
-Velocidade: Vx = 103120.40 Vy = 103124.63 V = 101165.95
-Pressão: P = 101276.70
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101210.35 Y = 101223.79
-Potencial: U = 101276.07
-Velocidade: Vx = 101224.28 Vy = 99943.79 V = 102924.37
-Pressão: P = 101698.74
-===============
-   ->Nó 1.004813e+05:
-Coordenadas: X = 103231.33 Y = 102189.09
-Potencial: U = 101712.08
-Velocidade: Vx = 100921.98 Vy = 100897.01 V = 99920.16
-Pressão: P = 102915.07
-===============
-   ->Nó 1.016759e+05:
-Coordenadas: X = 100598.50 Y = 103255.57
-Potencial: U = 102194.36
-Velocidade: Vx = 101715.26 Vy = 100918.05 V = 100878.98
-Pressão: P = 101420.85
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101383.81 Y = 101409.18
-Potencial: U = 101412.34
-Velocidade: Vx = 101382.58 Vy = 101410.11 V = 99660.79
-Pressão: P = 99939.24
-===============
-   ->Nó 9.815726e+04:
-Coordenadas: X = 100845.80 Y = 99836.44
-Potencial: U = 90639.59
-Velocidade: Vx = 98593.28 Vy = 101417.11 V = 101445.02
-Pressão: P = 101450.49
-===============
-   ->Nó 1.014024e+05:
-Coordenadas: X = 101339.52 Y = 101407.27
-Potencial: U = 101338.73
-Velocidade: Vx = 101024.45 Vy = 101159.21 V = 101062.53
-Pressão: P = 101263.77
-===============
-   ->Nó 1.011611e+05:
-Coordenadas: X = 101211.68 Y = 101064.15
-Potencial: U = 101023.41
-Velocidade: Vx = 101353.01 Vy = 101265.40 V = 101214.42
-Pressão: P = 101355.80
-===============
-   ->Nó 1.014775e+05:
-Coordenadas: X = 101508.56 Y = 101248.62
-Potencial: U = 101317.51
-Velocidade: Vx = 101204.14 Vy = 101450.79 V = 101679.34
-Pressão: P = 101498.85
-===============
-   ->Nó 1.010594e+05:
-Coordenadas: X = 101373.48 Y = 101375.37
-Potencial: U = 102128.36
-Velocidade: Vx = 102119.68 Vy = 101287.98 V = 101280.24
-Pressão: P = 101676.14
-===============
-   ->Nó 1.017545e+05:
-Coordenadas: X = 101768.00 Y = 102453.05
-Potencial: U = 101931.29
-Velocidade: Vx = 100245.26 Vy = 100255.59 V = 100247.15
-Pressão: P = 100100.77
-===============
-   ->Nó 1.000906e+05:
-Coordenadas: X = 100800.39 Y = 98602.29
-Potencial: U = 98841.90
-Velocidade: Vx = 100408.79 Vy = 100676.43 V = 100582.06
-Pressão: P = 100431.03
-===============
-   ->Nó 1.004399e+05:
-Coordenadas: X = 100868.09 Y = 100772.17
-Potencial: U = 100552.89
-Velocidade: Vx = 100761.41 Vy = 100653.04 V = 100773.25
-Pressão: P = 100705.62
-===============
-   ->Nó 9.915403e+04:
-Coordenadas: X = 92111.33 Y = 96088.44
-Potencial: U = 99126.66
-Velocidade: Vx = 100477.58 Vy = 98768.10 V = 100759.55
-Pressão: P = 98020.38
-===============
-   ->Nó 1.010316e+05:
-Coordenadas: X = 99541.84 Y = 99527.87
-Potencial: U = 101952.64
-Velocidade: Vx = 99892.77 Vy = 100965.91 V = 99944.84
-Pressão: P = 101694.26
-===============
-   ->Nó 9.791776e+04:
-Coordenadas: X = 94221.37 Y = 96901.20
-Potencial: U = 100071.30
-Velocidade: Vx = 100456.30 Vy = 104180.34 V = 103080.13
-Pressão: P = 103305.50
-===============
-   ->Nó 1.008002e+05:
-Coordenadas: X = 101348.90 Y = 101516.15
-Potencial: U = 101896.53
-Velocidade: Vx = 97449.05 Vy = 101480.83 V = 101954.22
-Pressão: P = 101226.34
-===============
-   ->Nó 1.013258e+05:
-Coordenadas: X = 101349.20 Y = 101296.75
-Potencial: U = 101294.26
-Velocidade: Vx = 101325.81 Vy = 101294.62 V = 99671.96
-Pressão: P = 99108.48
-===============
-   ->Nó 9.091032e+04:
-Coordenadas: X = 100636.23 Y = 99057.58
-Potencial: U = 101055.25
-Velocidade: Vx = 101206.52 Vy = 101103.83 V = 101053.93
-Pressão: P = 101090.05
-===============
-   ->Nó 1.012512e+05:
-Coordenadas: X = 101312.80 Y = 101206.76
-Potencial: U = 101508.04
-Velocidade: Vx = 101389.74 Vy = 101406.97 V = 101507.27
-Pressão: P = 101251.03
-===============
-   ->Nó 1.014071e+05:
-Coordenadas: X = 101391.03 Y = 101313.61
-Potencial: U = 101398.88
-Velocidade: Vx = 101261.59 Vy = 101399.03 V = 101508.69
-Pressão: P = 101514.98
-===============
-   ->Nó 1.013059e+05:
-Coordenadas: X = 101247.70 Y = 101312.57
-Potencial: U = 101379.31
-Velocidade: Vx = 101531.39 Vy = 101451.47 V = 101084.45
-Pressão: P = 101456.89
-===============
-   ->Nó 1.014526e+05:
-Coordenadas: X = 101307.46 Y = 101753.22
-Potencial: U = 101748.96
-Velocidade: Vx = 101393.97 Vy = 101949.89 V = 101665.05
-Pressão: P = 101767.86
-===============
-   ->Nó 1.022859e+05:
-Coordenadas: X = 102319.66 Y = 102452.96
-Potencial: U = 102500.70
-Velocidade: Vx = 100212.40 Vy = 100255.42 V = 100218.71
-Pressão: P = 100094.28
-===============
-   ->Nó 1.000697e+05:
-Coordenadas: X = 100699.71 Y = 98337.17
-Potencial: U = 98662.26
-Velocidade: Vx = 100253.32 Vy = 100411.72 V = 100596.01
-Pressão: P = 100422.57
-===============
-   ->Nó 1.004300e+05:
-Coordenadas: X = 100895.41 Y = 100784.21
-Potencial: U = 100502.14
-Velocidade: Vx = 100770.37 Vy = 100605.82 V = 100837.98
-Pressão: P = 100740.89
-===============
-   ->Nó 9.918549e+04:
-Coordenadas: X = 92021.41 Y = 96073.31
-Potencial: U = 99142.78
-Velocidade: Vx = ===============
-Simulação de 11-Dec-2023 00:46:26
-===============
-Velocidade Máxima: 5255.55 Nó: 56
-Velocidade Mínima: 734.39 Nó: 138
-Pressão Máxima: 104180.34 Nó: 138
-Pressão Mínima: 90639.59 Nó: 56
-
-===============
-   ->Nó 1:
-Coordenadas: X =  2.00 Y =  3.00
-Potencial: U =  4.00
-Velocidade: Vx =  5.00 Vy =  6.00 V =  7.00
-Pressão: P =  8.00
-===============
-   ->Nó 9:
-Coordenadas: X = 10.00 Y = 11.00
-Potencial: U = 12.00
-Velocidade: Vx = 13.00 Vy = 14.00 V = 15.00
-Pressão: P = 16.00
-===============
-   ->Nó 17:
-Coordenadas: X = 18.00 Y = 19.00
-Potencial: U = 20.00
-Velocidade: Vx = 21.00 Vy = 22.00 V = 23.00
-Pressão: P = 24.00
-===============
-   ->Nó 25:
-Coordenadas: X = 26.00 Y = 27.00
-Potencial: U = 28.00
-Velocidade: Vx = 29.00 Vy = 30.00 V = 31.00
-Pressão: P = 32.00
-===============
-   ->Nó 33:
-Coordenadas: X = 34.00 Y = 35.00
-Potencial: U = 36.00
-Velocidade: Vx = 37.00 Vy = 38.00 V = 39.00
-Pressão: P = 40.00
-===============
-   ->Nó 41:
-Coordenadas: X = 42.00 Y = 43.00
-Potencial: U = 44.00
-Velocidade: Vx = 45.00 Vy = 46.00 V = 47.00
-Pressão: P = 48.00
-===============
-   ->Nó 49:
-Coordenadas: X = 50.00 Y = 51.00
-Potencial: U = 52.00
-Velocidade: Vx = 53.00 Vy = 54.00 V = 55.00
-Pressão: P = 56.00
-===============
-   ->Nó 57:
-Coordenadas: X = 58.00 Y = 59.00
-Potencial: U = 60.00
-Velocidade: Vx = 61.00 Vy = 62.00 V = 63.00
-Pressão: P = 64.00
-===============
-   ->Nó 65:
-Coordenadas: X = 66.00 Y = 67.00
-Potencial: U = 68.00
-Velocidade: Vx = 69.00 Vy = 70.00 V = 71.00
-Pressão: P = 72.00
-===============
-   ->Nó 73:
-Coordenadas: X = 74.00 Y = 75.00
-Potencial: U = 76.00
-Velocidade: Vx = 77.00 Vy = 78.00 V = 79.00
-Pressão: P = 80.00
-===============
-   ->Nó 81:
-Coordenadas: X = 82.00 Y = 83.00
-Potencial: U = 84.00
-Velocidade: Vx = 85.00 Vy = 86.00 V = 87.00
-Pressão: P = 88.00
-===============
-   ->Nó 89:
-Coordenadas: X = 90.00 Y = 91.00
-Potencial: U = 92.00
-Velocidade: Vx = 93.00 Vy = 94.00 V = 95.00
-Pressão: P = 96.00
-===============
-   ->Nó 97:
-Coordenadas: X = 98.00 Y = 99.00
-Potencial: U = 100.00
-Velocidade: Vx = 101.00 Vy = 102.00 V = 103.00
-Pressão: P = 104.00
-===============
-   ->Nó 105:
-Coordenadas: X = 106.00 Y = 107.00
-Potencial: U = 108.00
-Velocidade: Vx = 109.00 Vy = 110.00 V = 111.00
-Pressão: P = 112.00
-===============
-   ->Nó 113:
-Coordenadas: X = 114.00 Y = 115.00
-Potencial: U = 116.00
-Velocidade: Vx = 117.00 Vy = 118.00 V = 119.00
-Pressão: P = 120.00
-===============
-   ->Nó 121:
-Coordenadas: X = 122.00 Y = 123.00
-Potencial: U = 124.00
-Velocidade: Vx = 125.00 Vy = 126.00 V = 127.00
-Pressão: P = 128.00
-===============
-   ->Nó 129:
-Coordenadas: X = 130.00 Y = 131.00
-Potencial: U = 132.00
-Velocidade: Vx = 133.00 Vy = 134.00 V = 135.00
-Pressão: P = 136.00
-===============
-   ->Nó 137:
-Coordenadas: X = 138.00 Y = 139.00
-Potencial: U = 140.00
-Velocidade: Vx = 141.00 Vy = -1800.00 V = 100.00
-Pressão: P = -600.00
-===============
-   ->Nó -100:
-Coordenadas: X = 613.09 Y = 1800.00
-Potencial: U = 123.06
-Velocidade: Vx = -155.30 Vy = -225.37 V = 637.81
-Pressão: P = 665.29
-===============
-   ->Nó 6.551099e+02:
-Coordenadas: X = 434.73 Y = 278.71
-Potencial: U = 506.20
-Velocidade: Vx = 1521.51 Vy = 1664.52 V = 228.38
-Pressão: P = 88.50
-===============
-   ->Nó -8.827300e+01:
-Coordenadas: X = -16.26 Y = 16.63
-Potencial: U = 1658.67
-Velocidade: Vx = 1505.70 Vy = 192.86 V =  8.62
-Pressão: P = 326.28
-===============
-   ->Nó 4.330954e+02:
-Coordenadas: X = 958.54 Y = 834.30
-Potencial: U = 728.31
-Velocidade: Vx = 1512.45 Vy = 1352.99 V = 1155.20
-Pressão: P = 1096.44
-===============
-   ->Nó 1.374841e+03:
-Coordenadas: X = 1231.96 Y = 1224.75
-Potencial: U = 1059.01
-Velocidade: Vx = 863.26 Vy = 866.48 V = 957.83
-Pressão: P = 810.27
-===============
-   ->Nó 4.327448e+02:
-Coordenadas: X = 574.18 Y = 571.08
-Potencial: U = 692.94
-Velocidade: Vx = -739.30 Vy = -684.74 V = -616.07
-Pressão: P = -535.37
-===============
-   ->Nó -3.495524e+02:
-Coordenadas: X = -503.72 Y = -393.46
-Potencial: U = -1660.26
-Velocidade: Vx = -1509.74 Vy = -1520.18 V = -1663.64
-Pressão: P = -125.90
-===============
-   ->Nó -3.083740e+02:
-Coordenadas: X = -425.11 Y = -951.38
-Potencial: U = -814.80
-Velocidade: Vx = -696.06 Vy = -1083.91 V = -1370.97
-Pressão: P = -1227.90
-===============
-   ->Nó -1.218157e+03:
-Coordenadas: X = -1356.88 Y = -1511.72
-Potencial: U = -1173.59
-Velocidade: Vx = -1063.21 Vy = -899.08 V = -938.11
-Pressão: P = -917.75
-===============
-   ->Nó -7.256310e+02:
-Coordenadas: X = -815.74 Y = -415.39
-Potencial: U = -557.56
-Velocidade: Vx = -557.78 Vy = -682.72 V = -1900.00
-Pressão: P = -1900.00
-===============
-   ->Nó -1900:
-Coordenadas: X = -1900.00 Y = -1900.00
-Potencial: U = -526.90
-Velocidade: Vx = -457.38 Vy = -348.37 V = -219.71
-Pressão: P = -88.10
-===============
-   ->Nó -7.313820e+01:
-Coordenadas: X = -143.27 Y = -252.74
-Potencial: U = -380.55
-Velocidade: Vx = 1628.57 Vy = 1357.14 V = 1085.71
-Pressão: P = 814.29
-===============
-   ->Nó 5.428571e+02:
-Coordenadas: X = 271.43 Y =  0.00
-Potencial: U = -271.43
-Velocidade: Vx = -542.86 Vy = -814.29 V = -1085.71
-Pressão: P = -1357.14
-===============
-   ->Nó -1.628571e+03:
-Coordenadas: X = -1628.57 Y = -1357.14
-Potencial: U = -1085.71
-Velocidade: Vx = -814.29 Vy = -542.86 V = -271.43
-Pressão: P =  0.00
-===============
-   ->Nó 2.714286e+02:
-Coordenadas: X = 542.86 Y = 814.29
-Potencial: U = 1085.71
-Velocidade: Vx = 1357.14 Vy = 1628.57 V = 73.10
-Pressão: P = 142.62
-===============
-   ->Nó 2.516271e+02:
-Coordenadas: X = 380.29 Y = 511.90
-Potencial: U = 526.86
-Velocidade: Vx = 456.73 Vy = 347.26 V = 219.45
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 1900.00 Y = 1900.00
-Potencial: U = 1900.00
-Velocidade: Vx = -1900.00 Vy = -1900.00 V = -512.13
-Pressão: P = 1900.00
-===============
-   ->Nó 1900:
-Coordenadas: X = 87.87 Y =  0.00
-Potencial: U = -350.00
-Velocidade: Vx = -50.00 Vy = 350.00 V = 50.00
-Pressão: P =  0.00
-===============
-   ->Nó 5.854322e+02:
-Coordenadas: X = -590.67 Y = 137.82
-Potencial: U = 591.12
-Velocidade: Vx = 388.70 Vy = 198.94 V = 586.11
-Pressão: P = 543.57
-===============
-   ->Nó 4.320637e+02:
-Coordenadas: X = -540.63 Y = -273.65
-Potencial: U = -138.37
-Velocidade: Vx =  9.18 Vy = -8.73 V = 151.93
-Pressão: P = -151.86
-===============
-   ->Nó 2.494704e+02:
-Coordenadas: X = 514.33 Y = -563.19
-Potencial: U = -536.46
-Velocidade: Vx = -344.83 Vy = -152.34 V = -555.21
-Pressão: P = -321.13
-===============
-   ->Nó -1.125800e+02:
-Coordenadas: X = -25.25 Y = 217.98
-Potencial: U = 479.12
-Velocidade: Vx = -310.48 Vy = -292.58 V = -550.04
-Pressão: P = -58.82
-===============
-   ->Nó 1.530495e+02:
-Coordenadas: X = 307.82 Y = 559.42
-Potencial: U = -94.41
-Velocidade: Vx = 83.48 Vy = -561.89 V = -307.48
-Pressão: P = -101.96
-===============
-   ->Nó -5.574747e+02:
-Coordenadas: X = -590.12 Y = -386.41
-Potencial: U = -207.36
-Velocidade: Vx = -526.55 Vy = -597.41 V = -364.04
-Pressão: P = -453.66
-===============
-   ->Nó -2.558917e+02:
-Coordenadas: X = -525.02 Y = 538.94
-Potencial: U = 271.09
-Velocidade: Vx = 550.56 Vy = 339.60 V = 149.59
-Pressão: P = 549.99
-===============
-   ->Nó 3.062999e+02:
-Coordenadas: X = 100.79 Y = 292.12
-Potencial: U = 282.12
-Velocidade: Vx = 544.06 Vy = 27.05 V = -244.84
-Pressão: P = 13.27
-===============
-   ->Nó -5.194341e+02:
-Coordenadas: X = -222.78 Y = -425.82
-Potencial: U = -627.67
-Velocidade: Vx = 31.40 Vy = -69.36 V = -216.83
-Pressão: P = 557.91
-===============
-   ->Nó 3.003367e+02:
-Coordenadas: X = 97.17 Y = 552.07
-Potencial: U = -533.33
-Velocidade: Vx = -266.67 Vy =  0.00 V = 266.67
-Pressão: P = 533.33
-===============
-   ->Nó -1.194632e+02:
-Coordenadas: X = -247.55 Y = -356.76
-Potencial: U = -426.65
-Velocidade: Vx = -412.34 Vy = -280.89 V = -151.60
-Pressão: P = -42.42
-===============
-   ->Nó 2.690090e+01:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = -800.00
-Pressão: P = -800.00
-===============
-   ->Nó -800:
-Coordenadas: X = -800.00 Y = -800.00
-Potencial: U = -800.00
-Velocidade: Vx = -800.00 Vy = -800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 800.00
-Velocidade: Vx = 800.00 Vy = 800.00 V = 800.00
-Pressão: P = 800.00
-===============
-   ->Nó 800:
-Coordenadas: X = 800.00 Y = 800.00
-Potencial: U = 280.54
-Velocidade: Vx = 152.45 Vy = 43.24 V = -26.65
-Pressão: P = -12.34
-===============
-   ->Nó 1.191133e+02:
-Coordenadas: X = 248.40 Y = 357.58
-Potencial: U = 426.90
-Velocidade: Vx = 533.33 Vy = 266.67 V =  0.00
-Pressão: P = -266.67
-===============
-   ->Nó -5.333333e+02:
-Coordenadas: X = -800.00 Y = 800.00
-Potencial: U = 12.13
-Velocidade: Vx = -800.00 Vy = 800.00 V = 412.13
-Pressão: P = -10109658.14
-===============
-   ->Nó -4.778716e+06:
-Coordenadas: X = -7260545.11 Y = -5593424.10
-Potencial: U = -3089781.72
-Velocidade: Vx = -249540.93 Vy = -4784398.44 V = -5710351.51
-Pressão: P = -5860051.64
-===============
-   ->Nó -3.123794e+06:
-Coordenadas: X = -2990454.53 Y = -2954006.72
-Potencial: U = -3700605.18
-Velocidade: Vx = -4197893.40 Vy = -3381748.09 V = -961466.00
-Pressão: P = -593299.86
-===============
-   ->Nó -4.501005e+06:
-Coordenadas: X = -5007201.21 Y = -5362761.20
-Potencial: U = -5372057.94
-Velocidade: Vx = -4997640.47 Vy = -597744.81 V = -972400.98
-Pressão: P = -4572905.24
-===============
-   ->Nó -5.119528e+06:
-Coordenadas: X = -4165876.42 Y = -3833845.99
-Potencial: U = -2420164.09
-Velocidade: Vx = -2717130.59 Vy = -2929118.76 V = -967258.69
-Pressão: P = -1352759.27
-===============
-   ->Nó -1.831611e+06:
-Coordenadas: X = -2034432.07 Y = -1325015.59
-Potencial: U = -1704415.33
-Velocidade: Vx = -1684716.59 Vy = -2070382.85 V = -2525240.83
-Pressão: P = -2539667.03
-===============
-   ->Nó -2.350265e+06:
-Coordenadas: X = -2658934.80 Y = -3877492.41
-Potencial: U = -3430959.24
-Velocidade: Vx = -3342384.18 Vy = -3140520.54 V = -7521596.90
-Pressão: P = -7437293.68
-===============
-   ->Nó -7.353542e+06:
-Coordenadas: X = -7004871.81 Y = -6406446.63
-Potencial: U = -7046973.32
-Velocidade: Vx = -6655031.03 Vy = -9769537.91 V = -9430199.24
-Pressão: P = -9392761.06
-===============
-   ->Nó -9.762361e+06:
-Coordenadas: X = -5600524.57 Y = -6152978.70
-Potencial: U = -6509131.83
-Velocidade: Vx = -7927635.88 Vy = -7603847.38 V = -7364950.73
-Pressão: P = -8302409.73
-===============
-   ->Nó -9.028907e+06:
-Coordenadas: X = -8648264.49 Y = -8671295.05
-Potencial: U = -9033152.15
-Velocidade: Vx = -9396190.41 Vy = -8599755.80 V = -8320078.80
-Pressão: P = -7932527.72
-===============
-   ->Nó -8.017606e+06:
-Coordenadas: X = -7936573.25 Y = -7522774.85
-Potencial: U = -7745590.44
-Velocidade: Vx = -6442000.85 Vy = -6892617.16 V = -6994356.83
-Pressão: P = -7200187.30
-===============
-   ->Nó -1.030200e+07:
-Coordenadas: X = -10350194.12 Y = -10358679.83
-Potencial: U = -10353252.44
-Velocidade: Vx = -10347021.59 Vy = -7261699.10 V = -7106056.06
-Pressão: P = -6663375.09
-===============
-   ->Nó -6.001779e+06:
-Coordenadas: X = -5307055.38 Y = -5066354.48
-Potencial: U = -5260425.96
-Velocidade: Vx = -5717176.73 Vy = -6305309.03 V = -690906.77
-Pressão: P = -1386520.75
-===============
-   ->Nó -2.092962e+06:
-Coordenadas: X = -2819303.23 Y = -3574022.09
-Potencial: U = -4359977.64
-Velocidade: Vx = -5199317.19 Vy = -6114168.35 V = -6962124.16
-Pressão: P = -7698748.64
-===============
-   ->Nó -8.385607e+06:
-Coordenadas: X = -9070987.45 Y = -9802522.32
-Potencial: U = -9662448.05
-Velocidade: Vx = -8973272.44 Vy = -8271168.12 V = -7547629.33
-Pressão: P = -6794304.14
-===============
-   ->Nó -6.008363e+06:
-Coordenadas: X = -5170506.99 Y = -4265358.18
-Potencial: U = -3415684.46
-Velocidade: Vx = -2684783.24 Vy = -2005596.68 V = -1337104.77
-Pressão: P = -669021.55
-===============
-   ->Nó -5.302786e+06:
-Coordenadas: X = -5111779.28 Y = -4657394.01
-Potencial: U = -4066259.54
-Velocidade: Vx = -3409847.37 Vy = -3116863.09 V = -3286530.53
-Pressão: P = -3731800.92
-===============
-   ->Nó -4.369250e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U =  0.00
-Velocidade: Vx =  0.00 Vy =  0.00 V = -10723245.25
-Pressão: P = -10344073.68
-===============
-   ->Nó -6.963228e+06:
-Coordenadas: X =  0.00 Y =  0.00
-Potencial: U = -5058227.06
-Velocidade: Vx = 1924.81 Vy = 3334.76 V = 3130.38
-Pressão: P = 3725.85
-===============
-   ->Nó 3.234101e+03:
-Coordenadas: X = 3662.80 Y = 3517.23
-Potencial: U = 4534.69
-Velocidade: Vx = 2842.89 Vy = 2692.79 V = 2159.62
-Pressão: P = 2858.64
-===============
-   ->Nó 2.367581e+03:
-Coordenadas: X = 2605.86 Y = 2798.67
-Potencial: U = 852.05
-Velocidade: Vx = 1606.78 Vy = 1559.97 V = 2562.79
-Pressão: P = 2519.23
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.15
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.90 Vy = 2493.47 V = 1640.14
-Pressão: P = 2342.29
-===============
-   ->Nó 2.320290e+03:
-Coordenadas: X = 1481.94 Y = 1642.61
-Potencial: U = 2113.24
-Velocidade: Vx = 2391.67 Vy = 2410.47 V = 2498.66
-Pressão: P = 1642.45
-===============
-   ->Nó 2.352648e+03:
-Coordenadas: X = 2288.28 Y = 1466.61
-Potencial: U = 1641.28
-Velocidade: Vx = 2112.97 Vy = 2388.01 V = 2417.83
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.35 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.70 V = 3092.30
-Pressão: P = 2996.59
-===============
-   ->Nó 3.542674e+03:
-Coordenadas: X = 2630.24 Y = 3017.51
-Potencial: U = 5247.86
-Velocidade: Vx = 3263.20 Vy = 2462.86 V = 2451.52
-Pressão: P = 2449.20
-===============
-   ->Nó 2.468816e+03:
-Coordenadas: X = 2494.09 Y = 2466.66
-Potencial: U = 2494.44
-Velocidade: Vx = 2617.36 Vy = 2565.43 V = 2602.68
-Pressão: P = 2524.23
-===============
-   ->Nó 2.564210e+03:
-Coordenadas: X = 2544.18 Y = 2599.87
-Potencial: U = 2615.86
-Velocidade: Vx = 2488.34 Vy = 2523.42 V = 2542.13
-Pressão: P = 2486.97
-===============
-   ->Nó 2.438191e+03:
-Coordenadas: X = 2424.27 Y = 2510.32
-Potencial: U = 2502.27
-Velocidade: Vx = 2547.38 Vy = 2449.14 V = 2353.70
-Pressão: P = 2427.86
-===============
-   ->Nó 2.596112e+03:
-Coordenadas: X = 2477.73 Y = 2476.52
-Potencial: U = 2132.41
-Velocidade: Vx = 2100.14 Vy = 2501.80 V = 2495.49
-Pressão: P = 2355.03
-===============
-   ->Nó 2.314482e+03:
-Coordenadas: X = 2314.40 Y = 1994.57
-Potencial: U = 2222.72
-Velocidade: Vx = 2898.42 Vy = 2895.63 V = 2898.58
-Pressão: P = 2947.00
-===============
-   ->Nó 2.951466e+03:
-Coordenadas: X = 2660.31 Y = 3385.70
-Potencial: U = 3091.24
-Velocidade: Vx = 2690.52 Vy = 2577.88 V = 2780.54
-Pressão: P = 2829.26
-===============
-   ->Nó 2.831763e+03:
-Coordenadas: X = 2675.99 Y = 2711.94
-Potencial: U = 2764.63
-Velocidade: Vx = 2710.77 Vy = 2751.86 V = 2703.42
-Pressão: P = 2715.93
-===============
-   ->Nó 3.253532e+03:
-Coordenadas: X = 4962.04 Y = 3858.40
-Potencial: U = 3225.30
-Velocidade: Vx = 1933.31 Vy = 3370.50 V = 2713.88
-Pressão: P = 3585.48
-===============
-   ->Nó 2.604785e+03:
-Coordenadas: X = 3124.05 Y = 3128.21
-Potencial: U = 2202.83
-Velocidade: Vx = 2898.70 Vy = 2623.88 V = 2887.17
-Pressão: P = 2242.20
-===============
-   ->Nó 3.596050e+03:
-Coordenadas: X = 4067.16 Y = 3845.80
-Potencial: U = 2540.39
-Velocidade: Vx = 2528.43 Vy = 497.52 V = 1300.13
-Pressão: P = 1451.32
-===============
-   ->Nó 2.695129e+03:
-Coordenadas: X = 2490.22 Y = 2422.32
-Potencial: U = 2225.55
-Velocidade: Vx = 3392.14 Vy = 2430.16 V = 2234.15
-Pressão: P = 2539.07
-===============
-   ->Nó 2.499556e+03:
-Coordenadas: X = 2490.22 Y = 2511.25
-Potencial: U = 2512.25
-Velocidade: Vx = 2499.57 Vy = 2511.89 V = 3086.84
-Pressão: P = 3267.64
-===============
-   ->Nó 5.176847e+03:
-Coordenadas: X = 2743.33 Y = 3146.28
-Potencial: U = 2605.54
-Velocidade: Vx = 2546.90 Vy = 2586.70 V = 2603.62
-Pressão: P = 2589.38
-===============
-   ->Nó 2.528319e+03:
-Coordenadas: X = 2504.58 Y = 2546.09
-Potencial: U = 2423.83
-Velocidade: Vx = 2473.87 Vy = 2465.92 V = 2425.51
-Pressão: P = 2526.94
-===============
-   ->Nó 2.465806e+03:
-Coordenadas: X = 2473.17 Y = 2503.94
-Potencial: U = 2469.28
-Velocidade: Vx = 2525.09 Vy = 2469.38 V = 2425.07
-Pressão: P = 2420.93
-===============
-   ->Nó 2.506824e+03:
-Coordenadas: X = 2530.53 Y = 2504.45
-Potencial: U = 2478.15
-Velocidade: Vx = 2415.63 Vy = 2448.34 V = 2583.03
-Pressão: P = 2444.19
-===============
-   ->Nó 2.443557e+03:
-Coordenadas: X = 2491.63 Y = 2322.19
-Potencial: U = 2317.03
-Velocidade: Vx = 2419.72 Vy = 2231.24 V = 2350.20
-Pressão: P = 2315.91
-===============
-   ->Nó 1.997854e+03:
-Coordenadas: X = 2028.13 Y = 1977.27
-Potencial: U = 1948.30
-Velocidade: Vx = 2909.42 Vy = 2895.57 V = 2908.40
-Pressão: P = 2949.01
-===============
-   ->Nó 2.959303e+03:
-Coordenadas: X = 2693.07 Y = 3461.00
-Potencial: U = 3136.76
-Velocidade: Vx = 2707.06 Vy = 2640.36 V = 2775.41
-Pressão: P = 2831.99
-===============
-   ->Nó 2.835233e+03:
-Coordenadas: X = 2665.67 Y = 2707.46
-Potencial: U = 2775.11
-Velocidade: Vx = 2706.27 Vy = 2768.47 V = 2669.89
-Pressão: P = 2702.32
-===============
-   ->Nó 3.242706e+03:
-Coordenadas: X = 4983.48 Y = 3854.19
-Potencial: U = 3220.68
-Velocidade: Vx = 2009.71 Vy = 113.11 V = -250.46
-Pressão: P = -157.32
-===============
-   ->Nó -1.712761e+02:
-Coordenadas: X = -391.75 Y = -1209.65
-Potencial: U = -834.63
-Velocidade: Vx = -105.13 Vy = -173.36 V = -1100.14
-Pressão: P = -743.56
-===============
-   ->Nó -3.372303e+02:
-Coordenadas: X = -860.84 Y = -1272.28
-Potencial: U = 671.24
-Velocidade: Vx = -278.30 Vy = -466.09 V = 14.73
-Pressão: P =  8.93
-===============
-   ->Nó -2.168050e-11:
-Coordenadas: X =  0.00 Y =  5.39
-Potencial: U = -0.00
-Velocidade: Vx = 18.50 Vy = -1671.84 V = -601.02
-Pressão: P = -127.38
-===============
-   ->Nó 1.598030e+03:
-Coordenadas: X = -491.10 Y = -1350.42
-Potencial: U = -1005.02
-Velocidade: Vx = -1155.83 Vy = -1138.25 V = -1678.21
-Pressão: P = -610.11
-===============
-   ->Nó -1.149691e+02:
-Coordenadas: X = 1570.60 Y = -487.78
-Potencial: U = -1348.14
-Velocidade: Vx = -1002.41 Vy = -1166.75 V = -1138.48
-Pressão: P =  3.34
-===============
-   ->Nó -1.689225e-11:
-Coordenadas: X =  7.15 Y =  1.31
-Potencial: U = -0.00
-Velocidade: Vx = -0.00 Vy =  9.49 V = 126.84
-Pressão: P = 204.78
-===============
-   ->Nó 1.869270e+02:
-Coordenadas: X = 538.74 Y = 348.94
-Potencial: U = 284.15
-Velocidade: Vx = 1031.97 Vy = -8.91 V = -1.77
-Pressão: P = 21.39
-===============
-   ->Nó 1.128276e+01:
-Coordenadas: X = 21.38 Y = 32.18
-Potencial: U = 17.39
-Velocidade: Vx = 23.12 Vy = 13.06 V = 31.71
-Pressão: P = 26.90
-===============
-   ->Nó 5.053642e+01:
-Coordenadas: X = 61.65 Y = 111.22
-Potencial: U = 102.21
-Velocidade: Vx = 46.39 Vy = 39.33 V = 93.51
-Pressão: P = 58.09
-===============
-   ->Nó 1.305879e+01:
-Coordenadas: X = 76.07 Y = -317.85
-Potencial: U = -60.29
-Velocidade: Vx = -50.51 Vy = -11.88 V = 37.98
-Pressão: P = -88.40
-===============
-   ->Nó 2.036790e+02:
-Coordenadas: X = 117.89 Y = 126.96
-Potencial: U = 310.05
-Velocidade: Vx = 500.05 Vy = 255.07 V = 334.77
-Pressão: P = 39.67
-===============
-   ->Nó 1.846376e+02:
-Coordenadas: X = -86.95 Y = 124.81
-Potencial: U = -311.36
-Velocidade: Vx = 92.98 Vy = 64.57 V = 62.56
-Pressão: P = 116.81
-===============
-   ->Nó 8.718409e+01:
-Coordenadas: X = 471.15 Y = 482.10
-Potencial: U = 1288.57
-Velocidade: Vx = 918.42 Vy = 949.57 V = 66.73
-Pressão: P = 182.26
-===============
-   ->Nó 3.503310e+01:
-Coordenadas: X = 53.59 Y = 32.41
-Potencial: U = 388.65
-Velocidade: Vx = 170.07 Vy = 145.49 V = 212.13
-Pressão: P = -335.35
-===============
-   ->Nó -8.043054e+01:
-Coordenadas: X = 235.58 Y = -1354.94
-Potencial: U = -494.08
-Velocidade: Vx = 2051.14 Vy = 59.20 V = -125.53
-Pressão: P = -60.06
-===============
-   ->Nó -2.276405e+02:
-Coordenadas: X = -238.00 Y = -241.97
-Potencial: U = -377.16
-Velocidade: Vx = -843.79 Vy = -288.88 V = -821.33
-Pressão: P = -695.73
-===============
-   ->Nó -3.645702e+02:
-Coordenadas: X = -1978.75 Y = -554.48
-Potencial: U = -1517.83
-Velocidade: Vx = -1262.71 Vy = 540.18 V = -1024.40
-Pressão: P = -427.41
-===============
-   ->Nó 1.893151e+02:
-Coordenadas: X = -31.82 Y = -6.36
-Potencial: U = 392.24
-Velocidade: Vx = 1579.65 Vy = -180.71 V = -11.34
-Pressão: P = 21.18
-===============
-   ->Nó 2.385490e+01:
-Coordenadas: X = 20.35 Y = 11.05
-Potencial: U = 10.04
-Velocidade: Vx = 23.37 Vy = 34.47 V = 165.88
-Pressão: P = 74.62
-===============
-   ->Nó 5.287866e+02:
-Coordenadas: X = 318.90 Y = 941.15
-Potencial: U = 25.92
-Velocidade: Vx = 16.29 Vy = 36.39 V = 115.24
-Pressão: P = 122.56
-===============
-   ->Nó 7.220610e+01:
-Coordenadas: X = 38.38 Y = 62.50
-Potencial: U = 94.74
-Velocidade: Vx = 21.79 Vy = 72.72 V = 48.48
-Pressão: P = 111.85
-===============
-   ->Nó 7.522893e+01:
-Coordenadas: X = 37.13 Y = 55.26
-Potencial: U = 69.95
-Velocidade: Vx = 27.59 Vy = 64.04 V = 40.44
-Pressão: P = 95.68
-===============
-   ->Nó -6.326519e+01:
-Coordenadas: X = -31.97 Y = -50.71
-Potencial: U = 12.89
-Velocidade: Vx = 43.95 Vy = -51.96 V = 242.97
-Pressão: P = 110.11
-===============
-   ->Nó 1.540827e+02:
-Coordenadas: X = 277.20 Y = -31.58
-Potencial: U = 182.88
-Velocidade: Vx = 506.97 Vy = 147.62 V = -215.59
-Pressão: P = -29.08
-===============
-   ->Nó 5.802918e+02:
-Coordenadas: X = 383.89 Y = -290.65
-Potencial: U = 320.51
-Velocidade: Vx = 102.23 Vy = 69.40 V = 61.77
-Pressão: P = 121.64
-===============
-   ->Nó 5.629585e+01:
-Coordenadas: X = 497.93 Y = 497.13
-Potencial: U = 1317.66
-Velocidade: Vx = 1032.07 Vy = 1051.21 V = 71.38
-Pressão: P = 186.23
-===============
-   ->Nó 3.762717e+01:
-Coordenadas: X = 58.23 Y = 35.32
-Potencial: U = 441.00
-Velocidade: Vx = 188.08 Vy = 154.65 V = 309.41
-Pressão: P = -340.12
-===============
-   ->Nó -1.178260e+02:
-Coordenadas: X = 148.57 Y = -1377.90
-Potencial: U = -491.61
-Velocidade: Vx = 2782.78 Vy = 3336.68 V = 3140.38
-Pressão: P = 3729.17
-===============
-   ->Nó 3.238633e+03:
-Coordenadas: X = 3683.69 Y = 3719.43
-Potencial: U = 4610.86
-Velocidade: Vx = 2844.84 Vy = 2698.37 V = 2423.69
-Pressão: P = 2953.76
-===============
-   ->Nó 2.391477e+03:
-Coordenadas: X = 2744.37 Y = 3074.29
-Potencial: U = 1084.69
-Velocidade: Vx = 1630.71 Vy = 1628.11 V = 2562.83
-Pressão: P = 2519.25
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2545.45 Y = 2540.16
-Potencial: U = 2519.50
-Velocidade: Vx = 2539.97 Vy = 3002.07 V = 1746.79
-Pressão: P = 2345.75
-===============
-   ->Nó 2.817347e+03:
-Coordenadas: X = 1561.20 Y = 2126.46
-Potencial: U = 2340.05
-Velocidade: Vx = 2656.32 Vy = 2665.70 V = 3009.93
-Pressão: P = 1752.10
-===============
-   ->Nó 2.355456e+03:
-Coordenadas: X = 2775.43 Y = 1545.60
-Potencial: U = 2123.98
-Velocidade: Vx = 2338.69 Vy = 2657.80 V = 2672.46
-Pressão: P = 2461.36
-===============
-   ->Nó 2.495409e+03:
-Coordenadas: X = 2476.36 Y = 2466.10
-Potencial: U = 2464.82
-Velocidade: Vx = 2476.86 Vy = 2465.72 V = 3094.90
-Pressão: P = 3003.58
-===============
-   ->Nó 3.547602e+03:
-Coordenadas: X = 2684.85 Y = 3037.62
-Potencial: U = 5255.55
-Velocidade: Vx = 3422.49 Vy = 2462.88 V = 2451.52
-Pressão: P = 2449.29
-===============
-   ->Nó 2.468842e+03:
-Coordenadas: X = 2494.19 Y = 2466.87
-Potencial: U = 2494.50
-Velocidade: Vx = 2617.46 Vy = 2565.46 V = 2602.87
-Pressão: P = 2524.37
-===============
-   ->Nó 2.564708e+03:
-Coordenadas: X = 2544.92 Y = 2602.25
-Potencial: U = 2617.86
-Velocidade: Vx = 2488.77 Vy = 2523.73 V = 2543.85
-Pressão: P = 2487.65
-===============
-   ->Nó 2.438226e+03:
-Coordenadas: X = 2425.47 Y = 2530.37
-Potencial: U = 2502.99
-Velocidade: Vx = 2547.88 Vy = 2449.17 V = 2354.00
-Pressão: P = 2429.47
-===============
-   ->Nó 2.604089e+03:
-Coordenadas: X = 2480.53 Y = 2479.77
-Potencial: U = 2154.83
-Velocidade: Vx = 2158.85 Vy = 2514.76 V = 2517.84
-Pressão: P = 2355.36
-===============
-   ->Nó 2.321835e+03:
-Coordenadas: X = 2316.03 Y = 1998.47
-Potencial: U = 2244.42
-Velocidade: Vx = 2899.91 Vy = 2896.35 V = 2899.26
-Pressão: P = 2949.32
-===============
-   ->Nó 2.952754e+03:
-Coordenadas: X = 2701.71 Y = 3419.86
-Potencial: U = 3349.06
-Velocidade: Vx = 2842.96 Vy = 2747.20 V = 2781.34
-Pressão: P = 2835.13
-===============
-   ->Nó 2.831980e+03:
-Coordenadas: X = 2676.53 Y = 2712.13
-Potencial: U = 2791.81
-Velocidade: Vx = 2716.10 Vy = 2755.71 V = 2711.73
-Pressão: P = 2736.56
-===============
-   ->Nó 3.254526e+03:
-Coordenadas: X = 4967.63 Y = 4089.39
-Potencial: U = 3262.93
-Velocidade: Vx = 2818.66 Vy = 3371.02 V = 2716.78
-Pressão: P = 3585.98
-===============
-   ->Nó 2.614714e+03:
-Coordenadas: X = 3133.10 Y = 3137.56
-Potencial: U = 2234.89
-Velocidade: Vx = 3019.02 Vy = 2639.73 V = 3001.72
-Pressão: P = 2347.65
-===============
-   ->Nó 3.614483e+03:
-Coordenadas: X = 4522.97 Y = 3885.56
-Potencial: U = 2959.29
-Velocidade: Vx = 2826.20 Vy = 734.39 V = 1655.22
-Pressão: P = 1512.94
-===============
-   ->Nó 2.701770e+03:
-Coordenadas: X = 2490.42 Y = 2422.33
-Potencial: U = 2259.85
-Velocidade: Vx = 3741.91 Vy = 2436.87 V = 2234.18
-Pressão: P = 2539.16
-===============
-   ->Nó 2.499670e+03:
-Coordenadas: X = 2490.30 Y = 2511.28
-Potencial: U = 2512.27
-Velocidade: Vx = 2499.67 Vy = 2512.12 V = 3091.29
-Pressão: P = 3268.49
-===============
-   ->Nó 5.203783e+03:
-Coordenadas: X = 2761.80 Y = 3284.03
-Potencial: U = 2605.67
-Velocidade: Vx = 2546.95 Vy = 2586.96 V = 2606.17
-Pressão: P = 2592.28
-===============
-   ->Nó 2.529350e+03:
-Coordenadas: X = 2504.87 Y = 2546.86
-Potencial: U = 2425.68
-Velocidade: Vx = 2473.97 Vy = 2467.00 V = 2426.00
-Pressão: P = 2529.41
-===============
-   ->Nó 2.466953e+03:
-Coordenadas: X = 2473.45 Y = 2504.55
-Potencial: U = 2470.27
-Velocidade: Vx = 2525.24 Vy = 2470.21 V = 2425.41
-Pressão: P = 2422.82
-===============
-   ->Nó 2.507622e+03:
-Coordenadas: X = 2530.73 Y = 2504.97
-Potencial: U = 2478.18
-Velocidade: Vx = 2416.03 Vy = 2448.89 V = 2594.44
-Pressão: P = 2446.67
-===============
-   ->Nó 2.448410e+03:
-Coordenadas: X = 2507.00 Y = 2322.40
-Potencial: U = 2324.24
-Velocidade: Vx = 2472.26 Vy = 2236.12 V = 2360.06
-Pressão: P = 2316.09
-===============
-   ->Nó 2.080423e+03:
-Coordenadas: X = 2064.14 Y = 1998.52
-Potencial: U = 1974.49
-Velocidade: Vx = 2911.22 Vy = 2896.41 V = 2909.05
-Pressão: P = 2951.52
-===============
-   ->Nó 2.959838e+03:
-Coordenadas: X = 2738.72 Y = 3496.52
-Potencial: U = 3402.28
-Velocidade: Vx = 2897.13 Vy = 2841.93 V = 2776.33
-Pressão: P = 2838.11
-===============
-   ->Nó 2.835483e+03:
-Coordenadas: X = 2666.30 Y = 2707.69
-Potencial: U = 2809.93
-Velocidade: Vx = 2712.80 Vy = 2772.79 V = 2687.76
-Pressão: P = 2723.64
-===============
-   ->Nó 3.244846e+03:
-Coordenadas: X = 4985.70 Y = 4093.09
-Potencial: U = 3257.98
-Velocidade: Vx = 100578.07 Vy = 98883.30 V = 99519.00
-Pressão: P = 97496.63
-===============
-   ->Nó 9.920563e+04:
-Coordenadas: X = 97665.23 Y = 97532.91
-Potencial: U = 93819.99
-Velocidade: Vx = 100403.45 Vy = 100809.40 V = 101512.86
-Pressão: P = 100087.64
-===============
-   ->Nó 1.015904e+05:
-Coordenadas: X = 100684.22 Y = 99724.38
-Potencial: U = 103861.72
-Velocidade: Vx = 103120.40 Vy = 103124.63 V = 101165.95
-Pressão: P = 101276.70
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101210.35 Y = 101223.79
-Potencial: U = 101276.07
-Velocidade: Vx = 101224.28 Vy = 99943.79 V = 102924.37
-Pressão: P = 101698.74
-===============
-   ->Nó 1.004813e+05:
-Coordenadas: X = 103231.33 Y = 102189.09
-Potencial: U = 101712.08
-Velocidade: Vx = 100921.98 Vy = 100897.01 V = 99920.16
-Pressão: P = 102915.07
-===============
-   ->Nó 1.016759e+05:
-Coordenadas: X = 100598.50 Y = 103255.57
-Potencial: U = 102194.36
-Velocidade: Vx = 101715.26 Vy = 100918.05 V = 100878.98
-Pressão: P = 101420.85
-===============
-   ->Nó 1.013365e+05:
-Coordenadas: X = 101383.81 Y = 101409.18
-Potencial: U = 101412.34
-Velocidade: Vx = 101382.58 Vy = 101410.11 V = 99660.79
-Pressão: P = 99939.24
-===============
-   ->Nó 9.815726e+04:
-Coordenadas: X = 100845.80 Y = 99836.44
-Potencial: U = 90639.59
-Velocidade: Vx = 98593.28 Vy = 101417.11 V = 101445.02
-Pressão: P = 101450.49
-===============
-   ->Nó 1.014024e+05:
-Coordenadas: X = 101339.52 Y = 101407.27
-Potencial: U = 101338.73
-Velocidade: Vx = 101024.45 Vy = 101159.21 V = 101062.53
-Pressão: P = 101263.77
-===============
-   ->Nó 1.011611e+05:
-Coordenadas: X = 101211.68 Y = 101064.15
-Potencial: U = 101023.41
-Velocidade: Vx = 101353.01 Vy = 101265.40 V = 101214.42
-Pressão: P = 101355.80
-===============
-   ->Nó 1.014775e+05:
-Coordenadas: X = 101508.56 Y = 101248.62
-Potencial: U = 101317.51
-Velocidade: Vx = 101204.14 Vy = 101450.79 V = 101679.34
-Pressão: P = 101498.85
-===============
-   ->Nó 1.010594e+05:
-Coordenadas: X = 101373.48 Y = 101375.37
-Potencial: U = 102128.36
-Velocidade: Vx = 102119.68 Vy = 101287.98 V = 101280.24
-Pressão: P = 101676.14
-===============
-   ->Nó 1.017545e+05:
-Coordenadas: X = 101768.00 Y = 102453.05
-Potencial: U = 101931.29
-Velocidade: Vx = 100245.26 Vy = 100255.59 V = 100247.15
-Pressão: P = 100100.77
-===============
-   ->Nó 1.000906e+05:
-Coordenadas: X = 100800.39 Y = 98602.29
-Potencial: U = 98841.90
-Velocidade: Vx = 100408.79 Vy = 100676.43 V = 100582.06
-Pressão: P = 100431.03
-===============
-   ->Nó 1.004399e+05:
-Coordenadas: X = 100868.09 Y = 100772.17
-Potencial: U = 100552.89
-Velocidade: Vx = 100761.41 Vy = 100653.04 V = 100773.25
-Pressão: P = 100705.62
-===============
-   ->Nó 9.915403e+04:
-Coordenadas: X = 92111.33 Y = 96088.44
-Potencial: U = 99126.66
-Velocidade: Vx = 100477.58 Vy = 98768.10 V = 100759.55
-Pressão: P = 98020.38
-===============
-   ->Nó 1.010316e+05:
-Coordenadas: X = 99541.84 Y = 99527.87
-Potencial: U = 101952.64
-Velocidade: Vx = 99892.77 Vy = 100965.91 V = 99944.84
-Pressão: P = 101694.26
-===============
-   ->Nó 9.791776e+04:
-Coordenadas: X = 94221.37 Y = 96901.20
-Potencial: U = 100071.30
-Velocidade: Vx = 100456.30 Vy = 104180.34 V = 103080.13
-Pressão: P = 103305.50
-===============
-   ->Nó 1.008002e+05:
-Coordenadas: X = 101348.90 Y = 101516.15
-Potencial: U = 101896.53
-Velocidade: Vx = 97449.05 Vy = 101480.83 V = 101954.22
-Pressão: P = 101226.34
-===============
-   ->Nó 1.013258e+05:
-Coordenadas: X = 101349.20 Y = 101296.75
-Potencial: U = 101294.26
-Velocidade: Vx = 101325.81 Vy = 101294.62 V = 99671.96
-Pressão: P = 99108.48
-===============
-   ->Nó 9.091032e+04:
-Coordenadas: X = 100636.23 Y = 99057.58
-Potencial: U = 101055.25
-Velocidade: Vx = 101206.52 Vy = 101103.83 V = 101053.93
-Pressão: P = 101090.05
-===============
-   ->Nó 1.012512e+05:
-Coordenadas: X = 101312.80 Y = 101206.76
-Potencial: U = 101508.04
-Velocidade: Vx = 101389.74 Vy = 101406.97 V = 101507.27
-Pressão: P = 101251.03
-===============
-   ->Nó 1.014071e+05:
-Coordenadas: X = 101391.03 Y = 101313.61
-Potencial: U = 101398.88
-Velocidade: Vx = 101261.59 Vy = 101399.03 V = 101508.69
-Pressão: P = 101514.98
-===============
-   ->Nó 1.013059e+05:
-Coordenadas: X = 101247.70 Y = 101312.57
-Potencial: U = 101379.31
-Velocidade: Vx = 101531.39 Vy = 101451.47 V = 101084.45
-Pressão: P = 101456.89
-===============
-   ->Nó 1.014526e+05:
-Coordenadas: X = 101307.46 Y = 101753.22
-Potencial: U = 101748.96
-Velocidade: Vx = 101393.97 Vy = 101949.89 V = 101665.05
-Pressão: P = 101767.86
-===============
-   ->Nó 1.022859e+05:
-Coordenadas: X = 102319.66 Y = 102452.96
-Potencial: U = 102500.70
-Velocidade: Vx = 100212.40 Vy = 100255.42 V = 100218.71
-Pressão: P = 100094.28
-===============
-   ->Nó 1.000697e+05:
-Coordenadas: X = 100699.71 Y = 98337.17
-Potencial: U = 98662.26
-Velocidade: Vx = 100253.32 Vy = 100411.72 V = 100596.01
-Pressão: P = 100422.57
-===============
-   ->Nó 1.004300e+05:
-Coordenadas: X = 100895.41 Y = 100784.21
-Potencial: U = 100502.14
-Velocidade: Vx = 100770.37 Vy = 100605.82 V = 100837.98
-Pressão: P = 100740.89
-===============
-   ->Nó 9.918549e+04:
-Coordenadas: X = 92021.41 Y = 96073.31
-Potencial: U = 99142.78
-Velocidade: Vx = 
+Coordenadas: X =    -1900.00 Y =     800.00
+Potencial:   U = -10352175.25
+===============
+   ->Nó 138:
+Coordenadas: X =     -512.13 Y =      12.13
+Potencial:   U = -6963739.32
+===============
+   ->Nó 139:
+Coordenadas: X =     1900.00 Y =    -800.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 140:
+Coordenadas: X =     1900.00 Y =     800.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 141:
+Coordenadas: X =       87.87 Y =     412.13
+Potencial:   U = -5058948.44

@@ -15,7 +15,7 @@ function [x, y, conectividades] = gerar_malha(elementos_nome_ficheiro, nos_nome_
     for i = 11:6:length(nos_bruto)
         nos((i - 11)/6 + 1) = nos_bruto(i);
     end
-
+    
     % Selecionar informações necessárias
     coordenadas_nos = split(nos);
     coordenadas_nos = coordenadas_nos(:,5:6);
@@ -47,4 +47,15 @@ function [x, y, conectividades] = gerar_malha(elementos_nome_ficheiro, nos_nome_
     % Selecionar informações necessárias
     conectividades = split(elementos);
     conectividades = str2double(conectividades(:,11:end));
+    
+    buffer = conectividades(:,2);
+    conectividades(:,2) = conectividades(:,3);
+    conectividades(:,3) = buffer;
+    
+    if length(conectividades(1,:)) > 3
+        buffer = conectividades(:,4);
+        conectividades(:,4) = conectividades(:,6);
+        conectividades(:,6) = buffer;
+    end
+    
 end

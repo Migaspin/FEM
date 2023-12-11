@@ -9,7 +9,7 @@ nos_nome_ficheiro = "NOS.txt";
 [Kg, fg] = Assem_TRI6(x, y, tri);
 
 % Aplicação da condição de fronteira de Neumann
-fg = neumann_TRI6(y, selecionar_nos(x, -1900), fg, -2500);
+fg = neumann_TRI6(y, selecionar_nos(x, -1900), fg, 2500);
 
 % Malha original guardada
 Kr = Kg;
@@ -31,8 +31,10 @@ U = @(X,Y) 2500 * X - 4750000;
 erro = U(x, y) - u;
 
 % Visualização da malha, dos resultados em 2D e 3D, velocidade, pressao, e erro
-visualisar_malha_simples(x, y, tri)
+visualisar_malha_simples(x, y, tri, true)
 visualisar_malha_solucao(x, y, u, tri);
 visualisar_malha_com_velocidade(x, y, vx, vy, tri);
 visualisar_pressao(x, y, p, tri);
 visualisar_malha_solucao(x, y, erro, tri)
+
+extrair_resultados_TRI6("resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)

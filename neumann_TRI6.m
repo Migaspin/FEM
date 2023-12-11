@@ -1,7 +1,7 @@
 function fg = neumann_TRI6(coordenada, nos, fg, derivada)
     % Organizamos o vector dos elementos 
     nos_e_coordenadas = [coordenada(nos) nos];
-    nos_e_coordenadas = sort(nos_e_coordenadas);
+    nos_e_coordenadas = sortrows(nos_e_coordenadas);
     nos_e_coordenadas = [nos_e_coordenadas(:,2) nos_e_coordenadas(:,1)];
     
     % Ciclo que percorre todos os elementos excepto o último

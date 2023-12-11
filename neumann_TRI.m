@@ -1,7 +1,7 @@
 function fg = neumann_TRI(coordenada, nos, fg, derivada)
     % Organizamos o vector dos elementos 
     elementos = [coordenada(nos) nos ];
-    elementos = sort(elementos);
+    elementos = sortrows(elementos);
     elementos = [elementos(:,2) elementos(:,1)];
     
     % Ciclo que percorre todos os elementos excepto o último
