@@ -1,0 +1,3156 @@
+===============
+Simulação de 11-Dec-2023 14:04:27
+===============
+Velocidade Máxima:    6428.88 Nó: 56
+Velocidade Mínima:     570.13 Nó: 138
+Pressão Máxima:  104287.48 Nó: 138
+Pressão Mínima:   83784.72 Nó: 56
+
+===============
+   ->Nó 1:
+Coordenadas: X =    -1800.00 Y =       0.00
+Potencial:   U = -10304756.91
+===============
+   ->Nó 2:
+Coordenadas: X =      100.00 Y =    -350.00
+Potencial:   U = -4836657.56
+===============
+   ->Nó 3:
+Coordenadas: X =     -600.00 Y =     -50.00
+Potencial:   U = -7483857.40
+===============
+   ->Nó 4:
+Coordenadas: X =     -100.00 Y =     350.00
+Potencial:   U = -5709033.97
+===============
+   ->Nó 5:
+Coordenadas: X =      613.09 Y =      50.00
+Potencial:   U = -3043776.90
+===============
+   ->Nó 6:
+Coordenadas: X =     1800.00 Y =       0.00
+Potencial:   U = -249460.94
+===============
+   ->Nó 7:
+Coordenadas: X =      123.06 Y =     585.43
+Potencial:   U = -4823994.80
+===============
+   ->Nó 8:
+Coordenadas: X =     -155.30 Y =    -590.67
+Potencial:   U = -5845637.58
+===============
+   ->Nó 9:
+Coordenadas: X =     -225.37 Y =     137.82
+Potencial:   U = -5958199.54
+===============
+   ->Nó 10:
+Coordenadas: X =      637.81 Y =     591.12
+Potencial:   U = -3107009.80
+===============
+   ->Nó 11:
+Coordenadas: X =      665.29 Y =     388.70
+Potencial:   U = -2957561.44
+===============
+   ->Nó 12:
+Coordenadas: X =      655.11 Y =     198.94
+Potencial:   U = -2918902.05
+===============
+   ->Nó 13:
+Coordenadas: X =      434.73 Y =     586.11
+Potencial:   U = -3682391.28
+===============
+   ->Nó 14:
+Coordenadas: X =      278.71 Y =     543.57
+Potencial:   U = -4197405.88
+===============
+   ->Nó 15:
+Coordenadas: X =      506.20 Y =     432.06
+Potencial:   U = -3359188.33
+===============
+   ->Nó 16:
+Coordenadas: X =     1521.51 Y =    -540.63
+Potencial:   U = -966115.73
+===============
+   ->Nó 17:
+Coordenadas: X =     1664.52 Y =    -273.65
+Potencial:   U = -594561.60
+===============
+   ->Nó 18:
+Coordenadas: X =      228.38 Y =    -138.37
+Potencial:   U = -4577629.69
+===============
+   ->Nó 19:
+Coordenadas: X =       88.50 Y =       9.18
+Potencial:   U = -5101933.69
+===============
+   ->Nó 20:
+Coordenadas: X =      -88.27 Y =      -8.73
+Potencial:   U = -5443222.55
+===============
+   ->Nó 21:
+Coordenadas: X =      -16.26 Y =     151.93
+Potencial:   U = -5485177.13
+===============
+   ->Nó 22:
+Coordenadas: X =       16.63 Y =    -151.86
+Potencial:   U = -5059253.86
+===============
+   ->Nó 23:
+Coordenadas: X =     1658.67 Y =     249.47
+Potencial:   U = -596340.95
+===============
+   ->Nó 24:
+Coordenadas: X =     1505.70 Y =     514.33
+Potencial:   U = -968246.27
+===============
+   ->Nó 25:
+Coordenadas: X =      192.86 Y =    -563.19
+Potencial:   U = -4645133.68
+===============
+   ->Nó 26:
+Coordenadas: X =        8.62 Y =    -536.46
+Potencial:   U = -5213092.51
+===============
+   ->Nó 27:
+Coordenadas: X =      326.28 Y =    -344.83
+Potencial:   U = -4223456.48
+===============
+   ->Nó 28:
+Coordenadas: X =      433.10 Y =    -152.34
+Potencial:   U = -3877485.88
+===============
+   ->Nó 29:
+Coordenadas: X =      958.54 Y =    -555.21
+Potencial:   U = -2438657.57
+===============
+   ->Nó 30:
+Coordenadas: X =      834.30 Y =    -321.13
+Potencial:   U = -2733091.95
+===============
+   ->Nó 31:
+Coordenadas: X =      728.31 Y =    -112.58
+Potencial:   U = -2929792.67
+===============
+   ->Nó 32:
+Coordenadas: X =     1512.45 Y =     -25.25
+Potencial:   U = -967107.50
+===============
+   ->Nó 33:
+Coordenadas: X =     1352.99 Y =     217.98
+Potencial:   U = -1348921.84
+===============
+   ->Nó 34:
+Coordenadas: X =     1155.20 Y =     479.12
+Potencial:   U = -1822140.45
+===============
+   ->Nó 35:
+Coordenadas: X =     1096.44 Y =    -310.48
+Potencial:   U = -2042586.70
+===============
+   ->Nó 36:
+Coordenadas: X =     1374.84 Y =    -292.58
+Potencial:   U = -1328946.99
+===============
+   ->Nó 37:
+Coordenadas: X =     1231.96 Y =    -550.04
+Potencial:   U = -1714408.27
+===============
+   ->Nó 38:
+Coordenadas: X =     1224.75 Y =     -58.82
+Potencial:   U = -1684906.03
+===============
+   ->Nó 39:
+Coordenadas: X =     1059.01 Y =     153.05
+Potencial:   U = -2063309.79
+===============
+   ->Nó 40:
+Coordenadas: X =      863.26 Y =     307.82
+Potencial:   U = -2506140.35
+===============
+   ->Nó 41:
+Coordenadas: X =      866.48 Y =     559.42
+Potencial:   U = -2524197.49
+===============
+   ->Nó 42:
+Coordenadas: X =      957.83 Y =     -94.41
+Potencial:   U = -2350956.02
+===============
+   ->Nó 43:
+Coordenadas: X =      810.27 Y =      83.48
+Potencial:   U = -2644654.71
+===============
+   ->Nó 44:
+Coordenadas: X =      432.74 Y =    -561.89
+Potencial:   U = -3928529.88
+===============
+   ->Nó 45:
+Coordenadas: X =      574.18 Y =    -307.48
+Potencial:   U = -3463553.72
+===============
+   ->Nó 46:
+Coordenadas: X =      571.08 Y =    -101.96
+Potencial:   U = -3354942.35
+===============
+   ->Nó 47:
+Coordenadas: X =      692.94 Y =    -557.47
+Potencial:   U = -3172545.49
+===============
+   ->Nó 48:
+Coordenadas: X =     -739.30 Y =    -590.12
+Potencial:   U = -7704034.02
+===============
+   ->Nó 49:
+Coordenadas: X =     -684.74 Y =    -386.41
+Potencial:   U = -7634035.64
+===============
+   ->Nó 50:
+Coordenadas: X =     -616.07 Y =    -207.36
+Potencial:   U = -7567010.04
+===============
+   ->Nó 51:
+Coordenadas: X =     -535.37 Y =    -526.55
+Potencial:   U = -7194780.75
+===============
+   ->Nó 52:
+Coordenadas: X =     -349.55 Y =    -597.41
+Potencial:   U = -6578023.30
+===============
+   ->Nó 53:
+Coordenadas: X =     -503.72 Y =    -364.04
+Potencial:   U = -7253856.08
+===============
+   ->Nó 54:
+Coordenadas: X =     -393.46 Y =    -453.66
+Potencial:   U = -6850973.01
+===============
+   ->Nó 55:
+Coordenadas: X =    -1660.26 Y =    -255.89
+Potencial:   U = -9960651.48
+===============
+   ->Nó 56:
+Coordenadas: X =    -1509.74 Y =    -525.02
+Potencial:   U = -9597671.13
+===============
+   ->Nó 57:
+Coordenadas: X =    -1520.18 Y =     538.94
+Potencial:   U = -9565170.19
+===============
+   ->Nó 58:
+Coordenadas: X =    -1663.64 Y =     271.09
+Potencial:   U = -9939980.59
+===============
+   ->Nó 59:
+Coordenadas: X =     -125.90 Y =     550.56
+Potencial:   U = -5699677.48
+===============
+   ->Nó 60:
+Coordenadas: X =     -308.37 Y =     339.60
+Potencial:   U = -6268729.97
+===============
+   ->Nó 61:
+Coordenadas: X =     -425.11 Y =     149.59
+Potencial:   U = -6638373.77
+===============
+   ->Nó 62:
+Coordenadas: X =     -951.38 Y =     549.99
+Potencial:   U = -8084900.59
+===============
+   ->Nó 63:
+Coordenadas: X =     -814.80 Y =     306.30
+Potencial:   U = -7762519.04
+===============
+   ->Nó 64:
+Coordenadas: X =     -696.06 Y =     100.79
+Potencial:   U = -7540821.07
+===============
+   ->Nó 65:
+Coordenadas: X =    -1083.91 Y =     292.12
+Potencial:   U = -8471086.48
+===============
+   ->Nó 66:
+Coordenadas: X =    -1370.97 Y =     282.12
+Potencial:   U = -9203284.87
+===============
+   ->Nó 67:
+Coordenadas: X =    -1227.90 Y =     544.06
+Potencial:   U = -8815186.19
+===============
+   ->Nó 68:
+Coordenadas: X =    -1218.16 Y =      27.05
+Potencial:   U = -8848022.20
+===============
+   ->Nó 69:
+Coordenadas: X =    -1356.88 Y =    -244.84
+Potencial:   U = -9212093.11
+===============
+   ->Nó 70:
+Coordenadas: X =    -1511.72 Y =      13.27
+Potencial:   U = -9577714.02
+===============
+   ->Nó 71:
+Coordenadas: X =    -1173.59 Y =    -519.43
+Potencial:   U = -8773709.11
+===============
+   ->Nó 72:
+Coordenadas: X =    -1063.21 Y =    -222.78
+Potencial:   U = -8500684.71
+===============
+   ->Nó 73:
+Coordenadas: X =     -899.08 Y =    -425.82
+Potencial:   U = -8116825.30
+===============
+   ->Nó 74:
+Coordenadas: X =     -938.11 Y =    -627.67
+Potencial:   U = -8195651.37
+===============
+   ->Nó 75:
+Coordenadas: X =     -917.75 Y =      31.40
+Potencial:   U = -8114023.78
+===============
+   ->Nó 76:
+Coordenadas: X =     -725.63 Y =     -69.36
+Potencial:   U = -7719406.45
+===============
+   ->Nó 77:
+Coordenadas: X =     -815.74 Y =    -216.83
+Potencial:   U = -7938170.10
+===============
+   ->Nó 78:
+Coordenadas: X =     -415.39 Y =     557.91
+Potencial:   U = -6565013.22
+===============
+   ->Nó 79:
+Coordenadas: X =     -557.56 Y =     300.34
+Potencial:   U = -7033340.46
+===============
+   ->Nó 80:
+Coordenadas: X =     -557.78 Y =      97.17
+Potencial:   U = -7153075.27
+===============
+   ->Nó 81:
+Coordenadas: X =     -682.72 Y =     552.07
+Potencial:   U = -7342871.06
+===============
+   ->Nó 82:
+Coordenadas: X =      569.98 Y =      84.56
+Potencial:   U = -3055628.84
+===============
+   ->Nó 83:
+Coordenadas: X =      562.50 Y =      18.83
+Potencial:   U = -3176762.24
+===============
+   ->Nó 84:
+Coordenadas: X =      197.24 Y =     692.72
+Potencial:   U = -4542199.11
+===============
+   ->Nó 85:
+Coordenadas: X =       61.53 Y =     692.72
+Potencial:   U = -5031765.09
+===============
+   ->Nó 86:
+Coordenadas: X =      353.08 Y =     693.05
+Potencial:   U = -3992156.07
+===============
+   ->Nó 87:
+Coordenadas: X =      488.79 Y =     693.05
+Potencial:   U = -3558608.91
+===============
+   ->Nó 88:
+Coordenadas: X =      275.07 Y =     671.78
+Potencial:   U = -4258176.82
+===============
+   ->Nó 89:
+Coordenadas: X =      200.88 Y =     564.50
+Potencial:   U = -4515409.70
+===============
+   ->Nó 90:
+Coordenadas: X =      356.72 Y =     564.84
+Potencial:   U = -3926077.39
+===============
+   ->Nó 91:
+Coordenadas: X =      249.08 Y =     485.23
+Potencial:   U = -4269736.35
+===============
+   ->Nó 92:
+Coordenadas: X =      171.25 Y =     506.17
+Potencial:   U = -4637993.46
+===============
+   ->Nó 93:
+Coordenadas: X =      312.98 Y =     450.57
+Potencial:   U = -3964974.15
+===============
+   ->Nó 94:
+Coordenadas: X =      390.99 Y =     471.84
+Potencial:   U = -3726909.33
+===============
+   ->Nó 95:
+Coordenadas: X =      590.33 Y =     695.56
+Potencial:   U = -3263531.89
+===============
+   ->Nó 96:
+Coordenadas: X =      536.27 Y =     588.61
+Potencial:   U = -3383160.25
+===============
+   ->Nó 97:
+Coordenadas: X =      726.05 Y =     695.56
+Potencial:   U = -2895903.16
+===============
+   ->Nó 98:
+Coordenadas: X =      585.75 Y =     410.38
+Potencial:   U = -3149311.32
+===============
+   ->Nó 99:
+Coordenadas: X =      561.01 Y =     318.55
+Potencial:   U = -3132748.77
+===============
+   ->Nó 100:
+Coordenadas: X =      481.46 Y =     340.23
+Potencial:   U = -3311453.75
+===============
+   ->Nó 101:
+Coordenadas: X =      572.00 Y =     511.59
+Potencial:   U = -3246383.98
+===============
+   ->Nó 102:
+Coordenadas: X =      470.46 Y =     509.09
+Potencial:   U = -3523306.14
+===============
+   ->Nó 103:
+Coordenadas: X =      651.55 Y =     489.91
+Potencial:   U = -3033982.63
+===============
+   ->Nó 104:
+Coordenadas: X =      426.73 Y =     394.82
+Potencial:   U = -3518632.09
+===============
+   ->Nó 105:
+Coordenadas: X =      590.99 Y =     159.03
+Potencial:   U = -3006006.92
+===============
+   ->Nó 106:
+Coordenadas: X =      634.10 Y =     124.47
+Potencial:   U = -2960800.88
+===============
+   ->Nó 107:
+Coordenadas: X =      555.92 Y =     223.67
+Potencial:   U = -3067293.08
+===============
+   ->Nó 108:
+Coordenadas: X =      660.20 Y =     293.82
+Potencial:   U = -2931006.84
+===============
+   ->Nó 109:
+Coordenadas: X =     1575.04 Y =    -670.32
+Potencial:   U = -831272.62
+===============
+   ->Nó 110:
+Coordenadas: X =     1439.33 Y =    -670.32
+Potencial:   U = -1180668.34
+===============
+   ->Nó 111:
+Coordenadas: X =     1850.00 Y =    -133.33
+Potencial:   U = -125450.40
+===============
+   ->Nó 112:
+Coordenadas: X =     1782.26 Y =    -270.16
+Potencial:   U = -297165.69
+===============
+   ->Nó 113:
+Coordenadas: X =     1732.26 Y =    -136.83
+Potencial:   U = -420922.78
+===============
+   ->Nó 114:
+Coordenadas: X =     1850.00 Y =       0.00
+Potencial:   U = -124735.66
+===============
+   ->Nó 115:
+Coordenadas: X =     1764.29 Y =    -666.67
+Potencial:   U = -346623.38
+===============
+   ->Nó 116:
+Coordenadas: X =     1710.75 Y =    -536.98
+Potencial:   U = -482258.96
+===============
+   ->Nó 117:
+Coordenadas: X =     1782.26 Y =    -403.49
+Potencial:   U = -298707.48
+===============
+   ->Nó 118:
+Coordenadas: X =     1593.01 Y =    -407.14
+Potencial:   U = -779618.90
+===============
+   ->Nó 119:
+Coordenadas: X =      115.56 Y =      80.82
+Potencial:   U = -5155834.13
+===============
+   ->Nó 120:
+Coordenadas: X =      170.06 Y =      26.21
+Potencial:   U = -4946620.16
+===============
+   ->Nó 121:
+Coordenadas: X =       28.42 Y =     216.23
+Potencial:   U = -5473757.57
+===============
+   ->Nó 122:
+Coordenadas: X =       63.18 Y =     152.19
+Potencial:   U = -5354884.55
+===============
+   ->Nó 123:
+Coordenadas: X =      -58.13 Y =     250.96
+Potencial:   U = -5623706.17
+===============
+   ->Nó 124:
+Coordenadas: X =     -120.82 Y =     144.88
+Potencial:   U = -5694486.62
+===============
+   ->Nó 125:
+Coordenadas: X =     -162.69 Y =     243.91
+Potencial:   U = -5853101.35
+===============
+   ->Nó 126:
+Coordenadas: X =      -13.45 Y =     315.27
+Potencial:   U = -5548005.13
+===============
+   ->Nó 127:
+Coordenadas: X =       -6.07 Y =     381.07
+Potencial:   U = -5480273.81
+===============
+   ->Nó 128:
+Coordenadas: X =       36.12 Y =      80.55
+Potencial:   U = -5305872.75
+===============
+   ->Nó 129:
+Coordenadas: X =      -52.27 Y =      71.60
+Potencial:   U = -5470106.85
+===============
+   ->Nó 130:
+Coordenadas: X =        0.11 Y =       0.22
+Potencial:   U = -5272560.62
+===============
+   ->Nó 131:
+Coordenadas: X =     -156.82 Y =      64.54
+Potencial:   U = -5698719.44
+===============
+   ->Nó 132:
+Coordenadas: X =     -170.51 Y =     -25.58
+Potencial:   U = -5600503.22
+===============
+   ->Nó 133:
+Coordenadas: X =     -239.06 Y =      47.70
+Potencial:   U = -5898746.28
+===============
+   ->Nó 134:
+Coordenadas: X =     -115.77 Y =     -80.17
+Potencial:   U = -5390635.03
+===============
+   ->Nó 135:
+Coordenadas: X =      -28.25 Y =    -216.37
+Potencial:   U = -5070945.53
+===============
+   ->Nó 136:
+Coordenadas: X =      -63.32 Y =    -151.73
+Potencial:   U = -5190947.39
+===============
+   ->Nó 137:
+Coordenadas: X =       58.31 Y =    -250.93
+Potencial:   U = -4921108.15
+===============
+   ->Nó 138:
+Coordenadas: X =      122.51 Y =    -145.11
+Potencial:   U = -4846443.93
+===============
+   ->Nó 139:
+Coordenadas: X =      164.19 Y =    -244.19
+Potencial:   U = -4688329.85
+===============
+   ->Nó 140:
+Coordenadas: X =       13.43 Y =    -315.44
+Potencial:   U = -4997041.40
+===============
+   ->Nó 141:
+Coordenadas: X =        5.95 Y =    -381.17
+Potencial:   U = -5064890.98
+===============
+   ->Nó 142:
+Coordenadas: X =      -35.82 Y =     -80.30
+Potencial:   U = -5238898.76
+===============
+   ->Nó 143:
+Coordenadas: X =       52.56 Y =     -71.34
+Potencial:   U = -5074567.57
+===============
+   ->Nó 144:
+Coordenadas: X =      158.44 Y =     -64.59
+Potencial:   U = -4842152.29
+===============
+   ->Nó 145:
+Coordenadas: X =      240.01 Y =     -47.56
+Potencial:   U = -4643598.14
+===============
+   ->Nó 146:
+Coordenadas: X =     1567.14 Y =     657.16
+Potencial:   U = -816759.96
+===============
+   ->Nó 147:
+Coordenadas: X =     1431.42 Y =     657.16
+Potencial:   U = -1148948.86
+===============
+   ->Nó 148:
+Coordenadas: X =     1850.00 Y =     133.33
+Potencial:   U = -124094.80
+===============
+   ->Nó 149:
+Coordenadas: X =     1729.33 Y =     124.74
+Potencial:   U = -423602.21
+===============
+   ->Nó 150:
+Coordenadas: X =     1779.33 Y =     258.07
+Potencial:   U = -298245.10
+===============
+   ->Nó 151:
+Coordenadas: X =     1764.29 Y =     666.67
+Potencial:   U = -333223.44
+===============
+   ->Nó 152:
+Coordenadas: X =     1702.85 Y =     523.83
+Potencial:   U = -484568.34
+===============
+   ->Nó 153:
+Coordenadas: X =     1779.33 Y =     391.40
+Potencial:   U = -297298.39
+===============
+   ->Nó 154:
+Coordenadas: X =     1582.19 Y =     381.90
+Potencial:   U = -782421.45
+===============
+   ->Nó 155:
+Coordenadas: X =       96.43 Y =    -681.59
+Potencial:   U = -4974936.48
+===============
+   ->Nó 156:
+Coordenadas: X =      232.14 Y =    -681.59
+Potencial:   U = -4545515.98
+===============
+   ->Nó 157:
+Coordenadas: X =        4.31 Y =    -668.23
+Potencial:   U = -5278987.73
+===============
+   ->Nó 158:
+Coordenadas: X =      100.74 Y =    -549.82
+Potencial:   U = -4923672.29
+===============
+   ->Nó 159:
+Coordenadas: X =      -77.65 Y =    -695.33
+Potencial:   U = -5571087.19
+===============
+   ->Nó 160:
+Coordenadas: X =      -73.34 Y =    -563.56
+Potencial:   U = -5519576.71
+===============
+   ->Nó 161:
+Coordenadas: X =       54.31 Y =    -443.23
+Potencial:   U = -5001374.99
+===============
+   ->Nó 162:
+Coordenadas: X =      -39.74 Y =    -474.40
+Potencial:   U = -5315211.10
+===============
+   ->Nó 163:
+Coordenadas: X =      146.43 Y =    -456.59
+Potencial:   U = -4750674.13
+===============
+   ->Nó 164:
+Coordenadas: X =     -121.70 Y =    -501.50
+Potencial:   U = -5675413.74
+===============
+   ->Nó 165:
+Coordenadas: X =     -187.50 Y =    -508.66
+Potencial:   U = -5986016.90
+===============
+   ->Nó 166:
+Coordenadas: X =     1256.17 Y =     639.56
+Potencial:   U = -1577060.94
+===============
+   ->Nó 167:
+Coordenadas: X =     1120.46 Y =     639.56
+Potencial:   U = -1908181.06
+===============
+   ->Nó 168:
+Coordenadas: X =     1330.45 Y =     496.72
+Potencial:   U = -1396558.31
+===============
+   ->Nó 169:
+Coordenadas: X =     1429.35 Y =     366.16
+Potencial:   U = -1157423.26
+===============
+   ->Nó 170:
+Coordenadas: X =     1254.09 Y =     348.55
+Potencial:   U = -1584682.92
+===============
+   ->Nó 171:
+Coordenadas: X =     1505.83 Y =     233.73
+Potencial:   U = -973392.43
+===============
+   ->Nó 172:
+Coordenadas: X =     1656.22 Y =     -12.62
+Potencial:   U = -608290.79
+===============
+   ->Nó 173:
+Coordenadas: X =     1588.48 Y =    -149.45
+Potencial:   U = -782149.69
+===============
+   ->Nó 174:
+Coordenadas: X =     1585.56 Y =     112.11
+Potencial:   U = -780319.81
+===============
+   ->Nó 175:
+Coordenadas: X =     1432.72 Y =      96.37
+Potencial:   U = -1158927.95
+===============
+   ->Nó 176:
+Coordenadas: X =     1158.84 Y =    -675.02
+Potencial:   U = -1912365.53
+===============
+   ->Nó 177:
+Coordenadas: X =     1022.13 Y =    -677.61
+Potencial:   U = -2276349.40
+===============
+   ->Nó 178:
+Coordenadas: X =     1095.25 Y =    -552.62
+Potencial:   U = -2073520.72
+===============
+   ->Nó 179:
+Coordenadas: X =     1294.55 Y =    -675.02
+Potencial:   U = -1556370.11
+===============
+   ->Nó 180:
+Coordenadas: X =     1376.73 Y =    -545.33
+Potencial:   U = -1338634.34
+===============
+   ->Nó 181:
+Coordenadas: X =     1448.17 Y =    -416.60
+Potencial:   U = -1149291.59
+===============
+   ->Nó 182:
+Coordenadas: X =     1519.68 Y =    -283.12
+Potencial:   U = -961150.62
+===============
+   ->Nó 183:
+Coordenadas: X =     1303.40 Y =    -421.31
+Potencial:   U = -1520802.59
+===============
+   ->Nó 184:
+Coordenadas: X =     1164.20 Y =    -430.26
+Potencial:   U = -1881573.21
+===============
+   ->Nó 185:
+Coordenadas: X =     1235.64 Y =    -301.53
+Potencial:   U = -1684277.64
+===============
+   ->Nó 186:
+Coordenadas: X =     1027.49 Y =    -432.85
+Potencial:   U = -2240003.22
+===============
+   ->Nó 187:
+Coordenadas: X =      896.42 Y =    -438.17
+Potencial:   U = -2590565.74
+===============
+   ->Nó 188:
+Coordenadas: X =      965.37 Y =    -315.81
+Potencial:   U = -2384032.88
+===============
+   ->Nó 189:
+Coordenadas: X =     1368.60 Y =     -42.03
+Potencial:   U = -1326168.51
+===============
+   ->Nó 190:
+Coordenadas: X =     1288.87 Y =      79.58
+Potencial:   U = -1514088.80
+===============
+   ->Nó 191:
+Coordenadas: X =     1443.65 Y =    -158.91
+Potencial:   U = -1146353.34
+===============
+   ->Nó 192:
+Coordenadas: X =     1299.79 Y =    -175.70
+Potencial:   U = -1509257.12
+===============
+   ->Nó 193:
+Coordenadas: X =     1160.59 Y =    -184.65
+Potencial:   U = -1860931.24
+===============
+   ->Nó 194:
+Coordenadas: X =     1206.00 Y =     185.52
+Potencial:   U = -1708376.19
+===============
+   ->Nó 195:
+Coordenadas: X =     1107.11 Y =     316.08
+Potencial:   U = -1939272.69
+===============
+   ->Nó 196:
+Coordenadas: X =     1141.88 Y =      47.11
+Potencial:   U = -1876247.62
+===============
+   ->Nó 197:
+Coordenadas: X =      752.14 Y =     575.27
+Potencial:   U = -2809264.63
+===============
+   ->Nó 198:
+Coordenadas: X =      765.89 Y =     474.06
+Potencial:   U = -2753118.77
+===============
+   ->Nó 199:
+Coordenadas: X =      840.38 Y =     679.71
+Potencial:   U = -2600965.34
+===============
+   ->Nó 200:
+Coordenadas: X =      976.10 Y =     679.71
+Potencial:   U = -2263020.99
+===============
+   ->Nó 201:
+Coordenadas: X =     1010.84 Y =     519.27
+Potencial:   U = -2171396.53
+===============
+   ->Nó 202:
+Coordenadas: X =     1009.23 Y =     393.47
+Potencial:   U = -2170966.31
+===============
+   ->Nó 203:
+Coordenadas: X =      961.14 Y =     230.43
+Potencial:   U = -2285278.59
+===============
+   ->Nó 204:
+Coordenadas: X =      864.87 Y =     433.62
+Potencial:   U = -2513129.70
+===============
+   ->Nó 205:
+Coordenadas: X =     1027.13 Y =    -202.44
+Potencial:   U = -2201591.75
+===============
+   ->Nó 206:
+Coordenadas: X =      896.07 Y =    -207.77
+Potencial:   U = -2538146.08
+===============
+   ->Nó 207:
+Coordenadas: X =     1091.29 Y =     -76.62
+Potencial:   U = -2017750.94
+===============
+   ->Nó 208:
+Coordenadas: X =     1008.42 Y =      29.32
+Potencial:   U = -2201020.24
+===============
+   ->Nó 209:
+Coordenadas: X =      711.68 Y =      66.74
+Potencial:   U = -2854871.75
+===============
+   ->Nó 210:
+Coordenadas: X =      732.69 Y =     141.21
+Potencial:   U = -2787034.31
+===============
+   ->Nó 211:
+Coordenadas: X =      769.29 Y =     -14.55
+Potencial:   U = -2775224.70
+===============
+   ->Nó 212:
+Coordenadas: X =      670.70 Y =     -31.29
+Potencial:   U = -3012253.46
+===============
+   ->Nó 213:
+Coordenadas: X =      843.07 Y =    -103.50
+Potencial:   U = -2637460.38
+===============
+   ->Nó 214:
+Coordenadas: X =      781.30 Y =    -216.86
+Potencial:   U = -2841328.57
+===============
+   ->Nó 215:
+Coordenadas: X =      884.05 Y =      -5.46
+Potencial:   U = -2504376.93
+===============
+   ->Nó 216:
+Coordenadas: X =      934.64 Y =     118.27
+Potencial:   U = -2358385.88
+===============
+   ->Nó 217:
+Coordenadas: X =      836.77 Y =     195.65
+Potencial:   U = -2566225.41
+===============
+   ->Nó 218:
+Coordenadas: X =      764.28 Y =     348.26
+Potencial:   U = -2729133.24
+===============
+   ->Nó 219:
+Coordenadas: X =      759.19 Y =     253.38
+Potencial:   U = -2727344.57
+===============
+   ->Nó 220:
+Coordenadas: X =      312.80 Y =    -562.54
+Potencial:   U = -4285236.80
+===============
+   ->Nó 221:
+Coordenadas: X =      259.57 Y =    -454.01
+Potencial:   U = -4426406.84
+===============
+   ->Nó 222:
+Coordenadas: X =      379.51 Y =    -453.36
+Potencial:   U = -4073631.42
+===============
+   ->Nó 223:
+Coordenadas: X =      352.09 Y =    -680.95
+Potencial:   U = -4180216.44
+===============
+   ->Nó 224:
+Coordenadas: X =      487.80 Y =    -680.95
+Potencial:   U = -3776668.11
+===============
+   ->Nó 225:
+Coordenadas: X =      450.23 Y =    -326.15
+Potencial:   U = -3845507.35
+===============
+   ->Nó 226:
+Coordenadas: X =      503.46 Y =    -434.68
+Potencial:   U = -3702805.27
+===============
+   ->Nó 227:
+Coordenadas: X =      503.64 Y =    -229.91
+Potencial:   U = -3656390.84
+===============
+   ->Nó 228:
+Coordenadas: X =      379.69 Y =    -248.59
+Potencial:   U = -4061294.04
+===============
+   ->Nó 229:
+Coordenadas: X =      572.63 Y =    -204.72
+Potencial:   U = -3426339.93
+===============
+   ->Nó 230:
+Coordenadas: X =      649.69 Y =    -107.27
+Potencial:   U = -3133082.99
+===============
+   ->Nó 231:
+Coordenadas: X =      651.24 Y =    -210.03
+Potencial:   U = -3196047.46
+===============
+   ->Nó 232:
+Coordenadas: X =      502.09 Y =    -127.15
+Potencial:   U = -3611829.09
+===============
+   ->Nó 233:
+Coordenadas: X =      541.49 Y =     -57.15
+Potencial:   U = -3384927.57
+===============
+   ->Nó 234:
+Coordenadas: X =      472.50 Y =     -82.34
+Potencial:   U = -3691547.87
+===============
+   ->Nó 235:
+Coordenadas: X =      592.09 Y =     -25.98
+Potencial:   U = -3191837.87
+===============
+   ->Nó 236:
+Coordenadas: X =      617.90 Y =    -678.74
+Potencial:   U = -3398212.09
+===============
+   ->Nó 237:
+Coordenadas: X =      753.61 Y =    -678.74
+Potencial:   U = -3012711.48
+===============
+   ->Nó 238:
+Coordenadas: X =      562.84 Y =    -559.68
+Potencial:   U = -3546537.12
+===============
+   ->Nó 239:
+Coordenadas: X =      633.56 Y =    -432.48
+Potencial:   U = -3321437.48
+===============
+   ->Nó 240:
+Coordenadas: X =      886.41 Y =    -677.61
+Potencial:   U = -2644420.97
+===============
+   ->Nó 241:
+Coordenadas: X =      825.74 Y =    -556.34
+Potencial:   U = -2800881.57
+===============
+   ->Nó 242:
+Coordenadas: X =      704.24 Y =    -314.30
+Potencial:   U = -3088522.12
+===============
+   ->Nó 243:
+Coordenadas: X =      763.62 Y =    -439.30
+Potencial:   U = -2954549.04
+===============
+   ->Nó 244:
+Coordenadas: X =      213.14 Y =    -347.41
+Potencial:   U = -4546483.61
+===============
+   ->Nó 245:
+Coordenadas: X =      277.33 Y =    -241.60
+Potencial:   U = -4379738.25
+===============
+   ->Nó 246:
+Coordenadas: X =      330.74 Y =    -145.36
+Potencial:   U = -4249788.24
+===============
+   ->Nó 247:
+Coordenadas: X =      406.69 Y =     -89.50
+Potencial:   U = -3989448.29
+===============
+   ->Nó 248:
+Coordenadas: X =      304.34 Y =     -82.51
+Potencial:   U = -4391693.37
+===============
+   ->Nó 249:
+Coordenadas: X =     -563.45 Y =     -84.73
+Potencial:   U = -7486610.43
+===============
+   ->Nó 250:
+Coordenadas: X =     -556.07 Y =     -18.93
+Potencial:   U = -7358393.86
+===============
+   ->Nó 251:
+Coordenadas: X =     -213.36 Y =    -695.33
+Potencial:   U = -6062579.73
+===============
+   ->Nó 252:
+Coordenadas: X =     -641.08 Y =    -695.06
+Potencial:   U = -7425242.53
+===============
+   ->Nó 253:
+Coordenadas: X =     -776.79 Y =    -695.06
+Potencial:   U = -7784604.36
+===============
+   ->Nó 254:
+Coordenadas: X =     -310.49 Y =    -698.71
+Potencial:   U = -6407998.63
+===============
+   ->Nó 255:
+Coordenadas: X =     -252.42 Y =    -594.04
+Potencial:   U = -6226352.42
+===============
+   ->Nó 256:
+Coordenadas: X =     -539.11 Y =    -663.27
+Potencial:   U = -7145633.75
+===============
+   ->Nó 257:
+Coordenadas: X =     -637.34 Y =    -558.33
+Potencial:   U = -7451403.64
+===============
+   ->Nó 258:
+Coordenadas: X =     -446.20 Y =    -698.71
+Potencial:   U = -6856099.47
+===============
+   ->Nó 259:
+Coordenadas: X =     -442.46 Y =    -561.98
+Potencial:   U = -6901932.72
+===============
+   ->Nó 260:
+Coordenadas: X =     -594.23 Y =    -375.23
+Potencial:   U = -7441198.85
+===============
+   ->Nó 261:
+Coordenadas: X =     -650.41 Y =    -296.89
+Potencial:   U = -7597075.20
+===============
+   ->Nó 262:
+Coordenadas: X =     -559.90 Y =    -285.70
+Potencial:   U = -7439235.34
+===============
+   ->Nó 263:
+Coordenadas: X =     -464.42 Y =    -490.10
+Potencial:   U = -7023405.37
+===============
+   ->Nó 264:
+Coordenadas: X =     -371.51 Y =    -525.53
+Potencial:   U = -6702198.01
+===============
+   ->Nó 265:
+Coordenadas: X =     -610.06 Y =    -456.48
+Potencial:   U = -7428303.88
+===============
+   ->Nó 266:
+Coordenadas: X =     -712.02 Y =    -488.26
+Potencial:   U = -7662345.93
+===============
+   ->Nó 267:
+Coordenadas: X =     -519.55 Y =    -445.30
+Potencial:   U = -7212136.76
+===============
+   ->Nó 268:
+Coordenadas: X =     -448.59 Y =    -408.85
+Potencial:   U = -7066837.11
+===============
+   ->Nó 269:
+Coordenadas: X =     -284.63 Y =    -512.03
+Potencial:   U = -6399490.12
+===============
+   ->Nó 270:
+Coordenadas: X =     -306.59 Y =    -440.16
+Potencial:   U = -6570534.41
+===============
+   ->Nó 271:
+Coordenadas: X =     -370.92 Y =    -405.21
+Potencial:   U = -6852808.60
+===============
+   ->Nó 272:
+Coordenadas: X =     -426.05 Y =    -360.40
+Potencial:   U = -7079708.54
+===============
+   ->Nó 273:
+Coordenadas: X =     -480.55 Y =    -305.80
+Potencial:   U = -7280025.28
+===============
+   ->Nó 274:
+Coordenadas: X =     -571.48 Y =    -163.41
+Potencial:   U = -7520671.15
+===============
+   ->Nó 275:
+Coordenadas: X =     -608.03 Y =    -128.68
+Potencial:   U = -7553349.42
+===============
+   ->Nó 276:
+Coordenadas: X =     -536.72 Y =    -227.45
+Potencial:   U = -7452851.84
+===============
+   ->Nó 277:
+Coordenadas: X =    -1569.16 Y =    -662.51
+Potencial:   U = -9747402.98
+===============
+   ->Nó 278:
+Coordenadas: X =    -1433.44 Y =    -662.51
+Potencial:   U = -9411927.35
+===============
+   ->Nó 279:
+Coordenadas: X =    -1850.00 Y =    -133.33
+Potencial:   U = -10418840.02
+===============
+   ->Nó 280:
+Coordenadas: X =    -1850.00 Y =       0.00
+Potencial:   U = -10451183.79
+===============
+   ->Nó 281:
+Coordenadas: X =    -1730.13 Y =    -127.95
+Potencial:   U = -10129958.28
+===============
+   ->Nó 282:
+Coordenadas: X =    -1780.13 Y =    -261.28
+Potencial:   U = -10272043.03
+===============
+   ->Nó 283:
+Coordenadas: X =    -1764.29 Y =    -666.67
+Potencial:   U = -10232563.29
+===============
+   ->Nó 284:
+Coordenadas: X =    -1704.87 Y =    -529.18
+Potencial:   U = -10086045.74
+===============
+   ->Nó 285:
+Coordenadas: X =    -1780.13 Y =    -394.61
+Potencial:   U = -10265512.19
+===============
+   ->Nó 286:
+Coordenadas: X =    -1585.00 Y =    -390.45
+Potencial:   U = -9780799.51
+===============
+   ->Nó 287:
+Coordenadas: X =    -1574.38 Y =     669.47
+Potencial:   U = -9699726.47
+===============
+   ->Nó 288:
+Coordenadas: X =    -1438.66 Y =     669.47
+Potencial:   U = -9353227.39
+===============
+   ->Nó 289:
+Coordenadas: X =    -1850.00 Y =     133.33
+Potencial:   U = -10405558.75
+===============
+   ->Nó 290:
+Coordenadas: X =    -1781.82 Y =     268.88
+Potencial:   U = -10249806.08
+===============
+   ->Nó 291:
+Coordenadas: X =    -1731.82 Y =     135.54
+Potencial:   U = -10119915.20
+===============
+   ->Nó 292:
+Coordenadas: X =    -1764.29 Y =     666.67
+Potencial:   U = -10180583.76
+===============
+   ->Nó 293:
+Coordenadas: X =    -1710.09 Y =     536.14
+Potencial:   U = -10050961.50
+===============
+   ->Nó 294:
+Coordenadas: X =    -1781.82 Y =     402.21
+Potencial:   U = -10232051.74
+===============
+   ->Nó 295:
+Coordenadas: X =    -1591.91 Y =     405.02
+Potencial:   U = -9753923.26
+===============
+   ->Nó 296:
+Coordenadas: X =      -62.95 Y =     675.28
+Potencial:   U = -5462373.66
+===============
+   ->Nó 297:
+Coordenadas: X =     -198.67 Y =     675.28
+Potencial:   U = -5896586.20
+===============
+   ->Nó 298:
+Coordenadas: X =       -1.42 Y =     568.00
+Potencial:   U = -5291511.04
+===============
+   ->Nó 299:
+Coordenadas: X =      105.46 Y =     498.78
+Potencial:   U = -4949335.39
+===============
+   ->Nó 300:
+Coordenadas: X =      -19.02 Y =     481.35
+Potencial:   U = -5410808.79
+===============
+   ->Nó 301:
+Coordenadas: X =     -112.95 Y =     450.28
+Potencial:   U = -5701848.61
+===============
+   ->Nó 302:
+Coordenadas: X =    -1156.81 Y =     672.03
+Potencial:   U = -8622413.46
+===============
+   ->Nó 303:
+Coordenadas: X =    -1018.55 Y =     674.99
+Potencial:   U = -8255572.07
+===============
+   ->Nó 304:
+Coordenadas: X =    -1089.64 Y =     547.02
+Potencial:   U = -8453347.22
+===============
+   ->Nó 305:
+Coordenadas: X =    -1292.52 Y =     672.03
+Potencial:   U = -8976629.59
+===============
+   ->Nó 306:
+Coordenadas: X =    -1374.04 Y =     541.50
+Potencial:   U = -9192288.39
+===============
+   ->Nó 307:
+Coordenadas: X =    -1017.64 Y =     421.05
+Potencial:   U = -8278180.04
+===============
+   ->Nó 308:
+Coordenadas: X =    -1155.90 Y =     418.09
+Potencial:   U = -8639649.58
+===============
+   ->Nó 309:
+Coordenadas: X =     -883.09 Y =     428.14
+Potencial:   U = -7918426.00
+===============
+   ->Nó 310:
+Coordenadas: X =     -949.35 Y =     299.21
+Potencial:   U = -8121175.01
+===============
+   ->Nó 311:
+Coordenadas: X =    -1299.43 Y =     413.09
+Potencial:   U = -9009767.72
+===============
+   ->Nó 312:
+Coordenadas: X =    -1227.44 Y =     287.12
+Potencial:   U = -8838648.24
+===============
+   ->Nó 313:
+Coordenadas: X =    -1445.57 Y =     410.53
+Potencial:   U = -9382633.31
+===============
+   ->Nó 314:
+Coordenadas: X =    -1517.31 Y =     276.61
+Potencial:   U = -9572816.86
+===============
+   ->Nó 315:
+Coordenadas: X =    -1508.57 Y =    -250.36
+Potencial:   U = -9585637.31
+===============
+   ->Nó 316:
+Coordenadas: X =    -1433.31 Y =    -384.93
+Potencial:   U = -9405888.48
+===============
+   ->Nó 317:
+Coordenadas: X =    -1585.99 Y =    -121.31
+Potencial:   U = -9770856.49
+===============
+   ->Nó 318:
+Coordenadas: X =    -1655.86 Y =       6.63
+Potencial:   U = -9938751.74
+===============
+   ->Nó 319:
+Coordenadas: X =    -1434.30 Y =    -115.79
+Potencial:   U = -9394556.57
+===============
+   ->Nó 320:
+Coordenadas: X =    -1364.94 Y =      20.16
+Potencial:   U = -9212193.69
+===============
+   ->Nó 321:
+Coordenadas: X =    -1287.52 Y =    -108.89
+Potencial:   U = -9032617.91
+===============
+   ->Nó 322:
+Coordenadas: X =    -1294.56 Y =     154.59
+Potencial:   U = -9023351.49
+===============
+   ->Nó 323:
+Coordenadas: X =    -1151.03 Y =     159.59
+Potencial:   U = -8662777.14
+===============
+   ->Nó 324:
+Coordenadas: X =    -1441.34 Y =     147.69
+Potencial:   U = -9391763.72
+===============
+   ->Nó 325:
+Coordenadas: X =    -1587.68 Y =     142.18
+Potencial:   U = -9758629.59
+===============
+   ->Nó 326:
+Coordenadas: X =    -1341.66 Y =    -522.23
+Potencial:   U = -9184404.98
+===============
+   ->Nó 327:
+Coordenadas: X =    -1265.24 Y =    -382.14
+Potencial:   U = -8994350.23
+===============
+   ->Nó 328:
+Coordenadas: X =    -1265.37 Y =    -659.72
+Potencial:   U = -8998596.15
+===============
+   ->Nó 329:
+Coordenadas: X =    -1129.65 Y =    -659.72
+Potencial:   U = -8665637.84
+===============
+   ->Nó 330:
+Coordenadas: X =    -1210.05 Y =    -233.81
+Potencial:   U = -8853469.84
+===============
+   ->Nó 331:
+Coordenadas: X =    -1118.40 Y =    -371.11
+Potencial:   U = -8638761.24
+===============
+   ->Nó 332:
+Coordenadas: X =    -1140.68 Y =     -97.86
+Potencial:   U = -8673738.49
+===============
+   ->Nó 333:
+Coordenadas: X =     -838.71 Y =    -608.89
+Potencial:   U = -7950761.44
+===============
+   ->Nó 334:
+Coordenadas: X =     -918.60 Y =    -526.75
+Potencial:   U = -8155052.73
+===============
+   ->Nó 335:
+Coordenadas: X =     -819.19 Y =    -507.97
+Potencial:   U = -7916803.69
+===============
+   ->Nó 336:
+Coordenadas: X =     -876.20 Y =    -713.84
+Potencial:   U = -8036567.18
+===============
+   ->Nó 337:
+Coordenadas: X =    -1011.91 Y =    -713.84
+Potencial:   U = -8375006.61
+===============
+   ->Nó 338:
+Coordenadas: X =    -1055.85 Y =    -573.55
+Potencial:   U = -8486348.38
+===============
+   ->Nó 339:
+Coordenadas: X =    -1036.33 Y =    -472.63
+Potencial:   U = -8441578.47
+===============
+   ->Nó 340:
+Coordenadas: X =     -981.14 Y =    -324.30
+Potencial:   U = -8312312.59
+===============
+   ->Nó 341:
+Coordenadas: X =    -1000.83 Y =     161.76
+Potencial:   U = -8284996.17
+===============
+   ->Nó 342:
+Coordenadas: X =     -866.28 Y =     168.85
+Potencial:   U = -7942392.48
+===============
+   ->Nó 343:
+Coordenadas: X =    -1067.96 Y =      29.23
+Potencial:   U = -8478631.80
+===============
+   ->Nó 344:
+Coordenadas: X =     -990.48 Y =     -95.69
+Potencial:   U = -8314707.96
+===============
+   ->Nó 345:
+Coordenadas: X =     -806.91 Y =      66.10
+Potencial:   U = -7834859.98
+===============
+   ->Nó 346:
+Coordenadas: X =     -755.43 Y =     203.55
+Potencial:   U = -7640146.93
+===============
+   ->Nó 347:
+Coordenadas: X =     -939.47 Y =    -219.80
+Potencial:   U = -8212248.03
+===============
+   ->Nó 348:
+Coordenadas: X =     -857.41 Y =    -321.32
+Potencial:   U = -8028508.42
+===============
+   ->Nó 349:
+Coordenadas: X =     -866.75 Y =     -92.71
+Potencial:   U = -8029277.31
+===============
+   ->Nó 350:
+Coordenadas: X =     -821.69 Y =     -18.98
+Potencial:   U = -7905510.25
+===============
+   ->Nó 351:
+Coordenadas: X =     -710.84 Y =      15.71
+Potencial:   U = -7636565.34
+===============
+   ->Nó 352:
+Coordenadas: X =     -770.68 Y =    -143.10
+Potencial:   U = -7834933.10
+===============
+   ->Nó 353:
+Coordenadas: X =     -791.91 Y =    -406.12
+Potencial:   U = -7870279.80
+===============
+   ->Nó 354:
+Coordenadas: X =     -750.24 Y =    -301.62
+Potencial:   U = -7796663.48
+===============
+   ->Nó 355:
+Coordenadas: X =     -662.82 Y =     -59.68
+Potencial:   U = -7594876.66
+===============
+   ->Nó 356:
+Coordenadas: X =     -648.03 Y =      25.40
+Potencial:   U = -7485944.91
+===============
+   ->Nó 357:
+Coordenadas: X =     -670.85 Y =    -138.36
+Potencial:   U = -7648073.42
+===============
+   ->Nó 358:
+Coordenadas: X =     -715.90 Y =    -212.09
+Potencial:   U = -7736413.46
+===============
+   ->Nó 359:
+Coordenadas: X =     -270.64 Y =     554.24
+Potencial:   U = -6134735.75
+===============
+   ->Nó 360:
+Coordenadas: X =     -217.14 Y =     445.08
+Potencial:   U = -5996895.74
+===============
+   ->Nó 361:
+Coordenadas: X =     -361.88 Y =     448.75
+Potencial:   U = -6419084.24
+===============
+   ->Nó 362:
+Coordenadas: X =     -343.41 Y =     678.95
+Potencial:   U = -6338552.43
+===============
+   ->Nó 363:
+Coordenadas: X =     -479.12 Y =     678.95
+Potencial:   U = -6742202.18
+===============
+   ->Nó 364:
+Coordenadas: X =     -432.97 Y =     319.97
+Potencial:   U = -6646984.91
+===============
+   ->Nó 365:
+Coordenadas: X =     -486.47 Y =     429.12
+Potencial:   U = -6792094.44
+===============
+   ->Nó 366:
+Coordenadas: X =     -491.34 Y =     224.97
+Potencial:   U = -6850135.78
+===============
+   ->Nó 367:
+Coordenadas: X =     -366.74 Y =     244.59
+Potencial:   U = -6442035.61
+===============
+   ->Nó 368:
+Coordenadas: X =     -557.67 Y =     198.75
+Potencial:   U = -7075185.84
+===============
+   ->Nó 369:
+Coordenadas: X =     -626.92 Y =      98.98
+Potencial:   U = -7357044.46
+===============
+   ->Nó 370:
+Coordenadas: X =     -626.81 Y =     200.56
+Potencial:   U = -7283572.82
+===============
+   ->Nó 371:
+Coordenadas: X =     -491.44 Y =     123.38
+Potencial:   U = -6896770.98
+===============
+   ->Nó 372:
+Coordenadas: X =     -534.95 Y =      54.65
+Potencial:   U = -7143397.95
+===============
+   ->Nó 373:
+Coordenadas: X =     -468.62 Y =      80.86
+Potencial:   U = -6837689.73
+===============
+   ->Nó 374:
+Coordenadas: X =     -578.89 Y =      23.58
+Potencial:   U = -7325546.35
+===============
+   ->Nó 375:
+Coordenadas: X =     -612.79 Y =     676.04
+Potencial:   U = -7131071.98
+===============
+   ->Nó 376:
+Coordenadas: X =     -748.50 Y =     676.04
+Potencial:   U = -7516333.00
+===============
+   ->Nó 377:
+Coordenadas: X =     -549.05 Y =     554.99
+Potencial:   U = -6958035.42
+===============
+   ->Nó 378:
+Coordenadas: X =     -620.14 Y =     426.21
+Potencial:   U = -7185334.69
+===============
+   ->Nó 379:
+Coordenadas: X =     -882.83 Y =     674.99
+Potencial:   U = -7888356.52
+===============
+   ->Nó 380:
+Coordenadas: X =     -817.05 Y =     551.03
+Potencial:   U = -7718891.94
+===============
+   ->Nó 381:
+Coordenadas: X =     -686.18 Y =     303.32
+Potencial:   U = -7408646.43
+===============
+   ->Nó 382:
+Coordenadas: X =     -748.76 Y =     429.19
+Potencial:   U = -7549935.99
+===============
+   ->Nó 383:
+Coordenadas: X =     -204.19 Y =     344.80
+Potencial:   U = -5974483.02
+===============
+   ->Nó 384:
+Coordenadas: X =     -266.87 Y =     238.71
+Potencial:   U = -6133832.07
+===============
+   ->Nó 385:
+Coordenadas: X =     -325.24 Y =     143.71
+Potencial:   U = -6275527.95
+===============
+   ->Nó 386:
+Coordenadas: X =     -402.83 Y =      88.25
+Potencial:   U = -6538574.10
+===============
+   ->Nó 387:
+Coordenadas: X =     -302.96 Y =      82.36
+Potencial:   U = -6148425.91
+===============
+   ->Nó 388:
+Coordenadas: X =    -1900.00 Y =    -533.33
+Potencial:   U = -10607715.48
+===============
+   ->Nó 389:
+Coordenadas: X =    -1900.00 Y =    -266.67
+Potencial:   U = -10608383.58
+===============
+   ->Nó 390:
+Coordenadas: X =    -1900.00 Y =       0.00
+Potencial:   U = -10608575.03
+===============
+   ->Nó 391:
+Coordenadas: X =    -1900.00 Y =     266.67
+Potencial:   U = -10583156.14
+===============
+   ->Nó 392:
+Coordenadas: X =    -1900.00 Y =     533.33
+Potencial:   U = -10563631.90
+===============
+   ->Nó 393:
+Coordenadas: X =    -1900.00 Y =    -133.33
+Potencial:   U = -10524411.99
+===============
+   ->Nó 394:
+Coordenadas: X =    -1900.00 Y =    -666.67
+Potencial:   U = -10549768.21
+===============
+   ->Nó 395:
+Coordenadas: X =    -1900.00 Y =    -400.00
+Potencial:   U = -10544250.23
+===============
+   ->Nó 396:
+Coordenadas: X =    -1900.00 Y =     133.33
+Potencial:   U = -10511213.03
+===============
+   ->Nó 397:
+Coordenadas: X =    -1900.00 Y =     666.67
+Potencial:   U = -10499814.52
+===============
+   ->Nó 398:
+Coordenadas: X =    -1900.00 Y =     400.00
+Potencial:   U = -10505873.13
+===============
+   ->Nó 399:
+Coordenadas: X =     -526.90 Y =    -119.46
+Potencial:   U = -7498675.72
+===============
+   ->Nó 400:
+Coordenadas: X =     -457.38 Y =    -247.55
+Potencial:   U = -7332043.41
+===============
+   ->Nó 401:
+Coordenadas: X =     -348.37 Y =    -356.76
+Potencial:   U = -6880658.48
+===============
+   ->Nó 402:
+Coordenadas: X =     -219.71 Y =    -426.65
+Potencial:   U = -6209722.84
+===============
+   ->Nó 403:
+Coordenadas: X =      -88.10 Y =    -412.34
+Potencial:   U = -5360245.79
+===============
+   ->Nó 404:
+Coordenadas: X =      -73.14 Y =    -280.89
+Potencial:   U = -5067514.50
+===============
+   ->Nó 405:
+Coordenadas: X =     -143.27 Y =    -151.60
+Potencial:   U = -5310119.96
+===============
+   ->Nó 406:
+Coordenadas: X =     -252.74 Y =     -42.42
+Potencial:   U = -5779784.86
+===============
+   ->Nó 407:
+Coordenadas: X =     -380.55 Y =      26.90
+Potencial:   U = -6384453.64
+===============
+   ->Nó 408:
+Coordenadas: X =     -194.43 Y =     -93.43
+Potencial:   U = -5525907.84
+===============
+   ->Nó 409:
+Coordenadas: X =     -102.63 Y =    -213.23
+Potencial:   U = -5152969.24
+===============
+   ->Nó 410:
+Coordenadas: X =      -62.92 Y =    -349.27
+Potencial:   U = -5125160.31
+===============
+   ->Nó 411:
+Coordenadas: X =     -151.34 Y =    -437.09
+Potencial:   U = -5781300.07
+===============
+   ->Nó 412:
+Coordenadas: X =     -536.95 Y =     -51.05
+Potencial:   U = -7418808.39
+===============
+   ->Nó 413:
+Coordenadas: X =     -287.04 Y =    -397.26
+Potencial:   U = -6572421.42
+===============
+   ->Nó 414:
+Coordenadas: X =     -406.44 Y =    -305.71
+Potencial:   U = -7135909.67
+===============
+   ->Nó 415:
+Coordenadas: X =     -497.60 Y =    -186.46
+Potencial:   U = -7453308.69
+===============
+   ->Nó 416:
+Coordenadas: X =     -448.95 Y =      36.98
+Potencial:   U = -6771912.56
+===============
+   ->Nó 417:
+Coordenadas: X =     -313.71 Y =      -2.33
+Potencial:   U = -6061852.63
+===============
+   ->Nó 418:
+Coordenadas: X =     1628.57 Y =    -800.00
+Potencial:   U = -694643.96
+===============
+   ->Nó 419:
+Coordenadas: X =     1357.14 Y =    -800.00
+Potencial:   U = -1394941.09
+===============
+   ->Nó 420:
+Coordenadas: X =     1085.71 Y =    -800.00
+Potencial:   U = -2108807.29
+===============
+   ->Nó 421:
+Coordenadas: X =      814.29 Y =    -800.00
+Potencial:   U = -2846910.36
+===============
+   ->Nó 422:
+Coordenadas: X =      542.86 Y =    -800.00
+Potencial:   U = -3619073.68
+===============
+   ->Nó 423:
+Coordenadas: X =      271.43 Y =    -800.00
+Potencial:   U = -4430611.30
+===============
+   ->Nó 424:
+Coordenadas: X =        0.00 Y =    -800.00
+Potencial:   U = -5307636.00
+===============
+   ->Nó 425:
+Coordenadas: X =     -271.43 Y =    -800.00
+Potencial:   U = -6263496.18
+===============
+   ->Nó 426:
+Coordenadas: X =     -542.86 Y =    -800.00
+Potencial:   U = -7137564.08
+===============
+   ->Nó 427:
+Coordenadas: X =     -814.29 Y =    -800.00
+Potencial:   U = -7876922.43
+===============
+   ->Nó 428:
+Coordenadas: X =    -1085.71 Y =    -800.00
+Potencial:   U = -8556585.12
+===============
+   ->Nó 429:
+Coordenadas: X =    -1357.14 Y =    -800.00
+Potencial:   U = -9224619.80
+===============
+   ->Nó 430:
+Coordenadas: X =    -1628.57 Y =    -800.00
+Potencial:   U = -9893726.38
+===============
+   ->Nó 431:
+Coordenadas: X =     1492.86 Y =    -800.00
+Potencial:   U = -1043633.57
+===============
+   ->Nó 432:
+Coordenadas: X =     1764.29 Y =    -800.00
+Potencial:   U = -346966.50
+===============
+   ->Nó 433:
+Coordenadas: X =      135.71 Y =    -800.00
+Potencial:   U = -4857235.82
+===============
+   ->Nó 434:
+Coordenadas: X =     1221.43 Y =    -800.00
+Potencial:   U = -1749561.55
+===============
+   ->Nó 435:
+Coordenadas: X =      407.14 Y =    -800.00
+Potencial:   U = -4019388.23
+===============
+   ->Nó 436:
+Coordenadas: X =      678.57 Y =    -800.00
+Potencial:   U = -3228401.92
+===============
+   ->Nó 437:
+Coordenadas: X =      950.00 Y =    -800.00
+Potencial:   U = -2474091.04
+===============
+   ->Nó 438:
+Coordenadas: X =     -135.71 Y =    -800.00
+Potencial:   U = -5782461.54
+===============
+   ->Nó 439:
+Coordenadas: X =     -678.57 Y =    -800.00
+Potencial:   U = -7519601.15
+===============
+   ->Nó 440:
+Coordenadas: X =     -407.14 Y =    -800.00
+Potencial:   U = -6720199.50
+===============
+   ->Nó 441:
+Coordenadas: X =    -1492.86 Y =    -800.00
+Potencial:   U = -9558962.22
+===============
+   ->Nó 442:
+Coordenadas: X =    -1764.29 Y =    -800.00
+Potencial:   U = -10242763.92
+===============
+   ->Nó 443:
+Coordenadas: X =    -1221.43 Y =    -800.00
+Potencial:   U = -8890710.02
+===============
+   ->Nó 444:
+Coordenadas: X =     -950.00 Y =    -800.00
+Potencial:   U = -8220091.81
+===============
+   ->Nó 445:
+Coordenadas: X =    -1628.57 Y =     800.00
+Potencial:   U = -9834626.79
+===============
+   ->Nó 446:
+Coordenadas: X =    -1357.14 Y =     800.00
+Potencial:   U = -9141981.20
+===============
+   ->Nó 447:
+Coordenadas: X =    -1085.71 Y =     800.00
+Potencial:   U = -8431816.14
+===============
+   ->Nó 448:
+Coordenadas: X =     -814.29 Y =     800.00
+Potencial:   U = -7695870.69
+===============
+   ->Nó 449:
+Coordenadas: X =     -542.86 Y =     800.00
+Potencial:   U = -6924951.55
+===============
+   ->Nó 450:
+Coordenadas: X =     -271.43 Y =     800.00
+Potencial:   U = -6114023.26
+===============
+   ->Nó 451:
+Coordenadas: X =        0.00 Y =     800.00
+Potencial:   U = -5238869.14
+===============
+   ->Nó 452:
+Coordenadas: X =      271.43 Y =     800.00
+Potencial:   U = -4283165.22
+===============
+   ->Nó 453:
+Coordenadas: X =      542.86 Y =     800.00
+Potencial:   U = -3410352.03
+===============
+   ->Nó 454:
+Coordenadas: X =      814.29 Y =     800.00
+Potencial:   U = -2672373.55
+===============
+   ->Nó 455:
+Coordenadas: X =     1085.71 Y =     800.00
+Potencial:   U = -1994696.35
+===============
+   ->Nó 456:
+Coordenadas: X =     1357.14 Y =     800.00
+Potencial:   U = -1330352.59
+===============
+   ->Nó 457:
+Coordenadas: X =     1628.57 Y =     800.00
+Potencial:   U = -665920.54
+===============
+   ->Nó 458:
+Coordenadas: X =      135.71 Y =     800.00
+Potencial:   U = -4763299.52
+===============
+   ->Nó 459:
+Coordenadas: X =      407.14 Y =     800.00
+Potencial:   U = -3826980.83
+===============
+   ->Nó 460:
+Coordenadas: X =      678.57 Y =     800.00
+Potencial:   U = -3029010.62
+===============
+   ->Nó 461:
+Coordenadas: X =     1492.86 Y =     800.00
+Potencial:   U = -998372.70
+===============
+   ->Nó 462:
+Coordenadas: X =     1764.29 Y =     800.00
+Potencial:   U = -333094.18
+===============
+   ->Nó 463:
+Coordenadas: X =     1221.43 Y =     800.00
+Potencial:   U = -1662207.16
+===============
+   ->Nó 464:
+Coordenadas: X =      950.00 Y =     800.00
+Potencial:   U = -2330145.48
+===============
+   ->Nó 465:
+Coordenadas: X =    -1492.86 Y =     800.00
+Potencial:   U = -9490258.91
+===============
+   ->Nó 466:
+Coordenadas: X =    -1764.29 Y =     800.00
+Potencial:   U = -10189052.22
+===============
+   ->Nó 467:
+Coordenadas: X =     -135.71 Y =     800.00
+Potencial:   U = -5688182.98
+===============
+   ->Nó 468:
+Coordenadas: X =    -1221.43 Y =     800.00
+Potencial:   U = -8789449.22
+===============
+   ->Nó 469:
+Coordenadas: X =     -407.14 Y =     800.00
+Potencial:   U = -6525069.64
+===============
+   ->Nó 470:
+Coordenadas: X =     -678.57 Y =     800.00
+Potencial:   U = -7315079.73
+===============
+   ->Nó 471:
+Coordenadas: X =     -950.00 Y =     800.00
+Potencial:   U = -8067756.11
+===============
+   ->Nó 472:
+Coordenadas: X =       73.10 Y =     280.54
+Potencial:   U = -5477257.68
+===============
+   ->Nó 473:
+Coordenadas: X =      142.62 Y =     152.45
+Potencial:   U = -5237490.36
+===============
+   ->Nó 474:
+Coordenadas: X =      251.63 Y =      43.24
+Potencial:   U = -4770035.70
+===============
+   ->Nó 475:
+Coordenadas: X =      380.29 Y =     -26.65
+Potencial:   U = -4161910.99
+===============
+   ->Nó 476:
+Coordenadas: X =      511.90 Y =     -12.34
+Potencial:   U = -3382437.62
+===============
+   ->Nó 477:
+Coordenadas: X =      526.86 Y =     119.11
+Potencial:   U = -3047251.08
+===============
+   ->Nó 478:
+Coordenadas: X =      456.73 Y =     248.40
+Potencial:   U = -3218165.67
+===============
+   ->Nó 479:
+Coordenadas: X =      347.26 Y =     357.58
+Potencial:   U = -3673740.27
+===============
+   ->Nó 480:
+Coordenadas: X =      219.45 Y =     426.90
+Potencial:   U = -4338270.38
+===============
+   ->Nó 481:
+Coordenadas: X =      537.08 Y =      50.73
+Potencial:   U = -3128984.07
+===============
+   ->Nó 482:
+Coordenadas: X =      286.29 Y =     397.67
+Potencial:   U = -3977910.86
+===============
+   ->Nó 483:
+Coordenadas: X =      405.57 Y =     306.57
+Potencial:   U = -3415680.95
+===============
+   ->Nó 484:
+Coordenadas: X =      497.37 Y =     186.77
+Potencial:   U = -3095371.20
+===============
+   ->Nó 485:
+Coordenadas: X =      193.56 Y =      94.29
+Potencial:   U = -5022820.21
+===============
+   ->Nó 486:
+Coordenadas: X =      102.40 Y =     213.54
+Potencial:   U = -5392660.98
+===============
+   ->Nó 487:
+Coordenadas: X =       63.05 Y =     348.95
+Potencial:   U = -5419252.59
+===============
+   ->Nó 488:
+Coordenadas: X =      448.66 Y =     -37.09
+Potencial:   U = -3775123.80
+===============
+   ->Nó 489:
+Coordenadas: X =      312.96 Y =       2.74
+Potencial:   U = -4486468.62
+===============
+   ->Nó 490:
+Coordenadas: X =      151.05 Y =     436.98
+Potencial:   U = -4766702.69
+===============
+   ->Nó 491:
+Coordenadas: X =     1900.00 Y =     533.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 492:
+Coordenadas: X =     1900.00 Y =     266.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 493:
+Coordenadas: X =     1900.00 Y =       0.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 494:
+Coordenadas: X =     1900.00 Y =    -266.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 495:
+Coordenadas: X =     1900.00 Y =    -533.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 496:
+Coordenadas: X =     1900.00 Y =    -133.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 497:
+Coordenadas: X =     1900.00 Y =    -666.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 498:
+Coordenadas: X =     1900.00 Y =    -400.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 499:
+Coordenadas: X =     1900.00 Y =     133.33
+Potencial:   U =      -0.00
+===============
+   ->Nó 500:
+Coordenadas: X =     1900.00 Y =     666.67
+Potencial:   U =      -0.00
+===============
+   ->Nó 501:
+Coordenadas: X =     1900.00 Y =     400.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 502:
+Coordenadas: X =    -1900.00 Y =    -800.00
+Potencial:   U = -10612937.89
+===============
+   ->Nó 503:
+Coordenadas: X =    -1900.00 Y =     800.00
+Potencial:   U = -10561024.87
+===============
+   ->Nó 504:
+Coordenadas: X =     -512.13 Y =      12.13
+Potencial:   U = -7164884.72
+===============
+   ->Nó 505:
+Coordenadas: X =     1900.00 Y =    -800.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 506:
+Coordenadas: X =     1900.00 Y =     800.00
+Potencial:   U =      -0.00
+===============
+   ->Nó 507:
+Coordenadas: X =       87.87 Y =     412.13
+Potencial:   U = -5182412.57
+===============
+   ->Elemento 1:
+Nós: 476 5 477
+Velocidade: Vx =    1909.74 Vy =    2332.48 V =    3014.56
+Pressão:    P =    99906.22
+===============
+   ->Elemento 2:
+Nós: 452 451 7
+Velocidade: Vx =    3521.01 Vy =      85.87 V =    3522.06
+Pressão:    P =    98247.54
+===============
+   ->Elemento 3:
+Nós: 13 453 452
+Velocidade: Vx =    3215.63 Vy =    -353.79 V =    3235.03
+Pressão:    P =    99217.28
+===============
+   ->Elemento 4:
+Nós: 452 7 14
+Velocidade: Vx =    3966.03 Vy =    -221.84 V =    3972.23
+Pressão:    P =    96560.70
+===============
+   ->Elemento 5:
+Nós: 452 14 13
+Velocidade: Vx =    3366.15 Vy =    -238.87 V =    3374.61
+Pressão:    P =    98755.99
+===============
+   ->Elemento 6:
+Nós: 14 7 480
+Velocidade: Vx =    3827.52 Vy =    -736.78 V =    3897.79
+Pressão:    P =    96853.62
+===============
+   ->Elemento 7:
+Nós: 479 13 14
+Velocidade: Vx =    3697.17 Vy =   -1452.89 V =    3972.40
+Pressão:    P =    96560.02
+===============
+   ->Elemento 8:
+Nós: 479 14 480
+Velocidade: Vx =    4589.67 Vy =   -1123.92 V =    4725.28
+Pressão:    P =    93285.86
+===============
+   ->Elemento 9:
+Nós: 453 13 10
+Velocidade: Vx =    2837.27 Vy =    -162.51 V =    2841.92
+Pressão:    P =   100411.74
+===============
+   ->Elemento 10:
+Nós: 453 10 454
+Velocidade: Vx =    2718.87 Vy =    -216.33 V =    2727.46
+Pressão:    P =   100730.48
+===============
+   ->Elemento 11:
+Nós: 15 478 11
+Velocidade: Vx =    2156.80 Vy =   -1348.77 V =    2543.81
+Pressão:    P =   101214.51
+===============
+   ->Elemento 12:
+Nós: 10 13 15
+Velocidade: Vx =    2852.37 Vy =    -774.68 V =    2955.70
+Pressão:    P =   100081.92
+===============
+   ->Elemento 13:
+Nós: 10 15 11
+Velocidade: Vx =    2412.50 Vy =    -410.71 V =    2447.21
+Pressão:    P =   101455.58
+===============
+   ->Elemento 14:
+Nós: 15 13 479
+Velocidade: Vx =    2433.25 Vy =    -969.14 V =    2619.15
+Pressão:    P =   101020.03
+===============
+   ->Elemento 15:
+Nós: 15 479 478
+Velocidade: Vx =    2676.79 Vy =   -1488.84 V =    3062.98
+Pressão:    P =    99759.07
+===============
+   ->Elemento 16:
+Nós: 477 5 12
+Velocidade: Vx =     580.93 Vy =     674.54 V =     890.21
+Pressão:    P =   104053.76
+===============
+   ->Elemento 17:
+Nós: 12 11 478
+Velocidade: Vx =    1438.47 Vy =    -280.93 V =    1465.65
+Pressão:    P =   103375.94
+===============
+   ->Elemento 18:
+Nós: 12 478 477
+Velocidade: Vx =    1363.31 Vy =    -582.42 V =    1482.51
+Pressão:    P =   103351.08
+===============
+   ->Elemento 19:
+Nós: 16 419 418
+Velocidade: Vx =    2580.04 Vy =      18.33 V =    2580.11
+Pressão:    P =   101121.52
+===============
+   ->Elemento 20:
+Nós: 6 17 494
+Velocidade: Vx =    2524.52 Vy =      11.22 V =    2524.55
+Pressão:    P =   101263.33
+===============
+   ->Elemento 21:
+Nós: 6 494 493
+Velocidade: Vx =    2494.61 Vy =       0.00 V =    2494.61
+Pressão:    P =   101338.46
+===============
+   ->Elemento 22:
+Nós: 418 505 495
+Velocidade: Vx =    2559.21 Vy =      -0.00 V =    2559.21
+Pressão:    P =   101175.21
+===============
+   ->Elemento 23:
+Nós: 418 495 16
+Velocidade: Vx =    2552.41 Vy =       6.93 V =    2552.42
+Pressão:    P =   101192.58
+===============
+   ->Elemento 24:
+Nós: 495 494 17
+Velocidade: Vx =    2524.85 Vy =       0.00 V =    2524.85
+Pressão:    P =   101262.56
+===============
+   ->Elemento 25:
+Nós: 495 17 16
+Velocidade: Vx =    2552.07 Vy =      24.68 V =    2552.19
+Pressão:    P =   101193.17
+===============
+   ->Elemento 26:
+Nós: 19 474 473
+Velocidade: Vx =    2423.29 Vy =   -1861.55 V =    3055.77
+Pressão:    P =    99781.15
+===============
+   ->Elemento 27:
+Nós: 21 473 472
+Velocidade: Vx =    1562.28 Vy =   -1023.97 V =    1867.95
+Pressão:    P =   102705.38
+===============
+   ->Elemento 28:
+Nós: 4 9 21
+Velocidade: Vx =    2273.50 Vy =    -169.04 V =    2279.78
+Pressão:    P =   101851.31
+===============
+   ->Elemento 29:
+Nós: 472 507 4
+Velocidade: Vx =    2141.63 Vy =    2000.21 V =    2930.43
+Pressão:    P =   100156.29
+===============
+   ->Elemento 30:
+Nós: 472 4 21
+Velocidade: Vx =    1066.35 Vy =    -679.37 V =    1264.38
+Pressão:    P =   103650.68
+===============
+   ->Elemento 31:
+Nós: 19 473 21
+Velocidade: Vx =    1563.98 Vy =   -1536.94 V =    2192.77
+Pressão:    P =   102045.89
+===============
+   ->Elemento 32:
+Nós: 20 19 21
+Velocidade: Vx =    2050.25 Vy =   -1180.06 V =    2365.60
+Pressão:    P =   101651.97
+===============
+   ->Elemento 33:
+Nós: 9 406 20
+Velocidade: Vx =    2321.31 Vy =   -1342.33 V =    2681.48
+Pressão:    P =   100854.83
+===============
+   ->Elemento 34:
+Nós: 9 20 21
+Velocidade: Vx =    2350.78 Vy =   -1314.76 V =    2693.47
+Pressão:    P =   100822.61
+===============
+   ->Elemento 35:
+Nós: 20 406 405
+Velocidade: Vx =    2428.69 Vy =   -1866.63 V =    3063.15
+Pressão:    P =    99758.57
+===============
+   ->Elemento 36:
+Nós: 22 405 404
+Velocidade: Vx =    1567.25 Vy =   -1026.32 V =    1873.39
+Pressão:    P =   102695.20
+===============
+   ->Elemento 37:
+Nós: 2 18 22
+Velocidade: Vx =    2284.76 Vy =    -162.07 V =    2290.50
+Pressão:    P =   101826.81
+===============
+   ->Elemento 38:
+Nós: 404 403 2
+Velocidade: Vx =    2125.71 Vy =    1984.92 V =    2908.36
+Pressão:    P =   100220.71
+===============
+   ->Elemento 39:
+Nós: 404 2 22
+Velocidade: Vx =    1063.56 Vy =    -675.90 V =    1260.16
+Pressão:    P =   103656.00
+===============
+   ->Elemento 40:
+Nós: 20 405 22
+Velocidade: Vx =    1566.44 Vy =   -1534.69 V =    2192.94
+Pressão:    P =   102045.50
+===============
+   ->Elemento 41:
+Nós: 19 20 22
+Velocidade: Vx =    2050.25 Vy =   -1180.08 V =    2365.61
+Pressão:    P =   101651.95
+===============
+   ->Elemento 42:
+Nós: 18 474 19
+Velocidade: Vx =    2317.75 Vy =   -1356.08 V =    2685.32
+Pressão:    P =   100844.54
+===============
+   ->Elemento 43:
+Nós: 18 19 22
+Velocidade: Vx =    2358.35 Vy =   -1317.59 V =    2701.45
+Pressão:    P =   100801.07
+===============
+   ->Elemento 44:
+Nós: 457 456 24
+Velocidade: Vx =    2447.91 Vy =       5.44 V =    2447.91
+Pressão:    P =   101453.86
+===============
+   ->Elemento 45:
+Nós: 6 493 492
+Velocidade: Vx =    2494.61 Vy =       0.00 V =    2494.61
+Pressão:    P =   101338.46
+===============
+   ->Elemento 46:
+Nós: 6 492 23
+Velocidade: Vx =    2470.40 Vy =       9.08 V =    2470.41
+Pressão:    P =   101398.53
+===============
+   ->Elemento 47:
+Nós: 457 24 491
+Velocidade: Vx =    2455.52 Vy =       2.17 V =    2455.52
+Pressão:    P =   101435.21
+===============
+   ->Elemento 48:
+Nós: 457 491 506
+Velocidade: Vx =    2453.39 Vy =       0.00 V =    2453.39
+Pressão:    P =   101440.44
+===============
+   ->Elemento 49:
+Nós: 23 492 491
+Velocidade: Vx =    2471.04 Vy =       0.00 V =    2471.04
+Pressão:    P =   101396.97
+===============
+   ->Elemento 50:
+Nós: 23 491 24
+Velocidade: Vx =    2454.97 Vy =      13.67 V =    2455.00
+Pressão:    P =   101436.48
+===============
+   ->Elemento 51:
+Nós: 424 423 25
+Velocidade: Vx =    3231.14 Vy =     166.17 V =    3235.41
+Pressão:    P =    99216.05
+===============
+   ->Elemento 52:
+Nós: 424 25 26
+Velocidade: Vx =    3119.94 Vy =     256.73 V =    3130.48
+Pressão:    P =    99550.03
+===============
+   ->Elemento 53:
+Nós: 424 26 8
+Velocidade: Vx =    3781.27 Vy =     235.11 V =    3788.57
+Pressão:    P =    97273.36
+===============
+   ->Elemento 54:
+Nós: 2 403 26
+Velocidade: Vx =    2524.49 Vy =     781.63 V =    2642.72
+Pressão:    P =   100958.01
+===============
+   ->Elemento 55:
+Nós: 2 26 25
+Velocidade: Vx =    3151.51 Vy =     474.32 V =    3187.00
+Pressão:    P =    99371.51
+===============
+   ->Elemento 56:
+Nós: 403 402 8
+Velocidade: Vx =    6421.78 Vy =     302.19 V =    6428.88
+Pressão:    P =    83784.72
+===============
+   ->Elemento 57:
+Nós: 403 8 26
+Velocidade: Vx =    3380.04 Vy =    1448.31 V =    3677.26
+Pressão:    P =    97688.87
+===============
+   ->Elemento 58:
+Nós: 456 455 34
+Velocidade: Vx =    2447.58 Vy =      -7.76 V =    2447.59
+Pressão:    P =   101454.64
+===============
+   ->Elemento 59:
+Nós: 456 34 24
+Velocidade: Vx =    2436.24 Vy =      -0.63 V =    2436.24
+Pressão:    P =   101482.36
+===============
+   ->Elemento 60:
+Nós: 24 34 33
+Velocidade: Vx =    2433.09 Vy =      30.76 V =    2433.28
+Pressão:    P =   101489.57
+===============
+   ->Elemento 61:
+Nós: 24 33 23
+Velocidade: Vx =    2460.29 Vy =      16.75 V =    2460.35
+Pressão:    P =   101423.34
+===============
+   ->Elemento 62:
+Nós: 32 17 6
+Velocidade: Vx =    2493.38 Vy =      26.63 V =    2493.53
+Pressão:    P =   101341.16
+===============
+   ->Elemento 63:
+Nós: 23 33 32
+Velocidade: Vx =    2457.74 Vy =      41.49 V =    2458.09
+Pressão:    P =   101428.89
+===============
+   ->Elemento 64:
+Nós: 23 32 6
+Velocidade: Vx =    2493.76 Vy =      22.32 V =    2493.86
+Pressão:    P =   101340.32
+===============
+   ->Elemento 65:
+Nós: 37 29 420
+Velocidade: Vx =    2648.35 Vy =      28.41 V =    2648.50
+Pressão:    P =   100942.72
+===============
+   ->Elemento 66:
+Nós: 419 16 37
+Velocidade: Vx =    2583.79 Vy =      15.96 V =    2583.84
+Pressão:    P =   101111.90
+===============
+   ->Elemento 67:
+Nós: 419 37 420
+Velocidade: Vx =    2630.03 Vy =      39.12 V =    2630.32
+Pressão:    P =   100990.70
+===============
+   ->Elemento 68:
+Nós: 16 17 36
+Velocidade: Vx =    2532.92 Vy =      34.93 V =    2533.16
+Pressão:    P =   101241.54
+===============
+   ->Elemento 69:
+Nós: 16 36 37
+Velocidade: Vx =    2582.22 Vy =      64.08 V =    2583.02
+Pressão:    P =   101114.01
+===============
+   ->Elemento 70:
+Nós: 37 36 35
+Velocidade: Vx =    2558.34 Vy =      77.34 V =    2559.51
+Pressão:    P =   101174.46
+===============
+   ->Elemento 71:
+Nós: 35 30 29
+Velocidade: Vx =    2628.59 Vy =     137.28 V =    2632.17
+Pressão:    P =   100985.83
+===============
+   ->Elemento 72:
+Nós: 35 29 37
+Velocidade: Vx =    2646.48 Vy =     127.20 V =    2649.53
+Pressão:    P =   100939.99
+===============
+   ->Elemento 73:
+Nós: 32 33 38
+Velocidade: Vx =    2487.79 Vy =      61.19 V =    2488.55
+Pressão:    P =   101353.57
+===============
+   ->Elemento 74:
+Nós: 36 17 32
+Velocidade: Vx =    2531.92 Vy =      50.22 V =    2532.42
+Pressão:    P =   101243.42
+===============
+   ->Elemento 75:
+Nós: 38 35 36
+Velocidade: Vx =    2555.71 Vy =     118.24 V =    2558.44
+Pressão:    P =   101177.19
+===============
+   ->Elemento 76:
+Nós: 38 36 32
+Velocidade: Vx =    2486.33 Vy =      73.69 V =    2487.43
+Pressão:    P =   101356.35
+===============
+   ->Elemento 77:
+Nós: 33 34 39
+Velocidade: Vx =    2424.68 Vy =      24.40 V =    2424.80
+Pressão:    P =   101510.17
+===============
+   ->Elemento 78:
+Nós: 33 39 38
+Velocidade: Vx =    2408.43 Vy =      97.96 V =    2410.42
+Pressão:    P =   101544.93
+===============
+   ->Elemento 79:
+Nós: 10 11 41
+Velocidade: Vx =    2493.22 Vy =    -399.75 V =    2525.07
+Pressão:    P =   101262.02
+===============
+   ->Elemento 80:
+Nós: 41 455 454
+Velocidade: Vx =    2496.71 Vy =     -74.22 V =    2497.81
+Pressão:    P =   101330.48
+===============
+   ->Elemento 81:
+Nós: 41 454 10
+Velocidade: Vx =    2539.64 Vy =     -64.90 V =    2540.47
+Pressão:    P =   101223.01
+===============
+   ->Elemento 82:
+Nós: 34 455 41
+Velocidade: Vx =    2428.35 Vy =     -11.93 V =    2428.38
+Pressão:    P =   101501.49
+===============
+   ->Elemento 83:
+Nós: 40 39 34
+Velocidade: Vx =    2308.59 Vy =      58.64 V =    2309.33
+Pressão:    P =   101783.50
+===============
+   ->Elemento 84:
+Nós: 40 34 41
+Velocidade: Vx =    2403.15 Vy =    -102.52 V =    2405.34
+Pressão:    P =   101557.18
+===============
+   ->Elemento 85:
+Nós: 42 30 35
+Velocidade: Vx =    2623.77 Vy =     255.96 V =    2636.22
+Pressão:    P =   100975.16
+===============
+   ->Elemento 86:
+Nós: 38 39 42
+Velocidade: Vx =    2475.29 Vy =     150.26 V =    2479.85
+Pressão:    P =   101375.18
+===============
+   ->Elemento 87:
+Nós: 38 42 35
+Velocidade: Vx =    2474.01 Vy =     159.89 V =    2479.17
+Pressão:    P =   101376.86
+===============
+   ->Elemento 88:
+Nós: 43 12 5
+Velocidade: Vx =    1976.47 Vy =     280.85 V =    1996.32
+Pressão:    P =   102457.34
+===============
+   ->Elemento 89:
+Nós: 43 5 31
+Velocidade: Vx =    1913.01 Vy =     654.55 V =    2021.89
+Pressão:    P =   102405.98
+===============
+   ->Elemento 90:
+Nós: 31 30 42
+Velocidade: Vx =    2496.15 Vy =     325.50 V =    2517.28
+Pressão:    P =   101281.66
+===============
+   ->Elemento 91:
+Nós: 31 42 43
+Velocidade: Vx =    2489.16 Vy =     413.69 V =    2523.31
+Pressão:    P =   101266.46
+===============
+   ->Elemento 92:
+Nós: 39 40 43
+Velocidade: Vx =    2317.57 Vy =      70.00 V =    2318.62
+Pressão:    P =   101761.99
+===============
+   ->Elemento 93:
+Nós: 39 43 42
+Velocidade: Vx =    2271.86 Vy =     233.44 V =    2283.82
+Pressão:    P =   101842.08
+===============
+   ->Elemento 94:
+Nós: 40 41 11
+Velocidade: Vx =    2239.22 Vy =    -100.42 V =    2241.47
+Pressão:    P =   101937.90
+===============
+   ->Elemento 95:
+Nós: 12 43 40
+Velocidade: Vx =    1894.02 Vy =     170.05 V =    1901.64
+Pressão:    P =   102641.88
+===============
+   ->Elemento 96:
+Nós: 12 40 11
+Velocidade: Vx =    2149.88 Vy =    -319.10 V =    2173.43
+Pressão:    P =   102088.09
+===============
+   ->Elemento 97:
+Nós: 44 27 25
+Velocidade: Vx =    2986.68 Vy =     106.13 V =    2988.57
+Pressão:    P =    99984.22
+===============
+   ->Elemento 98:
+Nós: 423 422 44
+Velocidade: Vx =    2989.88 Vy =      83.01 V =    2991.03
+Pressão:    P =    99976.87
+===============
+   ->Elemento 99:
+Nós: 423 44 25
+Velocidade: Vx =    2986.80 Vy =      85.10 V =    2988.01
+Pressão:    P =    99985.90
+===============
+   ->Elemento 100:
+Nós: 27 44 45
+Velocidade: Vx =    3045.09 Vy =     134.77 V =    3048.07
+Pressão:    P =    99804.64
+===============
+   ->Elemento 101:
+Nós: 28 27 45
+Velocidade: Vx =    3049.54 Vy =     105.18 V =    3051.36
+Pressão:    P =    99794.61
+===============
+   ->Elemento 102:
+Nós: 45 31 46
+Velocidade: Vx =    2742.57 Vy =     569.88 V =    2801.15
+Pressão:    P =   100526.78
+===============
+   ->Elemento 103:
+Nós: 45 46 28
+Velocidade: Vx =    3574.32 Vy =     582.44 V =    3621.47
+Pressão:    P =    97892.49
+===============
+   ->Elemento 104:
+Nós: 476 28 46
+Velocidade: Vx =    3141.54 Vy =    1767.75 V =    3604.75
+Pressão:    P =    97952.90
+===============
+   ->Elemento 105:
+Nós: 46 31 5
+Velocidade: Vx =    2790.28 Vy =    1276.23 V =    3068.29
+Pressão:    P =    99742.79
+===============
+   ->Elemento 106:
+Nós: 46 5 476
+Velocidade: Vx =    2513.21 Vy =    1352.83 V =    2854.19
+Pressão:    P =   100376.80
+===============
+   ->Elemento 107:
+Nós: 422 421 47
+Velocidade: Vx =    2844.81 Vy =      80.67 V =    2845.96
+Pressão:    P =   100400.27
+===============
+   ->Elemento 108:
+Nós: 47 45 44
+Velocidade: Vx =    2901.79 Vy =     214.43 V =    2909.70
+Pressão:    P =   100216.83
+===============
+   ->Elemento 109:
+Nós: 47 44 422
+Velocidade: Vx =    2904.69 Vy =      43.62 V =    2905.01
+Pressão:    P =   100230.45
+===============
+   ->Elemento 110:
+Nós: 421 420 29
+Velocidade: Vx =    2719.33 Vy =      65.28 V =    2720.11
+Pressão:    P =   100750.50
+===============
+   ->Elemento 111:
+Nós: 421 29 47
+Velocidade: Vx =    2762.82 Vy =      39.65 V =    2763.11
+Pressão:    P =   100632.61
+===============
+   ->Elemento 112:
+Nós: 30 31 45
+Velocidade: Vx =    2834.28 Vy =     497.35 V =    2877.59
+Pressão:    P =   100309.74
+===============
+   ->Elemento 113:
+Nós: 47 29 30
+Velocidade: Vx =    2761.39 Vy =     207.76 V =    2769.20
+Pressão:    P =   100615.77
+===============
+   ->Elemento 114:
+Nós: 47 30 45
+Velocidade: Vx =    2817.32 Vy =     174.31 V =    2822.71
+Pressão:    P =   100466.16
+===============
+   ->Elemento 115:
+Nós: 2 25 27
+Velocidade: Vx =    2703.49 Vy =     279.17 V =    2717.86
+Pressão:    P =   100756.61
+===============
+   ->Elemento 116:
+Nós: 2 27 18
+Velocidade: Vx =    2719.60 Vy =    -425.86 V =    2752.74
+Pressão:    P =   100661.22
+===============
+   ->Elemento 117:
+Nós: 18 27 28
+Velocidade: Vx =    3413.55 Vy =     -96.80 V =    3414.92
+Pressão:    P =    98619.17
+===============
+   ->Elemento 118:
+Nós: 28 476 475
+Velocidade: Vx =    5899.29 Vy =     215.53 V =    5903.22
+Pressão:    P =    87025.98
+===============
+   ->Elemento 119:
+Nós: 475 474 18
+Velocidade: Vx =    3881.14 Vy =   -1556.16 V =    4181.50
+Pressão:    P =    95707.55
+===============
+   ->Elemento 120:
+Nós: 475 18 28
+Velocidade: Vx =    3362.11 Vy =    -850.42 V =    3468.00
+Pressão:    P =    98436.49
+===============
+   ->Elemento 121:
+Nós: 504 3 399
+Velocidade: Vx =    1994.86 Vy =    2312.63 V =    3054.13
+Pressão:    P =    99786.14
+===============
+   ->Elemento 122:
+Nós: 425 424 8
+Velocidade: Vx =    3521.59 Vy =      42.46 V =    3521.85
+Pressão:    P =    98248.30
+===============
+   ->Elemento 123:
+Nós: 48 427 426
+Velocidade: Vx =    2723.95 Vy =    -149.44 V =    2728.05
+Pressão:    P =   100728.88
+===============
+   ->Elemento 124:
+Nós: 425 8 52
+Velocidade: Vx =    3773.59 Vy =     -97.34 V =    3774.84
+Pressão:    P =    97325.28
+===============
+   ->Elemento 125:
+Nós: 51 48 426
+Velocidade: Vx =    2584.47 Vy =    -280.00 V =    2599.59
+Pressão:    P =   101071.07
+===============
+   ->Elemento 126:
+Nós: 426 425 52
+Velocidade: Vx =    3220.25 Vy =    -310.72 V =    3235.21
+Pressão:    P =    99216.72
+===============
+   ->Elemento 127:
+Nós: 426 52 51
+Velocidade: Vx =    3205.88 Vy =    -297.01 V =    3219.61
+Pressão:    P =    99267.06
+===============
+   ->Elemento 128:
+Nós: 53 50 49
+Velocidade: Vx =    2156.14 Vy =    -452.67 V =    2203.15
+Pressão:    P =   102023.07
+===============
+   ->Elemento 129:
+Nós: 51 52 54
+Velocidade: Vx =    2937.21 Vy =   -1001.52 V =    3103.26
+Pressão:    P =    99634.88
+===============
+   ->Elemento 130:
+Nós: 49 48 51
+Velocidade: Vx =    2607.78 Vy =    -354.80 V =    2631.81
+Pressão:    P =   100986.79
+===============
+   ->Elemento 131:
+Nós: 51 54 53
+Velocidade: Vx =    2899.54 Vy =    -928.19 V =    3044.48
+Pressão:    P =    99815.56
+===============
+   ->Elemento 132:
+Nós: 51 53 49
+Velocidade: Vx =    2198.02 Vy =    -791.57 V =    2336.21
+Pressão:    P =   101721.06
+===============
+   ->Elemento 133:
+Nós: 52 8 402
+Velocidade: Vx =    3795.53 Vy =    -729.23 V =    3864.95
+Pressão:    P =    96981.09
+===============
+   ->Elemento 134:
+Nós: 402 401 54
+Velocidade: Vx =    4029.60 Vy =   -2181.52 V =    4582.22
+Pressão:    P =    93951.64
+===============
+   ->Elemento 135:
+Nós: 402 54 52
+Velocidade: Vx =    3805.00 Vy =    -736.43 V =    3875.61
+Pressão:    P =    96939.81
+===============
+   ->Elemento 136:
+Nós: 401 400 53
+Velocidade: Vx =    2480.01 Vy =   -1657.79 V =    2983.07
+Pressão:    P =   100000.64
+===============
+   ->Elemento 137:
+Nós: 401 53 54
+Velocidade: Vx =    2470.55 Vy =   -1456.02 V =    2867.68
+Pressão:    P =   100338.20
+===============
+   ->Elemento 138:
+Nós: 399 3 50
+Velocidade: Vx =     272.94 Vy =     500.55 V =     570.13
+Pressão:    P =   104287.48
+===============
+   ->Elemento 139:
+Nós: 50 53 400
+Velocidade: Vx =    1190.73 Vy =   -1144.87 V =    1651.84
+Pressão:    P =   103085.72
+===============
+   ->Elemento 140:
+Nós: 50 400 399
+Velocidade: Vx =    1334.66 Vy =    -576.53 V =    1453.86
+Pressão:    P =   103393.15
+===============
+   ->Elemento 141:
+Nós: 430 429 56
+Velocidade: Vx =    2465.13 Vy =      11.35 V =    2465.16
+Pressão:    P =   101411.50
+===============
+   ->Elemento 142:
+Nós: 1 390 389
+Velocidade: Vx =    3038.18 Vy =      -0.72 V =    3038.18
+Pressão:    P =    99834.73
+===============
+   ->Elemento 143:
+Nós: 1 389 55
+Velocidade: Vx =    2696.09 Vy =     127.57 V =    2699.11
+Pressão:    P =   100807.40
+===============
+   ->Elemento 144:
+Nós: 430 56 388
+Velocidade: Vx =    2589.03 Vy =     -42.19 V =    2589.38
+Pressão:    P =   101097.56
+===============
+   ->Elemento 145:
+Nós: 430 388 502
+Velocidade: Vx =    2649.73 Vy =      19.58 V =    2649.80
+Pressão:    P =   100939.28
+===============
+   ->Elemento 146:
+Nós: 55 389 388
+Velocidade: Vx =    2701.94 Vy =      -2.51 V =    2701.94
+Pressão:    P =   100799.76
+===============
+   ->Elemento 147:
+Nós: 55 388 56
+Velocidade: Vx =    2586.05 Vy =      97.63 V =    2587.90
+Pressão:    P =   101101.39
+===============
+   ->Elemento 148:
+Nós: 57 446 445
+Velocidade: Vx =    2551.85 Vy =      27.37 V =    2552.00
+Pressão:    P =   101193.65
+===============
+   ->Elemento 149:
+Nós: 1 58 391
+Velocidade: Vx =    2721.65 Vy =     -23.38 V =    2721.75
+Pressão:    P =   100746.05
+===============
+   ->Elemento 150:
+Nós: 1 391 390
+Velocidade: Vx =    3038.18 Vy =      95.32 V =    3039.68
+Pressão:    P =    99830.18
+===============
+   ->Elemento 151:
+Nós: 445 503 392
+Velocidade: Vx =    2676.20 Vy =       9.78 V =    2676.22
+Pressão:    P =   100868.92
+===============
+   ->Elemento 152:
+Nós: 445 392 57
+Velocidade: Vx =    2627.90 Vy =      58.94 V =    2628.56
+Pressão:    P =   100995.34
+===============
+   ->Elemento 153:
+Nós: 392 391 58
+Velocidade: Vx =    2719.84 Vy =      73.22 V =    2720.83
+Pressão:    P =   100748.56
+===============
+   ->Elemento 154:
+Nós: 392 58 57
+Velocidade: Vx =    2628.90 Vy =      -8.75 V =    2628.91
+Pressão:    P =   100994.41
+===============
+   ->Elemento 155:
+Nós: 451 450 59
+Velocidade: Vx =    3224.25 Vy =     219.96 V =    3231.75
+Pressão:    P =    99227.91
+===============
+   ->Elemento 156:
+Nós: 7 451 59
+Velocidade: Vx =    3506.45 Vy =      77.52 V =    3507.31
+Pressão:    P =    98299.40
+===============
+   ->Elemento 157:
+Nós: 507 480 7
+Velocidade: Vx =    6327.54 Vy =     783.22 V =    6375.83
+Pressão:    P =    84124.42
+===============
+   ->Elemento 158:
+Nós: 59 4 507
+Velocidade: Vx =    2673.52 Vy =     391.93 V =    2702.10
+Pressão:    P =   100799.33
+===============
+   ->Elemento 159:
+Nós: 59 507 7
+Velocidade: Vx =    3322.14 Vy =    1393.54 V =    3602.58
+Pressão:    P =    97960.72
+===============
+   ->Elemento 160:
+Nós: 67 62 447
+Velocidade: Vx =    2640.35 Vy =      31.10 V =    2640.53
+Pressão:    P =   100963.79
+===============
+   ->Elemento 161:
+Nós: 446 57 67
+Velocidade: Vx =    2565.63 Vy =      18.77 V =    2565.70
+Pressão:    P =   101158.60
+===============
+   ->Elemento 162:
+Nós: 446 67 447
+Velocidade: Vx =    2616.40 Vy =      44.40 V =    2616.77
+Pressão:    P =   101026.25
+===============
+   ->Elemento 163:
+Nós: 62 67 65
+Velocidade: Vx =    2637.98 Vy =     141.84 V =    2641.79
+Pressão:    P =   100960.48
+===============
+   ->Elemento 164:
+Nós: 62 65 63
+Velocidade: Vx =    2625.20 Vy =     148.41 V =    2629.39
+Pressão:    P =   100993.16
+===============
+   ->Elemento 165:
+Nós: 66 65 67
+Velocidade: Vx =    2547.56 Vy =      90.17 V =    2549.15
+Pressão:    P =   101200.91
+===============
+   ->Elemento 166:
+Nós: 57 58 66
+Velocidade: Vx =    2515.14 Vy =      52.18 V =    2515.68
+Pressão:    P =   101285.69
+===============
+   ->Elemento 167:
+Nós: 57 66 67
+Velocidade: Vx =    2564.54 Vy =      80.89 V =    2565.82
+Pressão:    P =   101158.29
+===============
+   ->Elemento 168:
+Nós: 55 56 69
+Velocidade: Vx =    2466.29 Vy =      30.65 V =    2466.48
+Pressão:    P =   101408.24
+===============
+   ->Elemento 169:
+Nós: 70 1 55
+Velocidade: Vx =    2520.51 Vy =      31.68 V =    2520.71
+Pressão:    P =   101273.02
+===============
+   ->Elemento 170:
+Nós: 69 68 70
+Velocidade: Vx =    2482.27 Vy =      72.52 V =    2483.33
+Pressão:    P =   101366.53
+===============
+   ->Elemento 171:
+Nós: 69 70 55
+Velocidade: Vx =    2465.14 Vy =      62.24 V =    2465.92
+Pressão:    P =   101409.61
+===============
+   ->Elemento 172:
+Nós: 68 65 66
+Velocidade: Vx =    2546.08 Vy =     132.53 V =    2549.53
+Pressão:    P =   101199.96
+===============
+   ->Elemento 173:
+Nós: 68 66 70
+Velocidade: Vx =    2481.28 Vy =      93.71 V =    2483.05
+Pressão:    P =   101367.24
+===============
+   ->Elemento 174:
+Nós: 58 1 70
+Velocidade: Vx =    2518.33 Vy =      78.89 V =    2519.57
+Pressão:    P =   101275.88
+===============
+   ->Elemento 175:
+Nós: 58 70 66
+Velocidade: Vx =    2514.22 Vy =      76.46 V =    2515.38
+Pressão:    P =   101286.43
+===============
+   ->Elemento 176:
+Nós: 71 69 56
+Velocidade: Vx =    2450.51 Vy =      39.25 V =    2450.82
+Pressão:    P =   101446.73
+===============
+   ->Elemento 177:
+Nós: 429 428 71
+Velocidade: Vx =    2461.18 Vy =      -3.03 V =    2461.18
+Pressão:    P =   101421.29
+===============
+   ->Elemento 178:
+Nós: 429 71 56
+Velocidade: Vx =    2451.10 Vy =       3.57 V =    2451.11
+Pressão:    P =   101446.04
+===============
+   ->Elemento 179:
+Nós: 69 71 72
+Velocidade: Vx =    2420.98 Vy =      19.54 V =    2421.05
+Pressão:    P =   101519.25
+===============
+   ->Elemento 180:
+Nós: 69 72 68
+Velocidade: Vx =    2414.39 Vy =     107.15 V =    2416.77
+Pressão:    P =   101529.61
+===============
+   ->Elemento 181:
+Nós: 48 73 74
+Velocidade: Vx =    2489.97 Vy =     -90.98 V =    2491.63
+Pressão:    P =   101345.88
+===============
+   ->Elemento 182:
+Nós: 74 428 427
+Velocidade: Vx =    2504.02 Vy =     -50.28 V =    2504.52
+Pressão:    P =   101313.68
+===============
+   ->Elemento 183:
+Nós: 74 427 48
+Velocidade: Vx =    2484.88 Vy =     -64.03 V =    2485.71
+Pressão:    P =   101360.64
+===============
+   ->Elemento 184:
+Nós: 71 428 74
+Velocidade: Vx =    2452.15 Vy =      -5.85 V =    2452.16
+Pressão:    P =   101443.46
+===============
+   ->Elemento 185:
+Nós: 73 72 71
+Velocidade: Vx =    2381.23 Vy =      34.33 V =    2381.48
+Pressão:    P =   101614.28
+===============
+   ->Elemento 186:
+Nós: 73 71 74
+Velocidade: Vx =    2419.30 Vy =     -77.31 V =    2420.54
+Pressão:    P =   101520.49
+===============
+   ->Elemento 187:
+Nós: 75 63 65
+Velocidade: Vx =    2617.29 Vy =     298.46 V =    2634.25
+Pressão:    P =   100980.36
+===============
+   ->Elemento 188:
+Nós: 68 72 75
+Velocidade: Vx =    2441.58 Vy =     124.02 V =    2444.73
+Pressão:    P =   101461.64
+===============
+   ->Elemento 189:
+Nós: 68 75 65
+Velocidade: Vx =    2440.69 Vy =     185.91 V =    2447.76
+Pressão:    P =   101454.24
+===============
+   ->Elemento 190:
+Nós: 64 63 75
+Velocidade: Vx =    2475.49 Vy =     351.56 V =    2500.33
+Pressão:    P =   101324.18
+===============
+   ->Elemento 191:
+Nós: 72 73 77
+Velocidade: Vx =    2274.30 Vy =     -52.11 V =    2274.90
+Pressão:    P =   101862.42
+===============
+   ->Elemento 192:
+Nós: 75 72 77
+Velocidade: Vx =    2267.67 Vy =     223.54 V =    2278.66
+Pressão:    P =   101853.86
+===============
+   ->Elemento 193:
+Nós: 76 64 75
+Velocidade: Vx =    2386.88 Vy =     634.69 V =    2469.82
+Pressão:    P =   101400.00
+===============
+   ->Elemento 194:
+Nós: 76 75 77
+Velocidade: Vx =    2144.72 Vy =     173.01 V =    2151.69
+Pressão:    P =   102135.12
+===============
+   ->Elemento 195:
+Nós: 73 48 49
+Velocidade: Vx =    2302.71 Vy =    -273.09 V =    2318.85
+Pressão:    P =   101761.47
+===============
+   ->Elemento 196:
+Nós: 73 49 77
+Velocidade: Vx =    2261.12 Vy =     -46.86 V =    2261.60
+Pressão:    P =   101892.58
+===============
+   ->Elemento 197:
+Nós: 3 64 76
+Velocidade: Vx =    1760.31 Vy =     743.59 V =    1910.92
+Pressão:    P =   102624.19
+===============
+   ->Elemento 198:
+Nós: 3 76 50
+Velocidade: Vx =    1822.16 Vy =     342.36 V =    1854.04
+Pressão:    P =   102731.27
+===============
+   ->Elemento 199:
+Nós: 77 49 50
+Velocidade: Vx =    1875.23 Vy =    -344.92 V =    1906.69
+Pressão:    P =   102632.27
+===============
+   ->Elemento 200:
+Nós: 77 50 76
+Velocidade: Vx =    1841.91 Vy =     358.04 V =    1876.38
+Pressão:    P =   102689.59
+===============
+   ->Elemento 201:
+Nós: 78 60 59
+Velocidade: Vx =    2992.03 Vy =     109.46 V =    2994.03
+Pressão:    P =    99967.89
+===============
+   ->Elemento 202:
+Nós: 450 449 78
+Velocidade: Vx =    2987.63 Vy =      86.33 V =    2988.88
+Pressão:    P =    99983.30
+===============
+   ->Elemento 203:
+Nós: 450 78 59
+Velocidade: Vx =    2991.38 Vy =      84.10 V =    2992.57
+Pressão:    P =    99972.27
+===============
+   ->Elemento 204:
+Nós: 60 78 79
+Velocidade: Vx =    3046.90 Vy =     136.36 V =    3049.95
+Pressão:    P =    99798.90
+===============
+   ->Elemento 205:
+Nós: 61 60 79
+Velocidade: Vx =    3057.87 Vy =      66.74 V =    3058.60
+Pressão:    P =    99772.49
+===============
+   ->Elemento 206:
+Nós: 79 64 80
+Velocidade: Vx =    2819.43 Vy =     586.38 V =    2879.76
+Pressão:    P =   100303.49
+===============
+   ->Elemento 207:
+Nós: 79 80 61
+Velocidade: Vx =    3648.26 Vy =     585.50 V =    3694.95
+Pressão:    P =    97623.69
+===============
+   ->Elemento 208:
+Nós: 504 61 80
+Velocidade: Vx =    3155.45 Vy =    1832.63 V =    3649.02
+Pressão:    P =    97792.32
+===============
+   ->Elemento 209:
+Nós: 80 64 3
+Velocidade: Vx =    2841.58 Vy =    1432.39 V =    3182.19
+Pressão:    P =    99386.84
+===============
+   ->Elemento 210:
+Nós: 80 3 504
+Velocidade: Vx =    2560.20 Vy =    1513.12 V =    2973.91
+Pressão:    P =   100027.93
+===============
+   ->Elemento 211:
+Nós: 449 448 81
+Velocidade: Vx =    2840.23 Vy =      83.36 V =    2841.45
+Pressão:    P =   100413.08
+===============
+   ->Elemento 212:
+Nós: 81 79 78
+Velocidade: Vx =    2904.95 Vy =     214.72 V =    2912.88
+Pressão:    P =   100207.58
+===============
+   ->Elemento 213:
+Nós: 81 78 449
+Velocidade: Vx =    2908.66 Vy =      44.75 V =    2909.00
+Pressão:    P =   100218.85
+===============
+   ->Elemento 214:
+Nós: 448 447 62
+Velocidade: Vx =    2711.38 Vy =      69.26 V =    2712.26
+Pressão:    P =   100771.82
+===============
+   ->Elemento 215:
+Nós: 448 62 81
+Velocidade: Vx =    2761.68 Vy =      41.68 V =    2762.00
+Pressão:    P =   100635.69
+===============
+   ->Elemento 216:
+Nós: 63 64 79
+Velocidade: Vx =    2847.80 Vy =     566.69 V =    2903.63
+Pressão:    P =   100234.46
+===============
+   ->Elemento 217:
+Nós: 81 62 63
+Velocidade: Vx =    2760.26 Vy =     224.11 V =    2769.35
+Pressão:    P =   100615.36
+===============
+   ->Elemento 218:
+Nós: 81 63 79
+Velocidade: Vx =    2838.88 Vy =     181.87 V =    2844.70
+Pressão:    P =   100403.85
+===============
+   ->Elemento 219:
+Nós: 4 59 60
+Velocidade: Vx =    2666.49 Vy =     391.03 V =    2695.01
+Pressão:    P =   100818.46
+===============
+   ->Elemento 220:
+Nós: 4 60 9
+Velocidade: Vx =    2707.25 Vy =    -425.34 V =    2740.46
+Pressão:    P =   100694.93
+===============
+   ->Elemento 221:
+Nós: 9 60 61
+Velocidade: Vx =    3396.98 Vy =    -141.61 V =    3399.93
+Pressão:    P =    98670.24
+===============
+   ->Elemento 222:
+Nós: 61 504 407
+Velocidade: Vx =    5922.14 Vy =      81.14 V =    5922.70
+Pressão:    P =    86910.84
+===============
+   ->Elemento 223:
+Nós: 407 406 9
+Velocidade: Vx =    3874.92 Vy =   -1578.23 V =    4184.00
+Pressão:    P =    95697.09
+===============
+   ->Elemento 224:
+Nós: 407 9 61
+Velocidade: Vx =    3355.16 Vy =    -851.08 V =    3461.43
+Pressão:    P =    98459.26
