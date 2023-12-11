@@ -34,13 +34,13 @@ U = @(X,Y) 2500 * X - 4750000;
 erro = U(x, y) - u;
 
 % Visualização da malha, dos resultados em 2D e 3D, velocidade, pressao, e erro
-visualisar_malha_simples(x, y, tri, true)
-visualisar_malha_solucao(x, y, u, tri);
-visualisar_malha_com_velocidade(x, y, vx, vy, tri);
-visualisar_pressao(x, y, p, tri);
-visualisar_malha_solucao(x, y, erro, tri)
+%visualisar_malha_simples(x, y, tri, true)
+%visualisar_malha_solucao(x, y, u, tri);
+%visualisar_malha_com_velocidade(x, y, vx, vy, tri);
+%visualisar_pressao(x, y, p, tri);
+%visualisar_malha_solucao(x, y, erro, tri)
 
 
 % Extraimos os resultados para análise
-extrair_resultados_TRI6("Output Data\resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
-extrair_erro("Output Data\resultados_test.txt", erro)
+%extrair_resultados_TRI6("Output Data\resultados_test.txt", x, y, u, tri, vx, vy,v, vmax, local_vmax, vmin, local_vmin, p, pmax, local_pmax, pmin, local_pmin)
+%extrair_erro("Output Data\resultados_test.txt", erro)

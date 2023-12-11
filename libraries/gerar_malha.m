@@ -46,7 +46,7 @@ function [x, y, conectividades] = gerar_malha(elementos_nome_ficheiro, nos_nome_
 
     % Selecionar informações necessárias
     conectividades = split(elementos);
-    conectividades = str2double(conectividades(:,11:end));
+    conectividades = str2double(conectividades(:,12:end));
     
     buffer = conectividades(:,2);
     conectividades(:,2) = conectividades(:,3);

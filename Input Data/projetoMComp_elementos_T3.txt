@@ -1,6 +1,6 @@
-﻿Information listing created by	marti
-Date	07-Dec-2023 23:26:24
-Current work part	C:\Users\marti\OneDrive\Ambiente de Trabalho\Projeto MComp\projetoMComp_fem2.fem
+Information listing created by	marti
+Date	09-Dec-2023 17:23:06
+Current work part	C:\Users\marti\OneDrive\Ambiente de Trabalho\Mecanica Computacional\projetoMComp_fem3.fem
 Node name	LAPTOP-JJG7VEAE
 
 
@@ -14,230 +14,264 @@ Node name	LAPTOP-JJG7VEAE
  
 ELEMENT INFORMATION
   Label                | Element Type   | Mesh           | Mesh Collector | Connected Nodes
-  1                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 126 127 5
-  2                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 116 7 115
-  3                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 13 116 117
-  4                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 116 14 7
-  5                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 116 13 14
-  6                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 14 130 7
-  7                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 129 14 13
-  8                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 129 130 14
-  9                    | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 117 10 13
-  10                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 117 118 10
-  11                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 15 11 128
-  12                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 10 15 13
-  13                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 10 11 15
-  14                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 15 129 13
-  15                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 15 128 129
-  16                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 127 12 5
-  17                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 12 128 11
-  18                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 12 127 128
-  19                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 16 96 97
-  20                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 6 134 17
-  21                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 6 133 134
-  22                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 96 135 139
-  23                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 96 16 135
-  24                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 135 17 134
-  25                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 135 16 17
-  26                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 19 123 124
-  27                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 21 122 123
-  28                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 4 21 9
-  29                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 122 4 141
-  30                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 122 21 4
-  31                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 19 21 123
-  32                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 20 21 19
-  33                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 9 20 94
-  34                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 9 21 20
-  35                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 20 93 94
-  36                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 22 92 93
-  37                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 2 22 18
-  38                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 92 2 91
-  39                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 92 22 2
-  40                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 20 22 93
-  41                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 19 22 20
-  42                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 18 19 124
-  43                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 18 22 19
-  44                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 121 24 120
-  45                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 6 132 133
-  46                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 6 23 132
-  47                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 121 131 24
-  48                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 121 140 131
-  49                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 23 131 132
-  50                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 23 24 131
-  51                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 102 25 101
-  52                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 102 26 25
-  53                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 102 8 26
-  54                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 2 26 91
-  55                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 2 25 26
-  56                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 91 8 90
-  57                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 91 26 8
-  58                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 120 34 119
-  59                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 120 24 34
-  60                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 24 33 34
-  61                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 24 23 33
-  62                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 32 6 17
-  63                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 23 32 33
-  64                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 23 6 32
-  65                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 37 98 29
-  66                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 97 37 16
-  67                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 97 98 37
-  68                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 16 36 17
-  69                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 16 37 36
-  70                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 37 35 36
-  71                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 35 29 30
-  72                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 35 37 29
-  73                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 32 38 33
-  74                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 36 32 17
-  75                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 38 36 35
-  76                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 38 32 36
-  77                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 33 39 34
-  78                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 33 38 39
-  79                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 10 41 11
-  80                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 41 118 119
-  81                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 41 10 118
-  82                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 34 41 119
-  83                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 40 34 39
-  84                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 40 41 34
-  85                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 42 35 30
-  86                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 38 42 39
-  87                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 38 35 42
-  88                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 43 5 12
-  89                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 43 31 5
-  90                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 31 42 30
-  91                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 31 43 42
-  92                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 39 43 40
-  93                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 39 42 43
-  94                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 40 11 41
-  95                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 12 40 43
-  96                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 12 11 40
-  97                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 44 25 27
-  98                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 101 44 100
-  99                   | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 101 25 44
-  100                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 27 45 44
-  101                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 28 45 27
-  102                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 45 46 31
-  103                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 45 28 46
-  104                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 126 46 28
-  105                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 46 5 31
-  106                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 46 126 5
-  107                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 100 47 99
-  108                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 47 44 45
-  109                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 47 100 44
-  110                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 99 29 98
-  111                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 99 47 29
-  112                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 30 45 31
-  113                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 47 30 29
-  114                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 47 45 30
-  115                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 2 27 25
-  116                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 2 18 27
-  117                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 18 28 27
-  118                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 28 125 126
-  119                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 125 18 124
-  120                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 125 28 18
-  121                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 138 87 3
-  122                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 103 8 102
-  123                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 48 104 105
-  124                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 103 52 8
-  125                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 51 104 48
-  126                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 104 52 103
-  127                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 104 51 52
-  128                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 53 49 50
-  129                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 51 54 52
-  130                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 49 51 48
-  131                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 51 53 54
-  132                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 51 49 53
-  133                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 52 90 8
-  134                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 90 54 89
-  135                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 90 52 54
-  136                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 89 53 88
-  137                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 89 54 53
-  138                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 87 50 3
-  139                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 50 88 53
-  140                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 50 87 88
-  141                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 108 56 107
-  142                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 1 83 84
-  143                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 1 55 83
-  144                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 108 82 56
-  145                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 108 136 82
-  146                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 55 82 83
-  147                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 55 56 82
-  148                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 57 109 110
-  149                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 1 85 58
-  150                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 1 84 85
-  151                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 109 86 137
-  152                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 109 57 86
-  153                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 86 58 85
-  154                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 86 57 58
-  155                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 115 59 114
-  156                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 7 59 115
-  157                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 141 7 130
-  158                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 59 141 4
-  159                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 59 7 141
-  160                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 67 111 62
-  161                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 110 67 57
-  162                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 110 111 67
-  163                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 62 65 67
-  164                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 62 63 65
-  165                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 66 67 65
-  166                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 57 66 58
-  167                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 57 67 66
-  168                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 55 69 56
-  169                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 70 55 1
-  170                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 69 70 68
-  171                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 69 55 70
-  172                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 68 66 65
-  173                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 68 70 66
-  174                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 58 70 1
-  175                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 58 66 70
-  176                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 71 56 69
-  177                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 107 71 106
-  178                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 107 56 71
-  179                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 69 72 71
-  180                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 69 68 72
-  181                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 48 74 73
-  182                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 74 105 106
-  183                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 74 48 105
-  184                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 71 74 106
-  185                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 73 71 72
-  186                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 73 74 71
-  187                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 75 65 63
-  188                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 68 75 72
-  189                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 68 65 75
-  190                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 64 75 63
-  191                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 72 77 73
-  192                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 75 77 72
-  193                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 76 75 64
-  194                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 76 77 75
-  195                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 73 49 48
-  196                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 73 77 49
-  197                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 3 76 64
-  198                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 3 50 76
-  199                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 77 50 49
-  200                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 77 76 50
-  201                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 78 59 60
-  202                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 114 78 113
-  203                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 114 59 78
-  204                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 60 79 78
-  205                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 61 79 60
-  206                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 79 80 64
-  207                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 79 61 80
-  208                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 138 80 61
-  209                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 80 3 64
-  210                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 80 138 3
-  211                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 113 81 112
-  212                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 81 78 79
-  213                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 81 113 78
-  214                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 112 62 111
-  215                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 112 81 62
-  216                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 63 79 64
-  217                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 81 63 62
-  218                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 81 79 63
-  219                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 4 60 59
-  220                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 4 9 60
-  221                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 9 61 60
-  222                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 61 95 138
-  223                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 95 9 94
-  224                  | CTRIA3         | 2d_mesh(1)     | Thin Shell(1)  | 95 61 9
+  1                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 7 121 122
+  2                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 12 121 7
+  3                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 120 6 119
+  4                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 12 120 121
+  5                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 120 13 6
+  6                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 120 12 13
+  7                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 8 12 7
+  8                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 13 4 6
+  9                    | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 12 10 13
+  10                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 12 8 10
+  11                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 13 11 4
+  12                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 13 10 11
+  13                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 16 9 5
+  14                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 2 110 16
+  15                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 2 109 110
+  16                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 9 110 111
+  17                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 9 16 110
+  18                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 155 1 112
+  19                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 1 21 112
+  20                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 9 22 5
+  21                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 9 111 22
+  22                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 21 111 112
+  23                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 21 22 111
+  24                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 139 140 24
+  25                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 140 5 24
+  26                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 140 141 5
+  27                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 24 23 139
+  28                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 24 5 22
+  29                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 23 24 22
+  30                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 32 122 123
+  31                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 7 32 33
+  32                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 7 122 32
+  33                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 33 8 7
+  34                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 33 34 8
+  35                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 34 105 8
+  36                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 105 3 104
+  37                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 105 34 3
+  38                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 39 40 38
+  39                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 29 39 28
+  40                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 40 29 30
+  41                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 40 39 29
+  42                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 43 35 36
+  43                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 35 124 125
+  44                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 35 43 124
+  45                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 36 42 43
+  46                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 41 38 40
+  47                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 37 42 36
+  48                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 41 37 38
+  49                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 41 42 37
+  50                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 123 43 32
+  51                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 123 124 43
+  52                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 44 31 3
+  53                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 40 45 41
+  54                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 40 30 45
+  55                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 30 31 44
+  56                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 45 30 44
+  57                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 34 44 3
+  58                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 32 42 33
+  59                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 32 43 42
+  60                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 34 45 44
+  61                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 34 33 45
+  62                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 45 42 41
+  63                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 45 33 42
+  64                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 127 47 126
+  65                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 48 127 128
+  66                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 47 48 46
+  67                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 47 127 48
+  68                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 46 39 38
+  69                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 46 48 39
+  70                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 28 48 128
+  71                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 28 39 48
+  72                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 49 47 46
+  73                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 50 126 47
+  74                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 154 50 103
+  75                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 154 126 50
+  76                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 49 50 47
+  77                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 50 102 103
+  78                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 50 49 102
+  79                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 51 38 37
+  80                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 46 51 49
+  81                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 46 38 51
+  82                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 52 49 51
+  83                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 102 52 101
+  84                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 102 49 52
+  85                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 53 37 36
+  86                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 51 53 52
+  87                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 51 37 53
+  88                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 52 100 101
+  89                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 52 53 100
+  90                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 54 36 35
+  91                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 53 54 100
+  92                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 53 36 54
+  93                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 54 99 100
+  94                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 99 125 153
+  95                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 125 54 35
+  96                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 125 99 54
+  97                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 104 31 155
+  98                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 104 3 31
+  99                   | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 27 31 30
+  100                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 27 155 31
+  101                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 30 26 27
+  102                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 30 29 26
+  103                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 129 28 128
+  104                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 129 25 28
+  105                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 29 25 26
+  106                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 29 28 25
+  107                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 130 25 129
+  108                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 55 130 131
+  109                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 25 55 26
+  110                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 25 130 55
+  111                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 20 132 133
+  112                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 131 57 55
+  113                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 132 57 131
+  114                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 57 132 56
+  115                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 132 20 56
+  116                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 26 59 27
+  117                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 58 55 57
+  118                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 58 59 26
+  119                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 55 58 26
+  120                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 158 56 20
+  121                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 139 61 158
+  122                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 61 23 60
+  123                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 61 139 23
+  124                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 56 61 57
+  125                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 56 158 61
+  126                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 57 60 58
+  127                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 57 61 60
+  128                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 22 60 23
+  129                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 21 27 59
+  130                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 27 1 155
+  131                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 27 21 1
+  132                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 60 59 58
+  133                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 21 60 22
+  134                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 21 59 60
+  135                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 71 67 68
+  136                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 67 70 66
+  137                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 70 71 69
+  138                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 70 67 71
+  139                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 69 116 117
+  140                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 69 71 116
+  141                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 115 68 114
+  142                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 71 115 116
+  143                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 71 68 115
+  144                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 117 17 69
+  145                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 117 118 17
+  146                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 69 72 70
+  147                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 18 69 17
+  148                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 18 72 69
+  149                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 73 70 72
+  150                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 66 74 65
+  151                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 73 66 70
+  152                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 73 74 66
+  153                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 64 62 63
+  154                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 75 65 74
+  155                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 75 64 65
+  156                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 64 76 62
+  157                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 64 75 76
+  158                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 145 76 144
+  159                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 145 62 76
+  160                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 19 72 18
+  161                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 77 75 74
+  162                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 75 144 76
+  163                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 144 77 143
+  164                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 144 75 77
+  165                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 73 77 74
+  166                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 19 73 72
+  167                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 77 19 143
+  168                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 77 73 19
+  169                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 79 64 80
+  170                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 79 65 64
+  171                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 80 63 135
+  172                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 80 64 63
+  173                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 78 136 137
+  174                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 136 80 135
+  175                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 80 78 79
+  176                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 80 136 78
+  177                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 84 68 83
+  178                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 114 84 113
+  179                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 114 68 84
+  180                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 81 65 79
+  181                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 67 83 68
+  182                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 67 82 83
+  183                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 66 82 67
+  184                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 81 66 65
+  185                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 81 82 66
+  186                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 85 137 138
+  187                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 79 86 81
+  188                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 79 78 86
+  189                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 85 78 137
+  190                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 85 86 78
+  191                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 85 87 86
+  192                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 138 88 85
+  193                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 88 157 148
+  194                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 88 138 157
+  195                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 88 87 85
+  196                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 149 88 148
+  197                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 149 87 88
+  198                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 81 89 82
+  199                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 89 86 87
+  200                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 89 81 86
+  201                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 87 90 89
+  202                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 90 149 150
+  203                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 90 87 149
+  204                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 91 89 90
+  205                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 82 91 83
+  206                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 82 89 91
+  207                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 90 151 91
+  208                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 90 150 151
+  209                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 83 92 84
+  210                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 92 91 151
+  211                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 92 83 91
+  212                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 152 92 151
+  213                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 113 152 156
+  214                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 92 113 84
+  215                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 92 152 113
+  216                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 63 134 135
+  217                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 93 134 63
+  218                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 133 93 20
+  219                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 133 134 93
+  220                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 62 93 63
+  221                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 62 146 93
+  222                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 62 145 146
+  223                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 20 147 158
+  224                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 147 93 146
+  225                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 147 20 93
+  226                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 19 142 143
+  227                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 16 95 2
+  228                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 94 142 19
+  229                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 16 96 95
+  230                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 96 5 141
+  231                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 96 16 5
+  232                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 96 94 95
+  233                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 142 96 141
+  234                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 142 94 96
+  235                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 108 97 15
+  236                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 97 2 95
+  237                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 109 97 108
+  238                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 109 2 97
+  239                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 18 94 19
+  240                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 98 95 94
+  241                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 98 97 95
+  242                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 15 98 14
+  243                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 15 97 98
+  244                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 14 17 118
+  245                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 14 98 17
+  246                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 18 98 94
+  247                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 18 17 98
+  248                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 105 10 8
+  249                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 105 106 10
+  250                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 4 107 108
+  251                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 4 11 107
+  252                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 107 11 106
+  253                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 11 10 106
+  254                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 4 15 6
+  255                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 4 108 15
+  256                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 119 14 118
+  257                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 14 6 15
+  258                  | CTRIA3         | 2d_mesh(1)     | Thin Shell abs | 14 119 6
  
 ------------------------------------------------------------
  

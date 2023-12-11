@@ -14,13 +14,24 @@ function visualisar_malha_simples(x, y, tri, numeros_dos_elementos_e_nos)
         end
         
         if numeros_dos_elementos_e_nos
-            for j = 1:length(nos)
-                text(x(nos(j)) + 40, y(nos(j)) + 40, horzcat(num2str(nos(j))), "fontsize", 7.5)
-            end
+            if length(tri(1,:)) == 6
+                for j = 1:length(nos)
+                    text(x(nos(j)) + 40, y(nos(j)) + 40, horzcat(num2str(nos(j))), "fontsize", 7.5)
+                end
     
-            xm = (x(nos(1)) + x(nos(3)) + x(nos(5))) / 3;
-            ym = (y(nos(1)) + y(nos(3)) + y(nos(5))) / 3;
-            text(xm, ym, horzcat(num2str(i)), "fontsize", 10)
+                xm = (x(nos(1)) + x(nos(3)) + x(nos(5))) / 3;
+                ym = (y(nos(1)) + y(nos(3)) + y(nos(5))) / 3;
+                text(xm, ym, horzcat(num2str(i)), "fontsize", 10)
+            else
+                for j = 1:length(nos)
+                    text(x(nos(j)) + 40, y(nos(j)) + 40, horzcat(num2str(nos(j))), "fontsize", 7.5)
+                end
+    
+                xm = (x(nos(1)) + x(nos(2)) + x(nos(3))) / 3;
+                ym = (y(nos(1)) + y(nos(2)) + y(nos(3))) / 3;
+                text(xm, ym, horzcat(num2str(i)), "fontsize", 10)
+            end
+            
         end
 
         plot(x(nos), y(nos), 'b');hold on
